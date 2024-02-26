@@ -324,7 +324,7 @@ Generation tasks
     <th class="tg-uzvj"><span style="font-weight:bold;color:#000">10.18</span></th>
   </tr>
   <tr>
-    <th class="tg-lboi"><span style="color:#000">ROUGE</span></td>
+    <td class="tg-lboi"><span style="color:#000">ROUGE</span></td>
     <th class="tg-uzvj"><span style="font-weight:bold;color:#000">46.35</span></th>
     <th class="tg-uzvj"><span style="font-weight:bold;color:#000">43.22</span></th>
     <th class="tg-uzvj"><span style="font-weight:bold;color:#000">32.87</span></th>
