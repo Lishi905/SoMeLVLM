@@ -142,7 +142,7 @@ Classification tasks
   <tr>
     <td class="tg-0pky"><span style="color:#000">SoMeLVLM</span></td>
     <th class="tg-7btt"><span style="font-weight:bold;color:#000">72.57</span></th>
-    <td class="tg-7btt"><span style="color:#000">72.57</span></td>
+    <th class="tg-7btt"><span style="color:#000">72.57</span></th>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">82.60</span></td>
     <th class="tg-7btt"><span style="font-weight:bold;color:#000">82.60</span></th>
     <th class="tg-7btt"><span style="font-weight:bold;color:#000">84.07</span></th>
@@ -316,30 +316,30 @@ Generation tasks
   <tr>
     <td class="tg-lboi" rowspan="3"><span style="color:#000">SoMeLVLM</span></td>
     <td class="tg-lboi"><span style="color:#000">BLEU</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">31.04</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">24.06</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">14.49</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">37.65</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">24.08</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">10.18</span></td>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">31.04</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">24.06</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">14.49</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">37.65</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">24.08</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">10.18</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi"><span style="color:#000">ROUGE</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">46.35</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">43.22</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">32.87</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">53.87</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">41.04</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">31.03</span></td>
+    <th class="tg-lboi"><span style="color:#000">ROUGE</span></td>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">46.35</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">43.22</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">32.87</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">53.87</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">41.04</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">31.03</span></th>
   </tr>
   <tr>
     <td class="tg-lboi"><span style="color:#000">GPT</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">3.21</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">2.94</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">2.86</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">3.53</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">3.39</span></td>
-    <td class="tg-uzvj"><span style="font-weight:bold;color:#000">3.45</span></td>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">3.21</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">2.94</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">2.86</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">3.53</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">3.39</span></th>
+    <th class="tg-uzvj"><span style="font-weight:bold;color:#000">3.45</span></th>
   </tr>
 </tbody>
 </table>
@@ -378,7 +378,7 @@ Classification tasks
   <tr>
     <td class="tg-cly1"><span style="color:#000">Llama2-7b-chat</span></td>
     <td class="tg-nrix">40.54</td>
-    <td class="tg-wa1i"><span style="font-weight:bold">61.31</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold">61.31</span></th>
     <td class="tg-8b8f"><span style="text-decoration:underline">53.77</span></td>
     <td class="tg-nrix">41.11</td>
     <td class="tg-nrix">12.84</td>
@@ -394,19 +394,19 @@ Classification tasks
     <td class="tg-nrix">47.21</td>
     <td class="tg-8b8f"><span style="text-decoration:underline">14.67</span></td>
     <td class="tg-nrix">30.07</td>
-    <td class="tg-wa1i"><span style="font-weight:bold">68.44</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold">68.44</span></th>
     <td class="tg-8b8f"><span style="text-decoration:underline">48.23</span></td>
   </tr>
   <tr>
     <td class="tg-cly1"><span style="color:#000">SoMeLVLM</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold">80.66</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold">80.66</span></th>
     <td class="tg-8b8f"><span style="text-decoration:underline">60.47</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold">61.70</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold">70.38</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold">22.20</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold">45.23</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold">61.70</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold">70.38</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold">22.20</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold">45.23</span></th>
     <td class="tg-nrix">43.52</td>
-    <td class="tg-wa1i"><span style="font-weight:bold">55.39</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold">55.39</span></th>
   </tr>
 </tbody>
 </table>
@@ -545,39 +545,39 @@ Generation tasks
   <tr>
     <td class="tg-nrix" rowspan="3"><span style="color:#000">SoMeLVLM</span></td>
     <td class="tg-nrix"><span style="color:#000">BLEU</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">26.96</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">13.81</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">23.77</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">17.24</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">14.60</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">12.37</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">27.13</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">23.54</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">44.09</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">26.96</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">13.81</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">23.77</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">17.24</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">14.60</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">12.37</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">27.13</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">23.54</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">44.09</span></th>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="color:#000">ROGUE</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">51.88</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">42.84</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">45.42</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">43.10</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">39.49</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">39.06</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">47.76</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">45.47</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">61.96</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">51.88</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">42.84</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">45.42</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">43.10</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">39.49</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">39.06</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">47.76</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">45.47</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">61.96</span></th>
   </tr>
   <tr>
     <td class="tg-nrix"><span style="color:#000">GPT</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.63</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.38</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.02</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.64</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.43</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.59</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">2.89</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.28</span></td>
-    <td class="tg-wa1i"><span style="font-weight:bold;color:#000">3.41</span></td>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.63</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.38</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.02</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.64</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.43</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.59</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">2.89</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.28</span></th>
+    <th class="tg-wa1i"><span style="font-weight:bold;color:#000">3.41</span></th>
   </tr>
 </tbody>
 </table>
