@@ -107,13 +107,13 @@ Classification tasks
     <td class="tg-c3ow"><span style="color:#000">53.48</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">53.48</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">99.15</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">95.69</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">95.69</span></th>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="color:#000">Llava</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">53.35</span></td>
     <td class="tg-c3ow"><span style="color:#000">9.79</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">84.67</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">84.67</span></th>
     <td class="tg-c3ow"><span style="color:#000">25.40</span></td>
     <td class="tg-c3ow"><span style="color:#000">72.49</span></td>
     <td class="tg-c3ow"><span style="color:#000">6.69</span></td>
@@ -141,17 +141,17 @@ Classification tasks
   </tr>
   <tr>
     <td class="tg-0pky"><span style="color:#000">SoMeLVLM</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">72.57</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">72.57</span></th>
     <td class="tg-7btt"><span style="color:#000">72.57</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">82.60</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">82.60</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">84.07</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">82.60</span></th>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">84.07</span></th>
     <td class="tg-c3ow"><span style="color:#000">67.33</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">63.50</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">63.47</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">73.24</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">55.06</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">100.00</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">63.50</span></th>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">63.47</span></th>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">73.24</span></th>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">55.06</span></th>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">100.00</span></th>
     <td class="tg-c3ow"><span style="color:#000">61.11</span></td>
   </tr>
 </tbody>
