@@ -101,7 +101,7 @@ Classification tasks
     <td class="tg-c3ow"><span style="color:#000">80.60</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">80.60</span></td>
     <td class="tg-zw5y"><span style="text-decoration:underline;color:#000">81.83</span></td>
-    <td class="tg-7btt"><span style="font-weight:bold;color:#000">80.89</span></td>
+    <th class="tg-7btt"><span style="font-weight:bold;color:#000">80.89</span></th>
     <td class="tg-c3ow"><span style="color:#000">57.73</span></td>
     <td class="tg-c3ow"><span style="color:#000">57.73</span></td>
     <td class="tg-c3ow"><span style="color:#000">53.48</span></td>
