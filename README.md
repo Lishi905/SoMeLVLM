@@ -19,9 +19,9 @@ Model weights: **huggingface space here**
 ## Table of Contents
 
 - [Abstract](#Abstract)
-- [Experiment Results](#Experiment Results)
+- [Experiment Results](#Experiment-Results)
 - [Reproduction](#Reproduction)
-- [Ethics Statement](#Ethics Statement)
+- [Ethics Statement](#Ethics-Statement)
 - [Citation](#Citation)
 
 ## Abstract
