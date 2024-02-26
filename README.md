@@ -8,13 +8,11 @@ More Resources can be found on SoMeLVLM website: **website here**
 
 ## Datasets & Model Weights
 
-For datasets and model weights: **huggingface space here**
+Model weights: [Lishi0905/SoMeLVLM · Hugging Face](https://huggingface.co/Lishi0905/SoMeLVLM)
 
-Plain text SFT & Eval datasets: **huggingface space here**
+Plain text SFT & Eval datasets: **coming soon**
 
-Multimodal SFT & Eval datasets: **huggingface space here**
-
-Model weights: **huggingface space here**
+Multimodal SFT & Eval datasets: **coming soon**
 
 ## Table of Contents
 
