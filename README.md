@@ -17,6 +17,7 @@ Multimodal SFT & Eval datasets: **coming soon**
 ## Table of Contents
 
 - [Abstract](#Abstract)
+- [Datasets](#Datasets)
 - [Experiment Results](#Experiment-Results)
 - [Reproduction](#Reproduction)
 - [Ethics Statement](#Ethics-Statement)
@@ -25,6 +26,185 @@ Multimodal SFT & Eval datasets: **coming soon**
 ## Abstract
 
 The growth of social media, characterized by its multimodal nature, has led to the emergence of diverse phenomena and challenges, which calls for an effective approach to uniformly solve automated tasks. The powerful Large Vision Language Models make it possible to handle a variety of tasks simultaneously, but even with carefully designed prompting methods, the general domain models often fall short in aligning with the unique speaking style and context of social media tasks. In this paper, we introduce **a Large Vision Language Model for Social Media Processing (SoMeLVLM)**, which is a cognitive framework equipped with five key capabilities including **knowledge & comprehension**, **application**, **analysis**, **evaluation**, and **creation**. SoMeLVLM is designed to understand and generate realistic social media behavior. We have developed a 654k multimodal social media instruction-tuning dataset to support our cognitive framework and fine-tune our model. Our experiments demonstrate that SoMeLVLM achieves **state-of-the-art** performance in multiple social media tasks. Further analysis shows its significant advantages over baselines in terms of cognitive abilities.
+
+## Datasets
+
+We have develop a **654k** social media dataset **SoMeData**, which consists of five cognitive modules and various CSS task categories.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nrix">Module</th>
+    <th class="tg-nrix">Category</th>
+    <th class="tg-nrix">DataSize(SFT &amp; Eval)</th>
+    <th class="tg-nrix">Data Type</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="13">Knowledge &amp; Comprehension</td>
+    <td class="tg-nrix" rowspan="2">Emotion</td>
+    <td class="tg-nrix">45.0k &amp; 5.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">20.3k &amp; 1.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Humor</td>
+    <td class="tg-nrix">18.0k &amp; 8.3k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Figurative Language</td>
+    <td class="tg-nrix"><span style="color:#000">12.5k &amp; 4.6k</span></td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Misinformation</td>
+    <td class="tg-nrix">24.4k &amp; 2.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:#000">6.5k &amp; 0.5k</span></td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Hate Speech &amp; Toxicity</td>
+    <td class="tg-nrix">44.1k &amp; 6.3k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">13.8k &amp; 1.4k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Ideology &amp; Stance</td>
+    <td class="tg-nrix">24.0k &amp; 3.5k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">1.6k &amp; 0.3k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Truthworthiness &amp; Social Bias</td>
+    <td class="tg-nrix">11.0k &amp; 3.2k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2">Social_factors</td>
+    <td class="tg-nrix">16.2k &amp; 2.5k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">40.0k &amp; 1.0k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="6">Applying</td>
+    <td class="tg-nrix">Emotion</td>
+    <td class="tg-nrix"><span style="color:#000">20.0k &amp; 5.0k</span></td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Humor</td>
+    <td class="tg-nrix">15.0k &amp; 6.1k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:#000">Hate Speech &amp; Toxicity</span></td>
+    <td class="tg-nrix">29.6k &amp; 16.2k</td>
+    <td class="tg-nrix"><span style="color:#000">Text</span></td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Ideology &amp; Stance</td>
+    <td class="tg-nrix">4.3k &amp; 1.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:#000">Truthworthiness &amp; Social Bias</span></td>
+    <td class="tg-nrix">30.0k &amp; 0.9k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Social_factors</td>
+    <td class="tg-nrix">50.0k &amp; 1.0k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="4">Analysis</td>
+    <td class="tg-nrix">Figurative Language</td>
+    <td class="tg-nrix">30.0k &amp; 2.2k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Emotion</td>
+    <td class="tg-nrix">20.3k &amp; 1.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix"><span style="color:#000">Hate Speech &amp; Toxicity</span></td>
+    <td class="tg-nrix">13.8k &amp; 1.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Social_factors</td>
+    <td class="tg-nrix">15.0k &amp; 0.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="5">Evaluation</td>
+    <td class="tg-nrix">Ideology &amp; Stance</td>
+    <td class="tg-nrix">1.6k &amp; 0.3k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="2"><span style="color:#000">Misinformation</span></td>
+    <td class="tg-nrix">2.0k &amp; 0.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">6.5k &amp; 0.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Detoxifying Content</td>
+    <td class="tg-nrix">25.0k &amp; 9.9k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Depolarizing Language</td>
+    <td class="tg-nrix">4.3k &amp; 1.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix" rowspan="3">Creation</td>
+    <td class="tg-nrix">Invert Opinion</td>
+    <td class="tg-nrix">1.0k &amp; 0.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Reverse ideology</td>
+    <td class="tg-nrix">4.3k &amp; 1.0k</td>
+    <td class="tg-nrix">Text</td>
+  </tr>
+  <tr>
+    <td class="tg-nrix">Social_factors</td>
+    <td class="tg-nrix">25k &amp; 0.5k</td>
+    <td class="tg-nrix">Multi</td>
+  </tr>
+</tbody>
+</table>
 
 ## Experiment Results
 
