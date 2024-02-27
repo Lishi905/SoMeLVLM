@@ -1,6 +1,6 @@
 # SoMeLVLM: A Large Vision Language Model for Social Media Processing
 
-This is the repository for the preprint paper [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). Xinnong Zhang(**homepage**), Haoyu Kuang(**homepage**)
+This is the repository for the preprint paper: [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). [Xinnong Zhang\*](lishi905.github.io), Haoyu Kuang\*(**homepage**)
 
 More Resources can be found on SoMeLVLM website: **website here**
 
@@ -588,7 +588,65 @@ Comprehensive analysis according to the cognitive abilities.
 
 ## Reproduction
 
+### Inference
 
+1. The overall project is based on the [LAVIS](https://github.com/salesforce/LAVIS) by Salesforce. To reproduce SoMeLVLM, you may prepare LAVIS environment first:
+
+    ```
+    conda create -n SoMeLVLM python=3.8
+    conda activate SoMeLVLM
+    git clone https://github.com/salesforce/LAVIS.git
+    cd LAVIS
+    pip install -e .
+    ```
+
+    Notice that we will modify model config during the inference, so we recommend to install LAVIS via git.
+
+    The following steup 2 & 3 can be refered in the "Adding Models" section in the [LAVIS Doc](https://opensource.salesforce.com/LAVIS//latest/tutorial.models.html).
+
+2. Add **SoMeLVLM.yaml** to lavis model config in ./LAVIS/lavis/configs/models/blip2/ directory.
+
+3. Register SoMeLVLM to original blip2_vicuna_instruct:
+
+    ```python
+    (line 29)
+    PRETRAINED_MODEL_CONFIG_DICT = {
+            "vicuna7b": "configs/models/blip2/blip2_instruct_vicuna7b.yaml",
+            "vicuna13b": "configs/models/blip2/blip2_instruct_vicuna13b.yaml",
+            "SoMeLVLM": "configs/models/blip2/SoMeLVLM.yaml"
+        }
+    ```
+
+4. Prepare model weights from [Huggingface](https://huggingface.co/Lishi0905/SoMeLVLM):
+
+    - **checkpoint.pth** for connection module;
+    - **others** for base language model, which should be under the ./llm/SoMeLVLM/ directory.
+
+5. Load SoMeLVLM Model:
+
+    ```python
+    import torch
+    from PIL import Image
+    from lavis.models import load_model_and_preprocess
+    
+    device = torch.device("cuda") if torch.cuda.is_available() else "cpu"
+    model, vis_processors, _ = load_model_and_preprocess(name="blip2_vicuna_instruct", model_type="SoMeLVLM", is_eval=True, device=device)
+    # load connection module checkpoint
+    model.load_checkpoint(checkpoint_path)
+    ```
+
+6. Start inference:
+
+    ```python
+    raw_image = Image.open('your/img/path').convert("RGB")
+    image = vis_processors["eval"](raw_image).unsqueeze(0).to(device)
+    prompt = "your prompt here."
+    answer = model.generate({"image": image, "prompt": prompt})[0]
+    ```
+
+### Fine-tuning
+
+Coming soon after the release of datasets.
 
 ## Ethics Statement
 
