@@ -777,19 +777,18 @@ Comprehensive analysis according to the cognitive abilities.
 
     The following steup 2 & 3 can be refered in the "Adding Models" section in the [LAVIS Doc](https://opensource.salesforce.com/LAVIS//latest/tutorial.models.html).
 
-2. Add **SoMeLVLM.yaml** to lavis model config in ./LAVIS/lavis/configs/models/blip2/ directory.
+2. Add **SoMeLVLM.yaml** to lavis model config in *./LAVIS/lavis/configs/models/blip2/* directory.
 
-3. Register SoMeLVLM to original blip2_vicuna_instruct:
+3. Register SoMeLVLM to original blip2_vicuna_instruct at  *./LAVIS/lavis/models/blip2_models/blip2_vicuna_instruct.py*, Line29:
 
     ```python
-    (line 29)
     PRETRAINED_MODEL_CONFIG_DICT = {
             "vicuna7b": "configs/models/blip2/blip2_instruct_vicuna7b.yaml",
             "vicuna13b": "configs/models/blip2/blip2_instruct_vicuna13b.yaml",
             "SoMeLVLM": "configs/models/blip2/SoMeLVLM.yaml"
         }
     ```
-
+    
 4. Prepare model weights from [Huggingface](https://huggingface.co/Lishi0905/SoMeLVLM):
 
     - **checkpoint.pth** for connection module;
