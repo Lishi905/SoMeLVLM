@@ -1,6 +1,6 @@
 # SoMeLVLM: A Large Vision Language Model for Social Media Processing
 
-This is the repository for the preprint paper: [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). [Xinnong Zhang\*](lishi905.github.io), Haoyu Kuang\*(**homepage**)
+This is the repository for the preprint paper: [SoMeLVLM: A Large Vision Language Model for Social Media Processing](https://arxiv.org/abs/2402.13022). [Xinnong Zhang\*](lishi905.github.io), [Haoyu Kuang\*](haoyuk.github.io)
 
 More Resources can be found on SoMeLVLM website: **website here**
 
