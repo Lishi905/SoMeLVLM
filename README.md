@@ -29,7 +29,7 @@ The growth of social media, characterized by its multimodal nature, has led to t
 
 ## Datasets
 
-We have develop a **654k** social media dataset **SoMeData**, which consists of five cognitive modules and various CSS task categories.
+We have developed a **654k** social media dataset **SoMeData**, which consists of five cognitive modules and various CSS task categories.
 
 
 <table class="tg">
@@ -826,7 +826,7 @@ The data used in this paper are from real users in diverse social media platform
 
 ## Citation
 
-If you find our SoMeLVLM or datasets useful, we will greatly appreacite it if you could consider citing our paper:
+If you find our SoMeLVLM or datasets useful, we will greatly appreciate it if you could consider citing our paper:
 
 ```
 @article{zhang2024somelvlm,
