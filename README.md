@@ -8,7 +8,7 @@ More Resources can be found on [SoMeLVLM HomePage](https://somelvlm.github.io).
 
 ## Datasets & Model Weights
 
-Model weights (private now): [Lishi0905/SoMeLVLM · Hugging Face](https://huggingface.co/Lishi0905/SoMeLVLM)
+Model weights: [Lishi0905/SoMeLVLM · Hugging Face](https://huggingface.co/Lishi0905/SoMeLVLM)
 
 Plain text SFT & Eval datasets: **coming soon**
 
