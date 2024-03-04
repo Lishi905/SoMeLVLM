@@ -763,22 +763,30 @@ Comprehensive analysis according to the cognitive abilities.
 
 ### Knowledge & Comprehension
 
-<video id="knowledge" autoplay muted loop playsinline width="90%">
+<!-- <video id="knowledge" autoplay muted loop playsinline width="90%">
   <source src="./assets/demo2.mp4"  type="video/mp4">
-</video>
+</video> 
+https://github.com/Lishi905/SoMeLVLM/assets/136311380/195d2952-7484-477a-b44a-fc57af39dab2-->
+
+![exam_knowledge](./assets/demo1.gif)
 
 ### Analysis
 
-<video id="analysis" autoplay muted loop playsinline width="90%">
+<!--<video id="analysis" autoplay muted loop playsinline width="90%">
   <source src="./assets/demo3.mp4"  type="video/mp4">
-</video>
+ </video>
+https://github.com/Lishi905/SoMeLVLM/assets/136311380/61703d28-c655-4ffc-88ac-c86eafa1244e -->
+
+![exam_analysis](./assets/demo2.gif)
 
 ### Creation
 
-<video id="creation" autoplay muted loop playsinline width="90%">
+<!--<video id="creation" autoplay muted loop playsinline width="90%">
   <source src="./assets/demo1.mp4"  type="video/mp4">
-</video>
+ </video> 
+https://github.com/Lishi905/SoMeLVLM/assets/136311380/0ba611c3-a661-4143-9df2-548b51cc045f -->
 
+![exam_creation](./assets/demo3.gif)
 
 ## Reproduction
 
