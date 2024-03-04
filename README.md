@@ -763,20 +763,20 @@ Comprehensive analysis according to the cognitive abilities.
 
 ### Knowledge & Comprehension
 
-<video id="example_4" autoplay muted loop playsinline width="100%">
-  <source src="./assets/demo2.mp4" type="video/mp4">
+<video id="knowledge" autoplay muted loop playsinline width="90%">
+  <source src="./assets/demo2.mp4"  type="video/mp4">
 </video>
 
 ### Analysis
 
-<video id="example_5" autoplay muted loop playsinline width="100%">
-  <source src="./assets/demo3.mp4" type="video/mp4">
+<video id="analysis" autoplay muted loop playsinline width="90%">
+  <source src="./assets/demo3.mp4"  type="video/mp4">
 </video>
 
 ### Creation
 
-<video id="example_6" autoplay muted loop playsinline width="100%">
-  <source src="./assets/demo1.mp4" type="video/mp4">
+<video id="creation" autoplay muted loop playsinline width="90%">
+  <source src="./assets/demo1.mp4"  type="video/mp4">
 </video>
 
 
