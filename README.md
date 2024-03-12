@@ -10,9 +10,7 @@ More Resources can be found on [SoMeLVLM HomePage](https://somelvlm.github.io).
 
 Model weights: [Lishi0905/SoMeLVLM · Hugging Face](https://huggingface.co/Lishi0905/SoMeLVLM)
 
-Plain text SFT & Eval datasets: **coming soon**
-
-Multimodal SFT & Eval datasets: **coming soon**
+Plain text & Multimodal datasets: [Request Form](https://forms.gle/h4UCzUxPCE3pjo9e9)
 
 ## Table of Contents
 
