@@ -843,9 +843,6 @@ https://github.com/Lishi905/SoMeLVLM/assets/136311380/0ba611c3-a661-4143-9df2-54
     answer = model.generate({"image": image, "prompt": prompt})[0]
     ```
 
-### Fine-tuning
-
-Coming soon after the release of datasets.
 
 ## Ethics Statement
 
