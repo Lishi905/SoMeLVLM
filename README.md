@@ -4,7 +4,7 @@ This is the repository for the preprint paper: [SoMeLVLM: A Large Vision Languag
 
 More Resources can be found on [SoMeLVLM HomePage](https://somelvlm.github.io).
 
-**🎉🎉🎉\[News 20240516\] SoMeLVLM has been accepted to ACL 2024 Findings💫**
+**🎉🎉🎉\[News 2024/05/16\] SoMeLVLM has been accepted to ACL 2024 Findings!**
 
 ![framework3](./assets/framework3.jpg)
 
