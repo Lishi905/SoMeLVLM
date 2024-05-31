@@ -1,0 +1,2002 @@
+[
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "532d52bc48f63c78.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "7784c36cbb466456.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "a97813967b8e2e68.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "83fafdd21d2ca019.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "31f0cb69648f3c27.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "9966669826d16eab.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "4303fcbd2c5706f1.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "39e00f3dc0f2e3e8.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "99c578a14ab653e5.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "794f4cef0e09e407.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "3d3663c3c9dc3132.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "75d8cb2791d461b1.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "25acdaf94d4ae154.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "9babe7784d642158.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f5f6424242c6c6f6.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "d7abb903a9416cf0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "d53cf4e00b2be01f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "2d6296ea925a695e.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "7f81a17896f0897c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5bd89d0a75628c9d.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f1c00f7f03efc0d0.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "79696075be2a6349.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "f1fef0410ba4a359.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "e5b4b96c2d0b4393.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "553e97e160bb9306.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "9556a9896b692d69.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "2767273d585a4a4b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "5183fd02d2e82ddd.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "a7d2281fde8ce461.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "2df3d32ca24c31cb.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "fb2125ff5136ac01.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "9b7c2703798903f9.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7589e14b138ee36c.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "dd79b0d166ca8899.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "31bc8dadb4a97223.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "ffa00167f3c9ce01.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "6336a4c89f6fd092.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "cdcc819eba039e69.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f919d6462da25665.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "673309d3996d9989.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "e169ce492f36460f.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "2b9811e7af50c86f.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "55771498a1a7567c.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "fd0c498db40e2eb6.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f50a2a4ede2e5aa4.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "f52d0f6d07290b69.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "d3a92e48d6965aa9.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "b50f0af5032dcd5a.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "a779c3d398383466.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "31e22d3c5afc035e.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "fd2b160b8d78a15c.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "fb3f60870f43c291.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "cd182f34734b66a5.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "3f81f03f42e0999d.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "9313f94c32b89f70.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "cba07c1ed68cb62c.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "0739f08678e0f979.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "772509da54b63b89.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "ed9939cc311b6439.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "f1e00f0f2fe0e01f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "c7cb4e29303dd872.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "59eda71a8343acd2.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "f52b0bd40b2be14b.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "755181b638e07e8f.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "1b0fe6a56179b950.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "57b3b9d878666904.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "5be5c728ad0b6196.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "315ba44c36739e99.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "770ae1c3ec3d3382.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "5dc94dd63187c3b0.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "d9c92632ce6626ce.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "910a279479479ff1.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "b76919b4c89999c6.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "fd07b9f807788702.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "3585f14a671bc713.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "f78961389be48a1d.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "6d598369b3a17323.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0100a9ff5603f7de.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "d56829a179962b1f.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "d747864ba9ab8b84.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "d5c00d0f8d76f472.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "09000098ff7f7fc7.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "7120e9fc161ba7e4.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f1a10f3e07d6f0c2.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "d5acf943811b478b.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "8d8632f3a5784f68.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "234dcd22329dcdd5.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0b1f36a4a1d3437e.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "37a7a5145a579199.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "a7b109cacd699e89.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "55be16b3a14cab32.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "f356f3967003d449.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "1f32e2dfd824b432.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "57dc39728933078b.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "75e9e934e6348b60.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "a74d0c2451f3f3c3.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f11c0fc70f50567c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "850009a4fe5bb6ef.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "339e89b421fe01e7.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "13b345e7dc23964c.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "49b5032fae9c1b72.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "cd8d1dcccc1f0fc0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "a3097ff8cc572191.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "2b3f1e3ba7c0e0e0.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "55bd8b843cd09f43.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f52c3dd20d78c30d.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "e5d8e7e160b0c84f.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "0f2bf0d85e4ca99c.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "575c86c6c796a526.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "a1e5de5242adada1.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "79994226c676c6b6.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "5f31892bc14f44f9.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "d55029a54b5e966b.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "55eb3e0dc2e18369.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c3056e7c74c3c359.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "234cfca41ce3c373.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "0fa769790bd48a1d.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "f74956308af62c4b.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "5b2f86f3f184a470.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "8778669262daae2e.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "550f8bf07668c98b.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "83939b58983e7a1b.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "ed2e46ec8d46074e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "d90316b6e3b1b471.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "bb166b03d92f033c.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "fdc80e068672f8f4.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "577427f8f08c5962.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "ab5256b97c83f00d.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "33d86d26898f1ce9.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "57b887a63dc23952.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c5434caeae45dab1.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "21d5cd603a8ec7d3.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "0757e5852ee8566c.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "e59739474ff082a8.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "6b02875ffca604f8.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "3dc14bb4c72ec14e.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "11fed656816fe304.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "f57009e169f43c69.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "350d84d61e7e7272.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "dd70099976866b8e.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "9f8c6372ad4a6133.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "995966a679999926.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "d7d66d29b1a18c46.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7df5437c0b870307.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "8100aed8877c7bf6.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "d56329c81bf4c678.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "f11eaba9c45c0fa1.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f7090972893eb6a9.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "79f0f92d218786c3.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "4db5620cf3b5487a.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "097c5693ef71494c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "592882dabcde3c8e.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "6316ac59222e9bdd.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "3dd98189d66707c3.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f930b8f927074707.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "f75745ac812bb581.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "75b3adf04f488643.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "d503a1defed45884.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "3dc349b44f31c33c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "5153a00276f45ff9.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "d552adad2d0c2ea9.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "fd8902e449d9ec4d.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "fd78313a1519aa39.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f10fc0ec0de0ff12.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "99637316a58c5aad.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "1f1fe0c07ee8e0a9.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0b377653e32f0916.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "111a9be96567e1d4.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "83ddf40b60bf406b.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "17058aca5af2f2b5.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "65229b1a9b9b6e98.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "896c9ee266da079a.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "f5fc0f81780bac2c.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f3db0c354c84e34e.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "db76a09e6c4c9e82.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "e1791f80a97a728d.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "f7411d9da462638e.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "87035d1f92bc39d1.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "4510396d5e1a6eaf.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "456dbab2de982471.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "a9f84268dba61e1e.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "993877538e0787cc.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "370d6c12ede9c22d.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "8dd1f1649cd16b2c.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cf8a31e3c1b41ecc.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "c1aa4646eedcc0de.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "13b172de3547bc06.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "dd3427a2595e592c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "3779d79185c82b25.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "d7392d2952d65329.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "b9265b0bc79a5929.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "7519e10f927859ec.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "e94a6d2706f613b8.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f5d4179c5d0e6149.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "bb002fa3839e93b6.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "1b0fc6c6a124bd73.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "b7448795922f52cd.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5d307c3998b838cf.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "117e6a5ee13ea10d.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "676394278d5932d9.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "5bd8c9ca4a6d2716.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "b5434cb64b37c538.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "758189f84d7c998d.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "1756290dceee28cb.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cd721661a11feb46.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "c5d81984797ba633.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "e10e49a7b537a629.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "2956a62dd6936cc6.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f7fda8094040edad.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "533d07e8c2f29b68.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "e5503aaff5500aae.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cf133c4f90a926ad.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "6b78069f789386b2.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "89ea65dcdc345654.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "29c5d37a86855a5e.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f50bdddd0b01f091.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "d7d60b83d2296969.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "fffe0101a1015e7e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "59465730a7d0b7d4.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "0b1d44e1fa3b7c49.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "cdbb3225f89287c4.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "015e1fe01e3fd11e.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c9892574436e9bba.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "973dc2642fc3642b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "19fa9c33d4a66e30.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "b9548fd7612217e8.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "0f39976549d3a22d.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "b76969990ec47313.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f5ba02021ab8fcf5.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "c1da19e66635fe01.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "931de2931cdc5b0b.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "430d1bcee385dc66.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "59b0de664664a4be.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "a12f5ed0b12f6e50.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "eb74c68f0e02f0f8.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "010001547dfffe6f.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "512913ae56de792c.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "09803c8fecf0e9f9.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "23b54849ff229f16.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "b5616cb64b16c63c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "3d936db4984b338c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "9d14296bc7d4e307.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "bd2745c2783a3563.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "c711eeb001c71fd6.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "fd0103fc1323ee33.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "c90f167e92907e36.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "9fd3e04c2ca49cf2.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5d5fa3a25220f8dc.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "8ff37208f823303f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "df1e07c5da1b0354.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "3dc3c21748d387e6.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "f9f96bc286870b41.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "f906077c46cecc47.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "39239bec3099ec36.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "2d28c3c49fb164bb.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "8f1fd3ca3ac94078.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "8f8e71713269d8c9.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0b2507afb68e9f14.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "e58349c44a39b7cd.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "bd4b40a4a9593f8d.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "5f838162ebb4790d.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "936d1913ed0196ee.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "c1d63771730d0dc6.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "bb6d570622d6aa54.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "9d1e23f02361cfa3.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "9d276651ad5ab348.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "db75dd6734c0100f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "75137385ce1007bf.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "1d614b96277bc932.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "99744ef433ec9823.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f55019e41b7a869b.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7f798619c91b1986.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "956b84695d956b94.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "0bdbc52501bf1a5e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "e149e6ae0b52f594.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "dd81a1d8a9e6986d.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c3806f78c31ec177.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "75c8266c292d676b.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "a91e9d5b451d9534.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "4b7a034aabb5b552.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0b560f0b1ef6171b.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "f3cf0c21cb3c7886.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "c5a70f3b234938d9.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "a9aa5c53095b56b6.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "89d51233e55f9b0c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "555429a9c6d62e3e.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "dd12476633cc89b9.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "712bbadd104a78e6.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "571ea8e6a898b83e.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "0db14ec636c936e9.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "45316ecf9a452f13.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c3c269954af1f60b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "ff391123394ac3c5.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "d1293fd0e03f63e0.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "d550092579a67b6b.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "85f87b868e5b8686.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "c1c0c0e1e8de1f3f.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "99c52a8f3e765688.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "2de143b48e4bc0ef.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "3d59c33639c22679.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "59ad9e52a5564aa5.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "15658f0d89e561af.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "d534896da36d8396.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f1c0415931f4fce9.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "85d8791786a3e457.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "8db153bcb4438d66.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "0323a2077f77467a.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "473a112f4bf61bc1.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "0df1d32ce31ba4c6.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "6775f9809738138e.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "d59caa5e36565612.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f15237099c0c4fee.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "9991a6a669691bd9.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "c5c4841337b93776.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "8155631d79e3f306.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cbed2fc82d60e132.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "dd63c2982c5f2347.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "d7812cf403acf396.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "356961b9344e3c5b.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "bd434bb40f33c9b0.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "c92b1e0ef4d00e3f.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5de10e0ee11ee13b.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5556992bab0967a9.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "7d83926c9d6305f4.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "5d380189b956b9de.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "1f254e9867cf02f2.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "31cf47472f3a2706.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "090746f8f978fc83.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "d3fd3c4daa05a4c1.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "896cdc44e6bd560b.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "d56a6ec0487e76d0.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "834d0f5c1b352d2f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "0f1f9edcc0e1a0f1.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "1737f808e97a4cb4.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "97b5e05749e95c14.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "7371990c0d92f2b7.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "770ae1c3ec3d3382.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "23301c9e8de6cb5e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "55c31fa3a929ab54.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "fd13cd0c93364879.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "d558098f7999698e.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "57c68978d6873a29.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "37d54b490c5516f5.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "639f7c781c0a1d3c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "d570298d7b8e0f23.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "372243e6a525ece9.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f1c00f7f03efc0d0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "87e1e61c3c1d38bc.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "fb0556b8660996da.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f9229d26e6d9604d.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "dbdc8dce0336a303.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "f9f8718e06070f0f.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5f2c43c3ad1e29c3.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "0778b9990d73678c.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "It is irrelevant",
+        "image": "210a0e75f49ed8dd.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "fd13cd0cb3364839.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "2b3a515f84fc6345.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "dd8cd87805f24735.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "4573b1c41b6cc2f3.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "ab0b6ad2173c861f.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "ab6a5e03d316d6c4.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "3dd15f34e11fc124.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "7d81817c01abface.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "1f1115b4911ff9d4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "d122763d684e9dac.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "574a297bc2acc6e4.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "e73431b1984ccce7.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "4d8dd3968d787161.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "ddcca9b5170e02e3.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "955e2b9389e99c91.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f5940b2997a5ac56.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "551eb9e15e161ba1.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "75d0893e76c4ba29.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "d5882b2e56772d98.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "6960f1830f1f1f35.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7fafd0108ea0e8d6.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "f1431f1e0fe1e10e.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cfc0f9e3e0360707.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7da183478d1ca772.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "816c3fea48d534ba.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is irrelevant",
+        "image": "3dc34bb4a44be11e.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "25309bc670d9b73c.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "cd71b34c93334cb2.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "0f23f0caf1f8910f.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "2735352136d5aab3.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "This image is antisemitic or islamophobic in hate speech",
+        "image": "c7c83f1c39678163.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "5138d35a397cac78.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "It is irrelevant",
+        "image": "fd3ec06ad2239a2c.png"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "5154b42e8fcce43d.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "292ec1d7d2463f19.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "c78c19e6e123b536.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "2b7581c95e326dcc.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "75ae2b308b5ed90a.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "6bad9c12d62c1753.jpg"
+    },
+    {
+        "text_input": "Does this image convey any idea of antisemitic or islamophobic?",
+        "text_output": "It is antisemitic or islamophobic",
+        "image": "fdd4a9a990f04c74.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, especially antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "e3631cccdc9cc439.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is antisemitic or islamophobic.",
+        "image": "299c647896c3da6b.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "953be1c697ac0c53.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?",
+        "text_output": "This image is irrelevant in hate speech",
+        "image": "031e0b769d6693dc.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?",
+        "text_output": "In terms of hate speech, this image is irrelevant.",
+        "image": "7fc1c91f630e0f82.jpg"
+    }
+]

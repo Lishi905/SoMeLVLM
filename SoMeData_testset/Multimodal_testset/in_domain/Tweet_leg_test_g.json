@@ -1,0 +1,942 @@
+[
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '.@USER in Shanksville, Pa., this morning, honoring the passengers of United Flight 93. #neverforget'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "642336115224088576_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Taking #NoFlyNoBuy #NoBillNoBreak & commonsense gun reform to @USER w/ my man @USER'.",
+        "text_output": "The ideology is left.",
+        "image": "747829339673104384_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Maybe @USER doesn’t think mail voting is so bad after all.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is right.",
+        "image": "1281702055393087489_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'This morning, I stood with @USER and @USER to announce that an agreement has been reached on #USMCA. Despite those who said it couldn’t get done, Chairman Neal and the working group proved that through hard work and perseverance, anything is possible.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is left.",
+        "image": "1204429855846256640_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Nearly 2/3 of #minimumwage workers are women. Raising min wage would help millions of families. #WhatMothersNeed'.",
+        "text_output": "The ideology is left.",
+        "image": "464870469733470209_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Plsd to meet w/ Environment Rhode Island members to discuss climate change and efforts to protect Narragansett Bay.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "438791388927234048_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Come on @USER please surprise us & sign this bipartisan bill. 270 votes in the House #KeystoneXLPipeline'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "565640056233558016_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'While I’m in Washington fighting to #ProtectTheDream, my team joined @USER for their #DACA renewal event. Make sure your status is up to date: HTTPURL…'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1187122253030256640_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Barbara is one of the #FacesoftheUnemployed & is struggling to pay rent while she searches for a job. #RenewUI.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "464435190350508032_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Encouraged volunteers to push for marriage equality & ban on conversion therapy at@USER Day, Trenton.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "349236344792440832_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Today on International Holocaust Remembrance Day, we pause to honor the lives of the 6 million Jews & other innocent people taken by the brutal Nazi regime. We also pay tribute to the courageous survivors, as well as the brave who fought against intolerance. #NeverAgain'.",
+        "text_output": "The politician of this post is right.",
+        "image": "957261238706294787_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'It was a busy, but great weekend. Marching for the right to love; Talking to baby boomers about important issues; Parkview High School's homecoming; and supporting my brothers and sisters at the Teamsters Local 728! #DemsAtWork #ForThePeople @USER @USER'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "1051867808295002112_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'State health officials have announced today 66 additional cases of #COVID19 in New Mexico, currently totaling 2,726 positive tests statewide.  Sadly, @USER also announced six new deaths related to COVID-19, bringing the total to 99.  More info here: HTTPURL'.",
+        "text_output": "The ideology is left.",
+        "image": "1254534489797165057_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '.@USER think this is a game, but we're gaining strength #dontyoufeelit #NoFlyNoBuy #NoBillNoBreak'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "745702297288740864_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Rep. Cicilline, 52 Colleagues to Trump: Confront Putin on Anti-LGBT Violence in Chechnya'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "885552299447398400_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Proud to stand with @USER as she signed a bill to ensure back pay to the 800,000 federal employees hurt by the #TrumpShutdown.  I’m working to #EndTheShutdown and get back to the business DC residents elected me to do, like pressing for a House vote on #DCStatehood!'.",
+        "text_output": "The ideology is left.",
+        "image": "1083858848417488897_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'The deadline to receive coverage through HTTPURL has been extended through 3 am ET on Wednesday, December 18. Don’t miss your chance to #GetCovered. HTTPURL'.",
+        "text_output": "The ideology is left.",
+        "image": "1206994751750377472_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'DC residents are here at Folger Park fired up and ready to march! #RallyforDCLives #HandsOffDC #MarchForOurLives'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is left.",
+        "image": "977535600650801153_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'The step to overcoming the health care gap between Black men and women and their white neighbors starts with young people. We must educate our children about the importance of quality health care! #ForThePeople'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1152754703635275776_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: '#Congress couldn’t make #Obamacare sicker if we tried. Repeal/Replace will revive our health system b4 it flatlines on the operating table.'.",
+        "text_output": "The politician of this post is right.",
+        "image": "818870522075377664_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Enjoyed speaking on a panel at @USER about importance of protecting our greatest ally in the Middle East, Israel.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "712633277526441984_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'School choice gives every Wisconsin child a chance at a great education. #SchoolChoice Week'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "692095288035663872_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Today is Yom HaZikaron, a day of remembrance for Israel's fallen soldiers and victims. #IStandwithIsrael'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is right.",
+        "image": "590904052432535552_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'John Cornyn is cheating on you, with #Obamacare. #tcot #teaparty #gop #txlege #txsen #txgop #tx #tlot'.",
+        "text_output": "The ideology is right.",
+        "image": "422481408993406976_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '.@USER @USER and I are urging federal banking agencies to ensure community financial institutions can work with their farm clients amid #COVID19.   This market disruption calls for immediate attention. Read more here  HTTPURL'.",
+        "text_output": "The politician of this post is right.",
+        "image": "1245473014977835011_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'In response to new allegations against President Donald Trump that suggest he withheld foreign aid to Ukraine unless Ukrainian officials investigate his political rival, Vice President @USER @USER and I released the following statement:'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1176533852963164160_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Join us tomorrow night for a town hall to share your story on how the federal shutdown has impacted you and your family. This is an emergency for our city and our residents. Your stories will help me #EndTheShutdown.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is left.",
+        "image": "1088167296676347908_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Only 12% of workers get #paidleave to care for a new child or ill family member. #WhatMothersNeed'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "464137876767535105_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Yesterday, I spoke with TSA employees at McCarran about their shutdown experiences. Too many hardworking agents are being forced to skip utility bill payments, and barter with creditors. It’s time to #EndThisShutdown and give people the paychecks they’ve worked hard for.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1085617508965527553_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'I sent a letter today to House leaders to move my bill giving @USER space in the Reagan Building rent-free, like other museums.  NCM opened in Feb. but closed because of #COVID19.  DC must not be the only major city without a children’s museum. See my letter below:'.",
+        "text_output": "The ideology is left.",
+        "image": "1241100109334618118_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Wonderful to meet the family behind SourceCut Industries, a family owned and operated business in Osseo. #SmallBusinessWeek'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "991821383788351488_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Native women are 10 more likely to be murdered than the rest of the population.  We have a #SilentCrisis of missing and murdered indigenous women.   I'm working with @USER and our colleagues to expand #VAWA and strengthen protections for Native women. #MMIW'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1125176888610177025_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Starting at 6pm: Share your #ACA story at our #ProtectOurCare Town Hall. One Judiciary Square (441 4th St. NW) @USER'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "834890219207929858_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Trump’s first year hasn’t produced jobs, higher wages or new roads and bridges for the American people. We need a 21st Century Infrastructure bill that invests in American workers, not one that repeats the #GOPTaxScam handout to the 1%. #SOTU'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "958531317007863808_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Nice to welcome Ukraine's Deputy Prime Minister @USER to Washington on a day when @USER passes a bill to combat Russia's influence on energy in Eastern Europe.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1204900067573981189_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '50 years ago, the foundation for #PrideMonth was laid with a riot. A group of people rose up in the face of oppression to build a brighter future for the #LGBTQ community. Today, we celebrate their strength and resilience. #Stonewall50 #StonewallDay'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "1144658449135013888_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Cornyn voted twice in 2013 to fund Obamacare.  The only time Cornyn has ever stood up to Obama is to shake his hand.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is right.",
+        "image": "427961527392407552_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#Obamacare ends wasteful subsidies, extends Medicare solvency & improves benefits for #seniors. #hcr'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "235930503637762049_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Tomorrow is the 3rd anniversary of #Obamacare, which currently has only a 37% approval rating. See infographic why:'.",
+        "text_output": "The ideology is right.",
+        "image": "315214452511363072_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Fifty years after Freedom Summer, the Voting Rights Act is needed more than ever: HTTPURL #VRA4Today'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "481834131266240512_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Sending letter to leadership stating Congress shouldn't fund any resettlement program for Syrian Refugees inside US'.",
+        "text_output": "The politician of this post is right.",
+        "image": "666363307113259009_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'I am so grateful to all New Mexicans who protect the health and safety of others by wearing face coverings in public.  Voting is open for the final round of New Mexico Mask Madness! Cast a vote for your favorite mask –the winner will be crowned champion! HTTPURL'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1272624390220341250_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'The Violence Against Women Act has reduced domestic violence, but we can & must do more. #VAWA #1IsTooMany'.",
+        "text_output": "The ideology is left.",
+        "image": "510870305024528384_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Tomorrow I will be hosting #TwitterTradeTalk from 12-12:30. Americans can’t see the text, but we can talk about #TPP.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "596053098222727170_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#UCDavis wins grand prize in global biology competition for #oliveoil sensor! HTTPURL #GiantJamboree'.",
+        "text_output": "The politician of this post is left.",
+        "image": "529396433313480705_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Great chatting with @USER last night. @USER does so much to protect government employees. My bill to reimburse federal workers for the late fees and interest they’re charged during government shutdowns should make that job a little easier.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1093592015307198465_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'The DOJ's recent indictments make clear what we have known all along: Russia is not our friend and must be held accountable for its hostile actions.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is right.",
+        "image": "964989142387036161_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Today, on Asian American and Pacific Islander Equal Pay Day, we’re recognizing some of the starker wage disparities that certain ethnicities of AAPI women experience. Join us as we push back against the “model minority” myth and share information about #AAPIEqualPay.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is left.",
+        "image": "1103072637574701061_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Over 200 warm hearts @USER rally in Bismarck.  I'll stand with them in any temperature. #marchforlife'.",
+        "text_output": "The politician of this post is right.",
+        "image": "688833318872313856_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Today marks 7th anniv of Fair Minimum Wage Act of '07. Congress must address higher costs of living &#RaiseTheWage'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "470651390704902145_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#CHOICEact puts #CFPB in check by removing its near-limitless authority & subjecting it to Congressional oversight. HTTPURL'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "872457021341265921_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '@USER just terminated legal protections for nearly 200,000 Salvadoran immigrants who have for decades called America their home. Upending their lives means devastating the lives of 190,000+ U.S. citizen children. #SaveTPS'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "951185220837019648_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Today I voted to pass the Climate Action Now Act, which directs the Trump Administration to re-enter the Paris Climate Accord. The climate crisis is real and we must do everything in our power to protect our planet.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1123999785755738112_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#ACA  35 wks of review 13 bipartisan hearings 160 GOP amendments  Senate #TrumpCare:  1 wk of review    0 Dem amendments   0 hearings'.",
+        "text_output": "The politician of this post is left.",
+        "image": "879364346022952961_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER is hosting a free DACA renewal clinic on September 23, 9 a.m. to 1 p.m. in Metro ATL. #DefendDACA #HereToStay #DACA #ProtectDACA'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "908346499125440518_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#DREAMers are Americans. It’s that simple. Pass the DREAM Act now! #ProtectDREAMers'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "908395430203084800_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'I will discuss #SCOTUS decision to preserve #ACA health coverage for millions on MSNBC's #EdShow 5:30pmET/2:30pmPT.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "614173905457180672_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'US businesses add #jobs for 35th straight month. At minimum must replace #sequester to continue growth'.",
+        "text_output": "The ideology is left.",
+        "image": "297523961506430976_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Proud to support the #CHOICEAct, expanding opportunity for the American people & holding Wall Street accountable. HTTPURL…'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "872932674205360128_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'The #KeystoneXL pipeline clock is about to strike 1,800 days since TransCanada submitted their initial application'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "370995080514912256_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'We cannot return to the days when only some votes mattered. #RestorationTuesday #RestoreTheVOTE'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "697124965926182914_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Forcing Planned Parenthood to refuse #TitleX funds harms the 1.5 million people who need affordable reproductive health care. Glad I could join @USER for Pink Table Talks to ensure onerous laws are not passed to restrict an individual’s constitutional rights.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1166741281843757056_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Today is the 25th anniversary of the 1993 terrorist attack on the World Trade Center. Please join me in honoring the lives of those lost and impacted by this tragic event. We will #NeverForget #NYCStrong'.",
+        "text_output": "The politician of this post is right.",
+        "image": "968170307612762112_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'According to new data from the @USER the pay gap won’t close for 75 years, until 2093.   That’s too long to wait. I believe all people should have access to #equalpayforequalwork.   For more info: HTTPURL…'.",
+        "text_output": "The ideology is left.",
+        "image": "1171493071260774400_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Today, I'm building on the #ACA to lower health costs & Rx prices for all Americans by joining House Dems to pass the Patient Protection & Affordable Care Enhancement Act just days after Trump filed a brief asking #SCOTUS to strike down the entire ACA. HTTPURL'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1277712518312574978_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#OnThisDay 54 years ago, the Civil Rights Act became law. Today, I honor my friend & colleague .@USER & all the civil rights heroes who got in \"good trouble\" -- who \"got in the way.\" #CivilRightsAct We must carry their work forward!'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1013809114844139521_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'The deadline to renew #DACA for 140k recipients is October 5th. Do it now→ HTTPURL #ProtectDreamers'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "912319454893285376_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'I joined @USER to discuss @USER plan to allow #SyrianRefugees into #USA HTTPURL #NDPol'.",
+        "text_output": "The politician of this post is right.",
+        "image": "666633347020496896_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Researching disease works. Need more NIH funding for #Alzheimers research to slow, prevent & #ENDALZ'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "468936795150114816_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Ending #TPS for Haitian nationals will sentence them to a life of uncertainty and despair. #SaveTPS'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "928661053399068672_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Joined bipartisan letter calling for a vote on this new war in #Iraq/#Syria HTTPURL #ISIL #ISIS'.",
+        "text_output": "The ideology is left.",
+        "image": "514506604948250624_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Gun violence takes the lives of far too many people in our community. Today we #WearOrange in honor of the lives lost and those forever changed by gun violence. It’s time for commonsense solutions to #EndGunViolence.'.",
+        "text_output": "The ideology is left.",
+        "image": "1137169285254488064_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Nevada ranks #1 in the country for #domesticviolence fatalities. Glad I could meet with our local organizations to discuss methods of prevention and ensure our community is connected to the right resources.'.",
+        "text_output": "The ideology is left.",
+        "image": "1188340907038216192_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'We don't need a #SchumerShutdown, Senate Dems need to stop obstructing funding for our military members and health care coverage for thousands of North Dakota children by voting to keep the government open and working for the American people.'.",
+        "text_output": "The ideology is right.",
+        "image": "954388640494505989_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Don't forget: the public health emergency order will be extended through May 15th.  We'll give an update on New Mexico's #COVID19 efforts and the details of the extended public health order TOMORROW, Thursday, at 3 PM.  Keep up the fight.  #StayHomeSaveLives #AllTogetherNM'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1255589138637582336_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'On National Gun Violence Awareness Day, we #WearOrange in solidarity with Black Americans, who suffer the most because Mitch McConnell and President Trump refuse to stand up to the gun lobby.   We need common sense gun safety laws.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is left.",
+        "image": "1268990714563657729_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Many Rosie the Riveters earned #EqualPay for equal work in the 1940s. It's long past time to ensure equal pay today.'.",
+        "text_output": "The ideology is left.",
+        "image": "453725897745367040_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Angry yet? 87% of House Democrats just voted to stop cancer treatments for children because Obama told them to.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is right.",
+        "image": "386881965472743424_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '67 million. That’s how many women and girls in America live with pre-existing conditions – I’m proud to stand with @USER in ensuring the #GOP does not stand in the way of that care. You with me? #ProtectOurCare'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1083117726669844480_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'I am fighting to address climate change in Congress. Climate change is real and we must do everything we can to mitigate its effects. Follow my page to learn more.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1113471223789490177_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '.@USER just signed the #USMCA – a big win for #TX12, where over half our trade-related jobs are connected to our North American neighbors. Read how this Texas-sized trade deal brings our relationship with Mexico and Canada into the 21st century: HTTPURL…'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "1222597356358709248_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'We must recommit to preventing #domesticviolence in all facets of society: HTTPURL #DVAM #nomore @USER'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "525763079888719872_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '“If you’re the only breadwinner in your family, and to have your kids looking up at you, it’s hard to tell them, we don’t have anything to put food on the table. That’s the hard part.” – Aaron, a @USER worker in Cleveland #ShutdownStories'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1083418512872353793_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Policy lunch with @USER to discuss US - #Israel relations and #IranTalks. A nuclear Iran is unacceptable'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "576441175370031104_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'For far too long, Congress has offered moments of silence instead of action in the wake of gun tragedies. That era is over. #TakingAction #EndGunViolence @USER'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1095862662104342529_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'President Obama's clean power plant standards will prevent up to 6,600 premature deaths per year. #ActOnClimate'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "473547707861438464_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'For five years now, marriage equality has been the law of the land.   As we celebrate #PrideMonth and this historic day, we honor the love and commitment of countless LGBTQ+ couples and families that enrich our communities.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "1276535048494354434_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '.@USER are keeping their promise & fighting for the American people. That’s why I’m proud to vote for the #EqualityAct! On to the Senate!'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1129420821552873472_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '#Obamacare increased individual market premiums by an average of 49%'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "558293169113014272_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'When it comes to #Benghazi, #GOP Rep. McKeon is right. This select committee is just another #GOPsham'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "464541431378759680_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'On Valentine's Day, help ensure your friends, family & loved ones get covered @USER HTTPURL #ACAValentines'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "434450744985403392_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Background checks save lives. They reduce the rate of women killed by an intimate partner, they reduce suicide rates, they reduce the rate of law enforcement officers killed in the line of duty – they save lives. That’s why I signed Senate Bill 8 today. #SB8 #EndGunViolence'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1104129277954482176_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Spoke with Maury county officials about current issues & putting an end to the president's dangerous #IranDeal #TN04'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "633654413375180800_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Pope Francis will address Congress at 10 AM (EST) Watch it live -    HTTPURL… #PopeInDC #PopeInUSA'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is right.",
+        "image": "647040786706599936_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Access to health insurance coverage is critical to addressing disparities in health outcomes among African-Americans. #GetCovered'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1062440608298659841_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Every single day, families around the world are forced to flee their homes in search of safety. This #WorldRefugeeDay, & every day, we must continue our tradition of welcoming refugees. #RefugeesWelcome #WRD2019 Proud cosponsor of #GraceAct, #NoBanAct & member of #RefugeeCaucus'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1141709939481698304_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Today we unveiled Grand Farm — the future of North Dakota’s first autonomous farm and the next generation of precision agriculture.'.",
+        "text_output": "The politician of this post is right.",
+        "image": "1122184393257312257_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Met with civic leaders from Grand Forks to discuss the importance of the Global Hawk mission at Grand Forks AFB and the partnership between @USER and @USER'.",
+        "text_output": "The politician of this post is right.",
+        "image": "1204785410028666884_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Joined fellow @USER & signed the discharge petition to #raisethewage! It's time to give America a raise.'.",
+        "text_output": "The ideology is left.",
+        "image": "439104628567711744_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'It’s time to ensure lower health care costs #ForThePeople. Learn more about @USER plan for #ABetterDeal here: HTTPURL…'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1021485083583295488_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Social Security began working #ForThePeople 83 years ago today. It’s my duty as a member of Congress to safeguard this vital program from cuts and attacks and ensure that current and future generations of Americans continue to enjoy strong #SocialSecurity benefits.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1029437956497526784_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'On Wednesday, I visited the #Israel Pavilion at OTC in Houston. HTTPURL… #Energy #TX14'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "596749051846127616_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'The water #infrastructure bill #WRRDA supports flood protection, waterways transportation & #jobs.'.",
+        "text_output": "The ideology is left.",
+        "image": "402943159962849280_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'We cannot return to the days when only some votes mattered. #RestorationTuesday #RestoreTheVOTE'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is left.",
+        "image": "676833531117588480_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'New Mexico – please join me in thanking those New Mexicans on the frontlines of the COVID-19 pandemic: health care workers, child care providers, first responders, grocery store workers, school personnel, state & local government employees, & corrections officers.  #AllTogetherNM'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1241054420076335104_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'The Senate did its job; @USER now the House needs a vote to #RenewUI.'.",
+        "text_output": "The ideology is left.",
+        "image": "453307235213393920_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Happy 50th anniversary to Head Start! In 2014, it gave 3,106 low-income DC kids an early education. #HeadStart50'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "600293387112185856_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Met w/ Doug O’Malley of @USER to discuss @USER climate action plan & efforts in #NJ to cut pollution'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "395714497114931200_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Proud to receive the True Blue Award from @USER today for my pro-life and pro-family voting record'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "565956906708385792_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '1-@USER fires Comey over Russia investigation 2-Trump leaks highly sensitive intel to Russians What’s the next shoe to drop?'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "864523755133054977_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '.@USER said “nobody knows” if the #GOPTaxScam will pay for itself. The truth: Everybody knows that it won’t, and seniors & middle-class families will end up footing the bill.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "943551353636507648_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Going live now on @USER with to discuss the looming federal government shutdown and our work to ensure the DC government stays open, no matter what. I’ll also push to ensure back pay for federal workers and low-wage federal contract workers.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "954476039962537984_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Join me and @USER for a conversation on the #JusticeInPolicing Act TODAY at 3:30 p.m. PT on Instagram Live.   Join me there: @USER'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1270360834267656192_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'There is no wrong way to express gratitude for our health care workers and other essential employees who are working tirelessly during this public health emergency. I want to thank those individuals for their work! You can stay updated on COVID-19 at: HTTPURL.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is left.",
+        "image": "1246099337417052160_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '8 minutes, 46 seconds. A moment of silence for George Floyd, Breonna Taylor, Ahmaud Arbery and all of the Black lives we’ve lost. Today, we introduce the #JusticeInPolicing Act to honor them.'.",
+        "text_output": "The ideology is left.",
+        "image": "1270016917177237505_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A great discussion with @USER on @USER just now about #immigration and the need for a compromise that includes a path for #Dreamers, the need for transparency from the @USER & my #Lent2018 intention to take a step back from Twitter.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is right.",
+        "image": "963517358223523841_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Happy to kick off my \"Moving the Fourth Forward\" town hall series in DeKalb County #ForThePeople. I am so proud that so many constituents showed up and showed out to talk about among other issues: Common sense gun reform, impeachment, the climate crisis & healthcare. #DemsAtWork.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "1161673298075357187_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Does your #DACA expire between now and March 5, 2018? Submit your renewal application before October 5, 2017→ HTTPURL'.",
+        "text_output": "The ideology is left.",
+        "image": "913787495711756295_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'State health officials have announced today 62 additional cases of #COVID19 in New Mexico, currently totaling 1,407 positive tests statewide.  Sadly, @USER has also announced five new deaths related to COVID-19, bringing the total to 36.  More info here: HTTPURL'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1250197379904466944_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Met with North Dakotans with CHS, a farmer-owned cooperative, to discuss the importance of ratifying the #USMCA and securing a trade deal with China.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1144358743343165441_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'By passing the #EqualityAct, we can put an end to discrimination facing our #LGBTQ brothers & sisters across America. #HR5'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1105910248362127362_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Enjoyed meeting with #NJ #health leaders to discuss misguided #HobbyLobby decision and women’s health care needs'.",
+        "text_output": "The politician of this post is left.",
+        "image": "502867358378360832_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'This afternoon’s stop: @USER Thomas Swoyer gave us an overview of the operations here. Grand Sky has built an outstanding partnership between the public and private sectors to continue the work of UASs.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is right.",
+        "image": "1169362408030244866_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Pls RT! How can the WH not see \"systematic evidence\" that #ObamaCare will be detrimental to middle class?  #PJNET'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is right.",
+        "image": "368098586703052801_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'We received an intel and operations briefing yesterday from Sector Chief Karisch ahead of our line tour along the Rio Grande Valley sector. Congress needs to take action, including a serious look at @USER resources and authorities.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1132306075137519619_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'This morning, House members @USER took a moment of silence #NeverForget #15YearsAfter911'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "774269737752727552_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'ATTN: It’s not a scam! If you haven’t received your #coronavirus impact payment, the #IRS is mailing out millions of payments as prepaid debit cards instead of paper checks. Use them like a regular debit card—learn more here from @USER HTTPURL.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1265757168361406472_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Great meeting of the #ClimateSolutions Caucus yesterday w/ former @USER Sec. Hank Paulson about the economic impacts of #climatechange'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "885125517602639873_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Overjoyed that Sacramento native Justice Kennedy ruled in favor of Marriage Equality. #LoveWins'.",
+        "text_output": "The ideology is left.",
+        "image": "614469958093926400_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Our hearts go out in remembrance of all who lost their lives 17 years ago. We will #NeverForget.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "1039541246853898241_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '#ACA has provided 3 million+ people in #NJ w/ preventive health services & 105 million nationwide so far #GetCovered'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "408301452637908992_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Touring @USER to meet with kids, parents, and doctors. #TrumpCare cuts to Medicaid would be devastating for children's hospitals.'.",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "879740258715410432_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Grateful to meet with the Hispanic National Bar Association and @USER on #DACA, El Salvador, Puerto Rico, criminal justice reform & Trump’s lack of diversity in judicial nominees. We must do more to get legal counsel for unaccompanied alien children.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "968982725217718272_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Being a mother and grandmother is my greatest joy and privilege. Every day I remember how lucky I am to be able to work to build a better New Mexico for my grandchildren to grow up in, and every day I take inspiration from my own incredible mother, Sonja.'.",
+        "text_output": "The ideology is left.",
+        "image": "1127662971092590592_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '#GOPShutdown hurts economy & threatens jobs as shown right here at EPA’s Edison lab HTTPURL'.",
+        "text_output": "The ideology is left.",
+        "image": "389798445512265728_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Enjoyed meeting with former ND Legislator Mike Hamerlik of @USER today to talk shop on #Obamacare replace & access to veterans care.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "831639562921324544_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#CHOICEact gives reg relief to safe banks who choose to keep high levels of capital to ensure ur money is safe if there's another fin crisis'.",
+        "text_output": "The politician of this post is right.",
+        "image": "872082470040207361_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Hearing stories now from residents from across the workforce spectrum speaking to the radiating impacts of the #TrumpShutdown.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1088588568635805696_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Looking forward to being on #RolandMartinUnfiltered this evening at 6 PM discussing #TrumpShutdown & other matters of the day. #EndTheShutdown'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1088205805869060096_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'John Cornyn says he voted to fund #Obamacare twice because Ted Cruz should be \"less confrontational.\"  Do you agree?'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "422208420377145344_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Sometimes we need reminding of how precious & fragile freedom is. Ukraine Pres Petro Poroshenko addresses congress.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "512607766561959937_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'A 60-year-old making $50,000 per year in my district will see their premiums rise by over 200% under the Senate's #TrumpCare plan.'.",
+        "text_output": "The politician of this post is left.",
+        "image": "879447785808027651_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Nonpartisan Institute on Taxation and Economic Policy analysis says #GOPTaxScam would raise taxes on 43,000 DC working families by $1,500.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "927944136174563328_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Senate passes bipartisan bill to strengthen #VAWA. Time for the House to act HTTPURL'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "301466535501914112_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '.@USER let's negotiate a budget before the #GOPshutdown's 9/30 deadline. No need for manufactured crisis.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is left.",
+        "image": "641680802993078272_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'DREAMers are Americans in their heart, in their minds, in every single way but one: on paper. We must come together to #ProtectDREAMers!'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "908043505972465671_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Happy to sit down with @USER this morning to discuss Congressman Paul Ryan as potential House speaker.'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "659354319670673408_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '🚨COVID-19 UPDATE🚨  Today a new public health order goes into effect, continuing New Mexico's Phase One reopening progress.  Find the full text here: HTTPURL  See COVID-safe practices for businesses, employees and customers here: HTTPURL'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1267474990363901953_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Today we pause to remember those who lost their lives in the horrible attacks on 9/11, as well as the bravery & sacrifice of our first responders.  We will never forget the evil we witnessed or the extraordinary acts of kindness which exemplified the best of America.'.",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1171772286019473408_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'At least the Administration respects one part of the Constitution #IRSHearing #tcot'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is right.",
+        "image": "337236906460999680_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Domestic violence is still far too prevalent. Help is available. #VAWA #1is2Many'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "510945878996439041_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Met with Travis Unified School District officials today HTTPURL #sequester #Solano'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The politician of this post is left.",
+        "image": "308755429821911040_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Barriers to voting are unacceptable! All voices must be heard. #RestorationTuesday #RestoreTheVOTE'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "664171199400910849_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Inspired by the North Dakotans and thousands of others in the Nation's Capital championing such an important cause. #MarchForLife2018'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "954436190404476935_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'I want to thank the TSA workers at McCarran airport for their continued service amid the shutdown. Several shared with me the painful realities of how the shutdown is affecting their lives.  (1/4)'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The ideology is left.",
+        "image": "1086411047664320512_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Signing deals with Iran while rejecting funding for our U.S. Military troops...Mr. President, #SignTheBill #NDAA'.",
+        "text_output": "The politician of this post is right.",
+        "image": "657277803629441024_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Under #ObamaCare in #TN04, potential premium increases from49-54% in individual market & 35% in small group market'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "335129578848784384_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'From #MarchForOurLives: $1.05—what the NRA paid @USER for every student in Florida.   Rubio got another payoff too: the NRA boosted his rating from B+ to A after he introduced his bill to wipe out DC’s gun laws. How much are DC & Florida lives worth, Sen. Rubio? #HandsOffDC'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "978629107683680256_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Every day for 4 years Americans have grieved for those lost at #SandyHook. We must honor them with action. #HonorWithAction #EndGunViolence'.",
+        "text_output": "The ideology is left.",
+        "image": "809066645683601408_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Today I announced selections for key staff positions. As this new office continues to grow and take shape, I’m blessed to have a strong core who worked with me in the House and who understand North Dakota.   Full release->'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "1083795930074226693_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wearing a #YellowRose to celebrate the Senate passing the women’s suffrage amendment 100 years ago today – such a pivotal turning point in our nation’s history. Did you know that 6 days later, WI was the 1st state to ratify the #19thAmendment.  #WomensVote100 @USER'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be right in terms of ideology.",
+        "image": "1135975105421545472_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Would you have voted to fund Obamacare?  John Cornyn did.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "417083622219202560_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Want health coverage starting on Jan 1? Today is the deadline! Californians can #GetCovered at HTTPURL'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "544619786001735680_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: '#TrumpBudget + #Trumpcare = a $1.4 trillion raid from #Medicaid (47% of total Medicaid budget), which 240,000 of my constituents rely on.'.",
+        "text_output": "The ideology is left.",
+        "image": "867417072887791616_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Enjoyed showing @USER students in DC for #MarchforLife2018 around the U.S. Capitol.'.",
+        "text_output": "The ideology is right.",
+        "image": "954474931080908801_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Businesses that need a @USER license to export can't do so because of the #shutdown HTTPURL'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is left.",
+        "image": "390579802500890624_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'On RioGrande this morn. Here is scorpion on child abandoned life jacket. Toured TX DPS regional hq yesterday.'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "The ideology is right.",
+        "image": "490464302214561792_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'I asked for @USER subcommittees where I could have the greatest impact for North Dakota. They give us a voice on important state issues like the Grand Forks and Minot Air Force Bases, Cavalier, UND, and the National Guard.'.",
+        "text_output": "The ideology is right.",
+        "image": "1095334143624278019_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'I am joining .@USER and 80 of my colleagues to demand that @USER and @USER expedite assistance on new and simple tests for COVID-19. We cannot wait any longer.'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1238486787313545218_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'On Yom Hashoah, we remember the millions who lost their lives in the Holocaust. We will never forget them, and we will strive every day to honor their memories. #NeverAgain'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "984465419556835328_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'We have a unique opportunity to transform energy in New Mexico with the Energy Transition Act. This bold, comprehensive legislation will establish the state as a national leader in both renewable energy and addressing the causes of climate change. #SB489'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "1098699335766687744_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Nobody working full-time should have to live in poverty. Time for the other 37 states to follow DC & #RaiseTheWage'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "499623478312853504_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'For decades VAWA has been bipartisan. It is time for the Senate to act as it always has and pass a VAWA with important improvements for victims. #VAWA25 #VAWA4ALL'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is left.",
+        "image": "1172567432273309696_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'The most important thing you can do to slow the spread of COVID-19 and save lives?  Stay home.  #StayHomeSaveLives #AllTogetherNM'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1245768218506981377_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'As Republicans vote to go to conference on the #GOPTaxScam, I continue to oppose this bill that raises taxes on 82 million Americans, kicks 13 million Americans off health care, & adds $1.7 trillion dollars to the debt. RT if you agree.'.",
+        "text_output": "The ideology is left.",
+        "image": "937828289510559744_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Despite claims from the left, #AHCA continues to protect those with preexisting conditions.  HTTPURL…'.",
+        "text_output": "In terms of ideology preference, the politician is right.",
+        "image": "861611166455484418_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'By early February, more Americans are killed with guns than are killed in other high-income nations in an entire year.   This National #GunViolenceSurvivorsWeek, read & amplify survivors’ stories from @USER #MomentsThatSurvive Story Wall: HTTPURL'.",
+        "text_output": "The ideology is left.",
+        "image": "1224748424584744967_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Today, Klobuchar & @USER will highlight the need to protect victims of stalking &domestic abuse &reauthorize the Violence Against Women Act. The NRA opposes the reauthorization of #VAWA bc it wld prohibit individuals convicted of stalking from possessing or buying a gun.'.",
+        "text_output": "The ideology is left.",
+        "image": "1113462161349795840_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Sen. Klobuchar joined @USER to discuss the reauthorization of the Violence Against Women Act, critical legislation to continue to support victims & help law enforcement combat domestic violence #VAWA'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "995022141027479552_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'The #WearOrange ribbon I wear today is to bring attention to national gun violence.  I have successfully defended DC gun safety laws against many Republican attacks, but only #DCStatehood can free DC from life-threatening meddling with D.C. gun safety laws.  #HandsOffDC'.",
+        "text_output": "The politician of this post is left.",
+        "image": "1137122423374004224_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the politician.\nThe image has been shared with the caption: 'Rep Cicilline at press conference on Resolution of Inquiry into President Trump's ongoing conflicts of interest and ties to Russia.'.",
+        "text_output": "The politician of this post is left.",
+        "image": "836588806987972609_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Great to meet with folks at @USER Grand Forks yesterday. LM Wind Power is a leading supplier of blades to the wind industry.'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "The politician of this post is right.",
+        "image": "900436943351291904_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'My office is holding an #ACA info event Oct. 18 #GetCoveredGA: HTTPURL'.",
+        "text_output": "In terms of ideology preference, the politician is left.",
+        "image": "388050769733099520_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '@USER Janice Mathis talking #ACA on @USER I'm hosting #ACA event Oct. 18 @USER Georgia Piedmont Tec. College.'.",
+        "text_output": "The politician of this post is left.",
+        "image": "379601859796692992_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Today @USER announced $46.2 million in new Medicaid payments to nursing facilities to help them mitigate the spread of #COVID19 among employees & residents.  We continue to take every available opportunity to slow the spread of COVID-19.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1256302149685805056_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#SCOTUS ruling proves that #HomeIsHere. I hope my constituents like Cinthya, Damaris and the hundreds of thousands of #Dreamers nationwide celebrate this deserved victory. #HereToStay HTTPURL'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "1273667332334895105_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Garamendi on @USER right now talking about the #sequester. #stopthesequester #p2'.",
+        "text_output": "The ideology is left.",
+        "image": "309423618532716544_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Tomorrow @USER hosts a #Trumpcare Twitter town hall. Make Your Voices Heard! State your questions with the hashtag #CBCOnHealthcare'.\nIt is posted by a politician. What ideology does the politician belong to?",
+        "text_output": "This combination prefers to be left in terms of ideology.",
+        "image": "889892714304741377_0.jpg"
+    }
+]

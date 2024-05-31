@@ -1,0 +1,942 @@
+[
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Last week, Sen. Klobuchar joined @USER to recognize the 40th anniversary of Arab-Israeli peace talks at Camp David and the pivotal role Vice President Mondale played in brokering a peace treaty, setting a precedent for future peace agreements in the Middle East.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1067525910214131720_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '🚨UNEMPLOYMENT UPDATE🚨 @USER has announced today that New Mexicans receiving unemployment insurance will begin receiving an additional $600 per week of #COVID19 relief beginning the week of April 20th.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1249805511735689216_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#GeorgeFloyd #EricGarner #MichaelBrown #BreonnaTaylor #WalterScott #FreddieGray #SandraBland #AltonSterling #PhilandoCastile #ElijahMcClain  The George Floyd #JusticeInPolicing Act addresses the crisis of racial profiling and police brutality.   HTTPURL.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1283142124641366018_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'New day for ND community bankers under 115th Congress & Trump Administration. #ICBND #RegRelief #CHOICEact   More: HTTPURL'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "897587050475663360_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '.@USER Despite the inclusion of several policies I'd traditionally support & have championed, I made a commitment to my constituents, #Dreamers & those who support them that I wouldn't continue to let Washington ignore their calls for a solution: HTTPURL'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "976899582427885569_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'We met w American Marines in Kuwait who stand ready to support coalition efforts over Iraq & Syria targeting #ISIL.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "694240382373216261_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'The #GOPTaxScam, #TrumpBudget, and the so-called #PROSPERAct all have one thing in common: putting corporate profits over students and #workingfamilies. #StandwithStudents'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "988462726040125441_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Remember when a Democratic Congress worked with a Republican President to #RaiseTheWage? #TBT #throwbackthursday'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "436609297091289088_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Spoke on climate change @USER Long Branch Clearwater Festival. Here w/ @USER Jeff Tittel & LB Enviro Commission'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "379326498249129984_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Just spoke at Bet Haverim synagogue in #DavisCA in support of a two-state solution for Israel & the Palestinians'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "443226784394256384_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'No American should be fired because of who they are or who they love. But for many #LGBTQ Americans, that’s their daily reality. It's time to put an end to this discrimination and pass the #EqualityAct. Proud of the stauch leadership by @USER to advocate for our LGBTQ Americans'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1126943245290721280_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Today @USER and I have announced three presumptive positive cases of COVID-19, the novel #coronavirus, the first cases in New Mexico, all travel-related. I will be holding a press conference shortly, which will be livestreamed, to announce additional details and our response.'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1237765348859891713_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'We know the future for all immigrants & #DACA recipients remains uncertain in America. We stand with you no matter what. The House did its job, now it's time for the Senate to act. #ToImmigrantsWithLove #DreamAndPromise'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1228342790230335488_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Speaking at #CPAC2019 on public lands panel. Discussed the disastrous #GreenNewDeal, the carbon tax, #DAPL, and importing oil from foreign nations.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "1101626363293896705_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '#OTD my mentor & civil rights leader Fannie Lou Hamer was born. She risked her life fighting for voting rights. Be sure to exercise yours.'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "784120199289171970_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Let's not go back to these days. Instead, let's work together in Congress to build upon the ACA--instead of sabotaging it--and find ways to make healthcare affordable for every American. Let's make Congress work #ForThePeople again.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1019700136753205249_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'John Cornyn voted with Harry Reid to fund Obamacare, forcing this doctor to close his business #tcot #teaparty #txgop'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "410576745805254656_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'The deadline to renew #DACA for 140k recipients is October 5th. Do it now→ HTTPURL #ProtectDreamers'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "910572357764419584_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Me with Wisconsin's three rockstars - Reince, Scott & Paul.'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "219239558607413248_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'It’s been two months since the House passed the #HeroesAct – and STILL the Senate refuses to take action. We must pass this critical legislation to protect our frontline workers and continue to combat the virus.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1283472650216628226_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Met with @USER workers at the airport in Cleveland this morning, who continue to work every day to keep Americans safe – but because of the #TrumpShutdown, they’re not taking home a paycheck.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1082649136879550468_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Sat down with @USER at the @USER this morning to talk about Space Force, the @USER in Grand Forks, @USER & the North Dakota National Guard.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "1151642827115417601_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Les Paul would have been 103 today. The inventor of the solid body electric guitar was born in Waukesha and the @USER public art project celebrates this Wisconsin legend.  Fun Fact: @USER plays guitar!'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1005505677090082817_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Hoy a las 3:00 de la tarde habrá una actualización sobre los esfuerzos de Nuevo México frente a la pandemia del COVID-19.   Una interpretación simultánea en español será transmitida en vivo en HTTPURL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1253039435374944256_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Wisconsin led the way #OTD 100 years ago being the first state to ratify the #19thAmendment giving women the right to vote.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "1138191364494123008_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Meeting with Jim Stokeland, President of Britton Transport in Grand Forks and his son Harrison during their visit DC.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "613808553464332289_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Great to see Bruce Gjovig in D.C.   We spoke about the Cavalier Air Force Station, the growth of Grand Sky in Grand Forks, and my work on @USER this Congress.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "1091374115171250177_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'We need a fair trade deal - not \"free trade\" of #TPP which undermines #BuyAmerica policies.'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "608621641900417025_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Such an honor to join so many incredible community leaders at the 24th annual Dr. Martin Luther King Jr. commemorative breakfast in Albuquerque, honoring and reflecting on a once-in-a-generation man and his fight to end poverty and see justice for all. #MLKDay #NMgov'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1219327756845993984_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '56 years ago, our nation legally outlawed discrimination and segregation based on race, religion, sex or nationality. We continue the fight for equality with renewed strength. Now more than ever, people from all walks of life are on the frontline to help. #CivilRightsAct #BLM'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1278784664686256130_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: '#GrahamCassidy gives big insurers the power to charge people with pre-existing conditions much higher premiums. #Trumpcare.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "910973685376409601_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Honored to reflect on this somber anniversary @USER where steel from Twin Towers stands in memorial. #NeverForget911'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "907254544874254336_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'It’s been one month since the Senate passed legislation to #RenewUI. The #FacesoftheUnemployed deserve a House vote.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "463722216031805440_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Pope Francis is almost here. Honored to have Msgr James Shea @USER in the House Chamber. #PopeInDC #PopeInUSA'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "647037293891571712_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'As #IRS targeted conservative groups, they also spent $50 million on employee perks. RT if you agree.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "342039226256338944_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'State health officials have announced today 153 additional cases of #COVID19 in New Mexico, currently totaling 2,521 positive tests statewide.  Sadly, @USER also announced six new deaths related to COVID-19, bringing the total to 84.  More info here: HTTPURL'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1253813642794950656_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Stopped by @USER in #nv04 yesterday for a flu shot, a tour, and a discussion about healthcare and the #ACA.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "425703756223635456_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'It's 4am. @USER just closed the House. But Rep Cicilline is still here. #NoMoreSilence #NoBillNoBreak'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "745894523352530944_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Grand opening: Bayshore Resource Center, Highlands, helping Sandy victims to rebuild'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "475320544347557888_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Finally. #Zadroga passes! 9/11 1st responders will receive health care they need & the peace of mind they deserve.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "677943630024298496_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Stopped by Select Physical Therapy to speak to patients who are struggling to afford their doctor-recommended care.  I’m urging @USER to listen to the American people and pass the 11 #HealthCare bills from the #House now. #ProtectOurCare #HealthCareWeek'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1159550900333096961_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'What an honor to speak at 49th #MLK service @USER @USER @USER @USER @USER HTTPURL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "821068643257688066_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'State health officials have announced today 139 additional cases of #COVID19 in New Mexico, currently totaling 2,660 positive tests statewide.  Sadly, @USER  also announced nine new deaths related to COVID-19, bringing the total to 93.  More info here: HTTPURL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1254174687522746368_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Our veterans are our priority. Last night I voted for the #VeteransIDAct ensuring easier access to benefits & care.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "618821568404279296_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: '“To describe my mother would be to write about a hurricane in its perfect power. Or the climbing, falling colors of a rainbow.” - Maya Angelou. On  #MothersDay I’m reminded of my mom Christine Callier. Her love, wisdom & grace inspires me every day. #HappyMothersDay #ForThePeople'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1259477109715673088_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'In Part 3 of our newsletter recapping 2017, read about the surprising good news about the #ACA in DC, Norton in Your Neighborhood for valuable feedback, and hearing from DC DREAMers to help our fight to protect DC’s 800 DREAMers. Read Parts 1 and 2 here: HTTPURL…'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "948636601072136192_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Right now, we’re voting on the one bill that actually ends this shutdown.   It secures the border, re-opens the government, gets federal workers paid and back to work, and includes reforms Democrats have wanted for years.   Now is the time to get this done.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "1088528938505326594_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'The latest #BrokenPromise from #ObamaCare: \"If you like your doctor,you can keep your doctor. Period.\"'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "444576777159979008_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Because House Republicans refuse to take up a bill on UI, I signed a discharge petition to force a vote to #RenewUI.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "443809162380599296_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'This #EarthDay, we must recognize the important connection between climate change and health. @USER'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "855766792035237888_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'North Dakota’s military community is a source of a pride to our state.   This #NDAA supports those in North Dakota who defend our nation at home & around the globe through deterrents, covert missions, and with cutting edge technology that represents the future of military combat.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1131981436368564224_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'RT if you agree @USER owes an explanation & a plan to seniors hurt by #ObamaCare →'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "438013471972552704_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#FL26 has a front row seat to the dangerous effects of #ClimateChange. On #EnergyEfficiency Day, let's continue to support smarter, cleaner and more affordable alternatives to lower energy costs & limit environmental repercussions.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1048235614162698240_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Like so many towns and cities across the US, #HomeIsHere for #Dreamers in my community. They are our friends, neighbors, & colleagues. It’s been over 7 years years since President Obama implemented #DACA.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1194370174423588864_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Need health insurance? Now's the time to get your family an affordable plan. Visit HTTPURL to get started. #GetCovered by Dec. 15!'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1064607984247062528_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'The deadline to apply for a forgivable loan through the #PaycheckProtectionProgram is just THREE days away.   Apply by next Tuesday, June 30th to join the over-350,000 #Texas small businesses that have been approved for over $40 billion in aid: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1276893049939988481_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'I’m joining @USER in a few moments to discuss #Syria.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "985912440897658881_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'My administration has made the very difficult decision, in close consultation with education & health leaders, to extend public school closures through the rest of the academic year. We have to continue to take aggressive steps to mitigate the spread of COVID-19. #AllTogetherNM'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1243576480698793984_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Today, the House is considering the FY2020 Energy & Water Development funding bill, which invests $46.4 billion - an increase of $1.8 billion - to address climate change, improve infrastructure, & strengthen national security #ForThePeople'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1138873892238495746_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'As we wrap up #SchoolChoiceWeek glad we could extend school choice for low-income families in DC on the 15th anniversary of the DC Opportunity Scholarship Program. It's about providing hope for a better future. HTTPURL…'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1088901288895631362_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'It's important to know the facts: #Ebola is NOT spread through 1. Casual contact 2. Air 3. Water 4. Food in the U.S.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "523183332474224641_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'State health officials have announced today 103 additional cases of #COVID19 in New Mexico, currently totaling 2,072 positive tests statewide.  Sadly, @USER also announced seven new deaths related to COVID-19, bringing the total to 65.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1252718763943710720_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wrote a bipartisan letter to @USER Chief Agricultural Negotiator Gregg Doud regarding the grain article in #USMCA.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1148656010304905217_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '800K #Dreamers lives are on hold because of Trump's xenophobic policies & the inaction of @USER in Congress. We must pass a permanent solution so Samantha & other Dreamers can feel safe & protected in the only country they call home. #ProtectDreamers #OurHispanicSOTU #SOTU'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1092916571767558144_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'More troubling #Obamacare numbers.  44 & 206.  Two roll call votes when Cornyn joined with Dems to support Obamacare'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "424332345814945792_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'For every Medicare & Medicaid $1 spent on #Alzheimers, we invest less than 1 penny in research #ENDALZ -@USER'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "468934952818868225_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: '@USER #DirtyWaterRule puts the drinking water sources for tens of millions of people at risk. He is undoing decades of bipartisan protection of clean water for a huge giveaway to the polluters who are calling the shots in the Trump administration. #ProtectCleanWater'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1113123986097963013_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'I will discuss #Iraq, #Syria & U.S. #ForeignPolicy on MSNBC's #EdShow at 5:20 PM ET/ 2:20 PM PT. #p2'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "504001912430415872_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'I spent time with the amazing students of @USER explaining how Congress works #ForThePeople and why it’s important to have a government that looks like you. Look out #Nevada! Brilliant leaders are coming your way.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1232360922154295296_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '#Congress must stand up to #EPA & #CleanPowerPlan rule & pass resolutions of disapproval - HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "659355958586535936_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'We'll have @USER @USER UGA navigators @USER our #ACA info event Oct. 18 #GetCoveredGA: HTTPURL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "390868810925740032_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '#FBF: #OTD in 2009, @USER signed the Lilly Ledbetter Fair Pay Restoration Act, because #EqualPayCantWait'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "693182097674997761_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Always happy to meet with environmental advocates from @USER about ways to combat #ClimateChange in #FL26 and thank them for their support of the growing #ClimateSolutionsCaucus'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1006675765734211584_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Let's make #EqualPay for Equal Work a reality: #PaycheckFairnessAct #RaiseTheWage #NoMadMenPay HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "453683142935588865_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'In Georgia, Latinas have to work 41 more years to catch up to what men make by age 60. This is unacceptable & outrageous. #LatinaEqualPayDay #DemandMore #PaycheckFairnessAct #LatinxEqualPay #Trabajadoras'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1197269897727885313_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '“And love is love is love is love is love is love is love is love cannot be killed or swept aside” -- .@USER Proud to have earned a 100 on .@USER congressional scorecard for my support for the #LGBTQ community!'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1052596695853400064_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Calling for Congress to prevent transportation shutdown. Watch ~7:45 PM ET / 4:45 PM PT at HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "598271947437375489_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'State health officials have announced today 92 additional cases of COVID-19 in New Mexico, currently totaling 495 positive tests statewide.  @USER has also announced three additional deaths related to COVID-19, bringing the total to ten.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1246211354773434368_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'In just a minute, on @USER with @USER to discuss addition of US military advisers in #Iraq. #ISIS #ISIL'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "530870861784682497_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'W/#ACA, Jumaane bought insurance for himself & his son for the 1st time. OH tell SCOTUS #DontTakeMyCare #KingvBurwell'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "573223276123713537_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'By passing the #EqualityAct, we can put an end to discrimination facing our #LGBTQ brothers & sisters across America. #HR5'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1128714284979109893_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'My @USER blog on Russia, Natural Gas & #Maritime Power: HTTPURL #buyamerican'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "448955094201950208_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Good seeing Charlie Gorecki, the CEO of @USER a leader in developing cleaner, efficient energy & environmental technologies housed at @USER Productive conversation on @USER rules for 45Q carbon sequestration tax credits, grid modeling & their work w/ @USER'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1237913232880304128_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Cost of Alzheimer's to #Medicare & #Medicaid is high & growing fast. Need to invest in #RnD to #EndAlz.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "539909466821763072_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'I'm fighting for the 34,100 Nevadans who need Congress to #RenewUI. @USER it's time to bring up a bill!'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "451783109722116096_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'If Cornyn's telling you he opposes raising the debt limit, he voted to raise the debt limit eight times before this.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "433778413749293057_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Excited to talk bipartisanship, climate change & sea level rise with my co-Chair of the Climate Solutions Caucus @USER on @USER'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "923690829042110465_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Former President Clinton speaking today at the funeral of former Israeli President Shimon Peres.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "781915061216538624_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'At @USER meeting praised @USER Board, Chair Hantman, @USER & Sup Porter for enhancing #schoolchoice #FL26'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "565583888819683328_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '“The time is always right to do what is right.”  Today we remember Dr. Martin Luther King Jr’s life and legacy. #MLKDay'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1219243178043289600_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Nevada ranks as one of the worst states in the country for access to affordable housing. @USER proposal to purge undocumented immigrants from public housing will disproportionately affect Nevadans. We need to #KeepFamiliesTogether HTTPURL'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1129100159890014208_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#NCA2014: #ClimateChange not a distant threat. It's affecting us now, which is why we must #ActOnClimate immediately'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "463754498960523264_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'John Cornyn just voted to raise Obama's debt limit. The only time Cornyn stood up to Obama was to shake his hand.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "433695884816035840_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Always a great time to support @USER and meet the folks that I’m fighting for in Congress. I’m a proud supporter of the #EqualityAct and #HRC, because there is NO excuse for hatred or discrimination toward #LGBTQ communities in 2019.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1157367484564951040_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Mañana a las 11am estaré en @USER para hablar de #ISIS y Siria.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "670295893778763776_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'In five years, @USER has looked out for Main St. consumers & hard-working families. #WallStReformWorks'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "623586661880987648_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: '#Obamacare is still failing Americans w/ no choices & skyrocketing premiums and deductibles. Time to fix what's broken. #TuesdayThoughts'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "874620090427289601_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER After 1,776 days ReTweet if you think its time for our #EnergyIndependence. #KeystoneXL #4jobs'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "362661720545693699_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Disussing Washington's role in the development of UAS growth at the #UAS15 summit in Grand Forks #NDPol'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "646725061232226304_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'WATCH @USER on @USER earlier this afternoon discussing #ISIS HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "689879369884524545_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'As of today, no more annual $ limits that previously cut off coverage for care when you need it most #GetCovered #ACA'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "418470979845619712_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'At my request, @USER conducted an unannounced site visit to Hope Village, the men’s halfway house in D.C., following two deaths there last week.  They found residents with adequate supplies and no COVID-19 cases.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1248694711889641474_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Democrats are passing bills #ForThePeople to: Lower Health Care Negotiate Lower Rx Drug Costs Protect Ppl w/ Preexisting Conditions Reverse Health Care Sabotage  #StateOfHealthCare'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1224789095324553217_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Ensuring that quality services are being delivered to our veterans is one of my greatest missions as a public servant. That’s why I’m proud to co-sponsor #HR95, the Homeless Veteran Families Act. #ForThePeople'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1133766690242748417_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Proud to see these @USER students in Washington today uniting in defense of the most fundamental right ― the right to life. #MarchForLife2018'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "954490230886854657_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Columbus' selection may be “surprising” to those in New York, but those of us who know how innovative Columbus and the rest of the industrial heartland is didn't bat an eye. Good choice, @USER   From @USER HTTPURL…'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "954075354980896768_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Opponents of the #KeystoneXL pipeline are extreme & on the fringe. HTTPURL'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "533323979818545152_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'At 5pET / 2pPT I will talk with @USER on CNN about the war against #ISIS / #ISIL in #Iraq.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "603636524366876672_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Talked with @USER today about the importance of U.S.-Ukraine ties and how the impeachment inquiry is affecting that relationship.'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "1202709749202112517_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'House #GOP voted twice to replace the #Obamaquester. It's too damaging to our economy'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "299981046844375041_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Glad to discuss the #WOTUS amendment to the #FarmBill, #TaxReform and NEPA reform with @USER members.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "999354598254096390_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'The deadline is almost here! Are you covered? See what you may qualify for at HTTPURL today. #GetCovered.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1067794249389940738_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Chatting with @USER about how great this year's #FarmBill is, in terms we both understand: it's both a grand slam AND the Triple Crown of bipartisan bills. -SB'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1007019489752506368_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Cornyn voted for bailouts and Obamacare funding. If re-elected he'll vote on an Obamacare bailout. Will you let him?'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "422458652847378432_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Grumpy Pants by Claire Messer was a hit for kids at Northeast Library this morning. I’ve had plenty of practice reading to my grandsons, Justin and Brendan. Happy #WorldBookDay!'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1120760669232607232_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Chairman @USER & @USER welcome Canadian PM @USER at @USER Good discussion on #NAFTA'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "918132899907620864_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'You need to come here and be reminded. We can never forget. September 11 changed everything. It is now our responsibility to preserve this great nation and make sure it thrives. @USER #NeverForget911'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "1171823912440729604_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: '#SchumerShutdown Means US Service members go without pay.  Time for @USER to put our military first and vote to open the government'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "954778643074637826_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Today we honor those who lost their lives and loved ones and the first responders who bravely put others before themselves.  On 9/11, our country stood as one united in strength and freedom.  That day there was no Right or Left, rich or poor – we were all Americans.'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "1171825449447690240_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Cosponsored this bill because we still have a long way to go to protect our global #LGBT community.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "560878819393802240_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Meeting with Mike Little of the @USER in Grand Forks discussing health care issues #diabetes'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "639213361360707585_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'If Republicans win their anti-health care lawsuit, Georgians with pre-existing conditions will lose lifesaving protections – sending their health care costs SOARING. We must #ProtectOurCare!'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1217213361647210497_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'The vast majority of Americans believe Special Counsel Mueller’s report to the Attorney General must be made public. And w/o interference from the White House. They deserve the truth! #ReleaseTheReport'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1109510177592627200_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Join us on Thur for a #ACA Town Hall! We need #ACA stories from all DC residents, regardless of your source of health care. #ProtectOurCare'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "834105746010804224_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Let's take a stand against bullying and support #LGBTQYouth! #SpiritDay'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "654739892052733952_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I was honored to deliver the keynote address for @USER \"Night to Honor Israel\" in Bismarck as they remind followers of Christ of our religious and cultural roots.  Support for Israel is not situational. It is obvious.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1179396899276804097_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Asian American Pacific Islanders are one of the fastest growing communities in Nevada. I’m proud we could help celebrate our state’s growing diversity at @USER Asian Night Market. #AAPI'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1186373401687912449_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I am so proud to have such incredible, smart, driven, caring daughters. Nothing gives me greater joy than to be their mother – except for maybe my grandkids. Happy #NationalDaughtersDay to all!'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1177038819201146880_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'We heard many touching stories from youth facing the cancelation of their Temporary Protected Status. These Nevadans are just one reason I’ll continue fighting to #KeepFamiliesTogether.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1154808580635103232_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'State health officials have announced today 239 additional cases of #COVID19 in New Mexico, currently totaling 3,213 positive tests statewide.  Sadly, @USER also announced two new deaths related to COVID-19, bringing the total to 112.  More info here: HTTPURL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1255621685929074688_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '17 years ago, Americans went about their daily schedule unaware that our country would be forever changed. Today, let us remember the innocent lives lost and support their loved ones. HTTPURL #NeverForget'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1039501356393013248_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Discussing \"Shaping U.S. Energy Policy in the 2016 Elections and Beyond\" at a Tuesday conference sponsored by CSIS.'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "725321927594790913_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'I’m grateful to Secretary Husted for standing up for Ohio voters and protecting our private information. My full statement:'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "880872538695507968_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'DC residents lining up to tell their incredible #ACA stories. Real life and death consequences of repeal. #ProtectOurCare'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "834919555403251712_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'China and Russia are stirring up trouble in America's backyard and threatening our way of life. As they try to gain ground in Latin America, I am committed to working with @USER Admiral Craig Faller to ensure he has the resources needed to defend our nation and allies.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1235662708873314304_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'As a paid staffer while still a student, I was proud to help organize the #MarchOnWashington. We celebrate progress toward achieving MLK’s dream after 55 years, but we also renew our resolve for equal citizenship for DC residents, an unmet step to perfect his dream. #DCStatehood'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1034531292753395714_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Our 2017 End-of-Year Newsletter continues with Part 2: Leading in Congress to confront sexual harassment. Ensuring several wins for DC taxpayers in an otherwise awful #GOPTaxScam bill. Passing a bill to honor 2018 bicentennial for Frederick Douglass. Look for Part 3 tomorrow.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "948255615255760896_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Met teachers @USER Matt Kelly ES, 5-star NV school w/50%+ Title I funding, would be devastated by cuts #stopthesequester'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "303918037176819712_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'After holding roundtables this summer with Wisconsin farmers and manufacturers it’s clear that NAFTA needs to be replaced with a modern trade deal. Let’s get #USMCA passed now. #USMCANow'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "1171446493200277505_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'RT @USER This is how #Obamacare is treating young people:'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "455118538169401344_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'State health officials have announced today 115 additional cases of #COVID19 in New Mexico, currently totaling 1,711 positive tests statewide.  Sadly, @USER also announced seven new deaths related to COVID-19, bringing the total to 51.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1251274368916709376_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Vetoing the #NDAA withholds support and resources our troops need. Mr. President, it is time to #SignTheBill #NDPOL'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "656852579830341633_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Today marks 67 years of independence for the State of Israel - Yom Ha'atzmaut. #IStandwithIsrael'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "591291753455562752_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Sharing how #taxreform will benefit all employees of @USER with @USER #TaxCutsandJobsAct #SOTU'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "958504176706826240_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'As a member of @USER I support legislation demanding answers on #TrumpRussia. #WakeUpGOP'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "890223418720870401_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Cornyn voted twice to fund #Obamacare. Would you have voted to fund Obamacare? #tcot #teaparty #gop #txsen #txgop'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "right",
+        "image": "422453296322723840_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Cornyn says he \"doesn't get the point about open carry.\" Let's teach him a lesson. Early voting starts Tues, Feb. 18'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "434804942423863296_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'State health officials have announced today 116 additional cases of #COVID19 in New Mexico, currently totaling 1,597 positive tests statewide.  Sadly, @USER also announced eight new deaths related to COVID-19, bringing the total to 44.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1250914393610571777_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'State health officials have announced today 186 additional cases of #COVID19 in New Mexico, currently totaling 4,031 positive tests statewide.  Sadly, @USER also announced five new deaths related to COVID-19, bringing the total to 156.  More info here: HTTPURL'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1257437406745239553_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Today is #SmallBusinessSaturday, a day to support the local businesses that make NY-11 great! Whether it's creating jobs, growing our economy, or investing locally, small businesses are the backbone of our community. What is your favorite small biz on Staten Island or Brooklyn?'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "934534141269471232_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'At Yolo County Job Fair, a young job seeker & his grandmother learn about apprenticeships HTTPURL #CA'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "478949348622204931_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Today I signed a petition to end the #shutdown & put our government back to work HTTPURL #p2'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "389225414671233024_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '58% of women use birth control for health reasons. RT if you know #healthcare is #NotMyBossBusiness'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "487331580307046400_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Signed petition to #DemandAVote on #ENDA: protects #LGBT Americans from being fired for who they are or who they love'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "512700830336577537_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Years have passed since the tragedy of 9/11, but the sorrow felt by our nation will always remain. It was a privilege to sit down with families & friends of those who lost loved ones on that fateful day to talk about our community & issues important to them. We will never forget.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "957011941683286022_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I take the safety of Nevadans seriously. While there have been no reported cases of #COVID19 yet in our state, I voted today to ensure that all Americans, have the resources needed for an effective and comprehensive government-wide response to the growing public health threat.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1235324797602664448_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Big win for ND, our economy, & our allies - #Congress expected to lift #crudeoil export ban #Lifttheban #Yes2Energy'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "677194912652218368_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'I signed a discharge petition to raise the minimum wage. It’s #Timefor1010 #RaiseTheWage HTTPURL'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "439225704668876801_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Enjoyed the opportunity to sit down with @USER @USER at a #climate forum hosted by @USER A lot of Republicans are engaging the issue seriously which means we are closer to a durable bipartisan solution.'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "1115361245408919555_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Great to be a part of Pastor Flippin & @USER for the grand opening of their new sanctuary.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "496341579381342208_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'I requested the CAO to withhold my salary until the government shutdown ends. Members of Congress and Senators shouldn't be treated differently than anyone else. Our brave men and women in uniform aren't being paid, so neither should we.'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "954800495436103686_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#IRS must think money grows on trees. RT if you agree!'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "348171163320590336_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Today at 3 PM I will be joined by state officials to give a public update on the state’s response to COVID-19 and to make an announcement regarding a statewide stay-at-home instruction.  #AllTogetherNM'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "1242155545244520448_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'There are just #3DaysLeft to sign up for health insurance that kicks in Jan 1st. #GetCovered'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "543491082970230784_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Millions are suffering because of the #GOP's inaction. It's time for @USER to allow a vote to #RenewUI'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "466664682984460288_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'This day in 1965, LBJ signed 1965 #VotingRightsAct into law. Congress must save the vote from damage done by #SCOTUS.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "497054819287568386_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: '.@USER student Patricia Gomez helping us draw tickets to watch Pope Francis' address to Congress!'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "644895129006919681_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Attention New Mexico farmers & ranchers!  Applications are now open for agricultural businesses to apply for @USER Economic Injury Disaster Loans.  No lender is necessary – New Mexico farmers and ranchers in need are encouraged to apply directly here: HTTPURL'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1257458791421018118_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Americans want a budget agreement, not ANOTHER costly #GOPshutdown! --> HTTPURL'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "643465165824991232_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Every parent and every child should have the freedom to access a quality education. National #SchoolChoice Week'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "right",
+        "image": "824693676291092480_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'It is alarming how out of touch Republicans are about women’s health. When is #GOP going to focus on jobs? #HR1797'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "347131991130513410_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Very honored to meet with Cincinnatian Jim Obergefell today. #SCOTUS #MarriageEquality #LGBT #lovecantwait'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "587705203740319744_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Grand Sky Joint Use Agreement Signing Advances UAS Development in North Dakota - HTTPURL #NDPOL'.\nOptions: [right, left]",
+        "text_output": "right",
+        "image": "715223433035038720_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Standing strong w/ DC students who are saying #enough! We must act now to #StopGunViolence #StudentsRising'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "651427631842394112_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Many of us are spending time with our families indoors to #flattenthecurve. Use this time to help your community get the resources it needs by completing the #2020Census online at HTTPURL. Complete the Census by : 844-330-2020 or (En Espanol) at 844-468-2020.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1245427300260352000_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Today we honor and remember the lives lost on #September11th and the heroes that protected our nation. #NeverForget'.\nPlease select from the options: [right, left].",
+        "text_output": "right",
+        "image": "1039554527328968704_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'State health officials have announced today 107 additional cases of #COVID19 in New Mexico, currently totaling 4,138 positive tests statewide.  Sadly, @USER also announced six new deaths related to COVID-19, bringing the total to 162.  More info here: HTTPURL'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1257803537678917632_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: '.@USER are working hard #ForThePeople. Unfortunately, hundreds of critically important bills we’ve passed are being stalled in the Senate by @USER Here’s a list of several bills that are being held up in the Senate that would benefit the American people:'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1181570123842371584_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Was at @USER to remind Ohioans there are only #13DaysLeft to #GetCovered'.\nIt is posted by a politician. What ideology does the poster belong to?\nPossible answers: [right, left].",
+        "text_output": "left",
+        "image": "446006097728380928_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'The frontlines of the #OpioidEpidemic are treatment providers like the New Hope Corps. here in #FL26. Thankful for their work to combat all #opioid addiction, including the shocking 1,027% increase in fentanyl-related deaths in #MiamiDade since 2014.'.\nAvailable choices: [left, right].",
+        "text_output": "right",
+        "image": "1015331292651585539_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'Repealing the #ACA takes insurance away from the poor and gives a massive tax cut to the super-wealthy.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "819207347436457985_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a politician and is associated with the following caption: 'Since taking the majority, @USER have treated every day like #EarthDay. Intro of HR 9 for #ClimateActionNow Created @USER committee Hearings on #ClimateChange We’re fighting to #ActOnClimate.'.\nWhat ideology does the politician belong to? Left or right?\nSelect your answer from [left, right].",
+        "text_output": "left",
+        "image": "1120374889888800769_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Students who qualify for #DACA should have the same access to Federal #TRIO Programs as all U.S. citizens. #TRIO4ALL'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "745302274319220737_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'It’s time for a vote on the clean #DREAMAct. I signed a petition & I urge all Members to join me so we can #protectDREAMers now.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "912745682964029440_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'Voting is how Americans hold their leaders accountable—we should make it easier, not harder, for everyone to get involved. That’s why Sen. Klobuchar introduced the Same Day Registration Act to require states to allow same day voter registration. #RegisterAmericaToVote'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "1101169699428225026_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the politician, who has post the image with the following caption: 'Every region of the US is at risk to feel the consequences of #climatechange, and it could exacerbate existing economic inequalities. Congress owes American families, communities, and taxpayers action on this issue.'.\nAvailable choices: [left, right].",
+        "text_output": "left",
+        "image": "1138888200108236800_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a politician.\nThe image has been shared with the caption: 'With record numbers of Nevadans applying for unemployment claims, we must do everything we can to assist the hardworking people of our state. Help from the #CARESAct is on its way, but you can navigate your unemployment benefits below.'.\nPlease select from the options: [right, left].",
+        "text_output": "left",
+        "image": "1248678142140547072_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a politician. Could you determine the political ideology?\nThe image comes with the caption: 'This #NationalWomensHealthWeek, we can celebrate that being a woman is no longer a preexisting condition #ACAWorks'.\nOptions: [right, left]",
+        "text_output": "left",
+        "image": "466237012711055360_0.jpg"
+    }
+]

@@ -1,0 +1,2502 @@
+[
+    {
+        "text_input": "This image and the following caption are from the same user: 'for your responses disconnected from reality, a little dose of it'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "121819c2283a139ab4c8bd4c2ae1d005.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'For 6 months I fllwd a bunch of resilient rangatahi and cool mh workers working to prevent Māori suicide. Story in…'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "ec9578ca06b7904e42e6c2e6586df874.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: '. You're going to keep me on hold right up until 7pm, aren't you? Then disconnect 😣'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "3cdfa1e63061f325ed92df3242d4da9.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'It's gonna be totally high!\n\nHow high is that?\n\nTOTALLY!!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "2c3fa19946483f791727f494fe856c5a.3.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Cool!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "2c9305d1faf39be0b452b79f1f9bd4b9.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'truthfully'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "b76a921b1fe7da902a7df61723db2127.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'shadow is the 2nd best Gief player I know. (・o・)'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "3478b8af3817646730f78710fd7cc84e.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Thank you for your solidarity. We are greater together.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "b42a8b1ff5de9ba3b655eecbaf972088.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'THEY OWN YOU'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "65e1255f43832578aeb53f51351d355e.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'As predicted that's the hibs keeper carted off already. I think he has a hangover and can't be arsed today. Fucking loser.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "9d791bd58055fa6de08c25825df130e.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Hearts been on an extended winter break and not been playing games? 🤐🤐'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "814fe3cc5776429733e212dc5825400b.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'excellent decision and I'm very glad to know this.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "fb48c695ab31539ad403215f950362ea.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'THE DRUGS DON'T WORK.\n\nBut carbohydrates do.\n\nIntra workout nutrition at its sugary best: (real)…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "aea6b0cfc3e18d36ae45f2d3fb72efe4.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Oooh 😩😩Yesss 😩😩ignore 😩😩😩ME😩😩😩 MORE😩😩😩😩'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "ecfa46a8e0aacc862332d4edc8065b43.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'who?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "58daf42d9b7c108ebd321de1471b57e1.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'My very first ever pair of jandals! (Aus:thongs)'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "6e1911c6d55057ac78a23c2a6aced69a.9.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'The sad thing is is both Trump &amp; Pence would do that sh*t &amp; so would Trump's whole Cabinet'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "1de5e53b813163d9c5105cd15ccaa842.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I am very excited to share this news and this job opportunity. Please share far and wide.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "d857f3e6b85bec0e58893b3c2c401cfe.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Rock and Roll never tasted so good! Cracks me up all the time'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "db82c4053b31c47da5ec768e59c6af38.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'fk the h8rs'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "2b6dd458595b6150a6a6252245dcfa19.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Still waiting for mentions of Lucille Tracy!!!     and I are hanging out here for S2 Part 2!  And More Col. Casey!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "1813754406b098996adc6313a89587ba.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I don't look at babies but I do look at food'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "2dac1ca1c60cfbfec3d394b431e48d69.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'If you're blowing a bag of Tostitos, you're too drunk to drive.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "b13f871afa48f4b0b9252f48b1330e8d.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'New this AM: Former VP  launches nonprofit foundation to promote equal rights/opportunity -'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "c4312059635a18381cfa93d706aafc09.9.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Go to the police!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "2c347fb98d1a9684f9da96f8215805b1.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Surely those frantically trying to block this imminent dictatorship can use that as ammunition. Their intention is clear - they told you.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "d82af32b53d3c732ba2283d715e556c8.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Let's keep it local  \nTonight  w  spinning tunes!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "b2d6f031eb2226e08c7bb07c7b88a3f5.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'cheers. Will watch'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "9f907cb2220b76089754567dbdfe7650.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'This year looks pretty good so far ✨'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "9a28590a68753ba631458a2fb8678056.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Given that he doesn't *really* seem to be enjoying his presidency, perhaps he's in the wrong job and should retire.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "30c8d71b39640d057ecdce0550443f54.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'great spot. Some of the sculptures are rotting into the ground but the Heaney quotes are doing fine'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "f614ac5b82da8abc5874fb45ad33b552.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Ethical rules, appearances, and all that.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "2e6bcee6023b20beddadb2035ea5adc0.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Hope you love it as much as I did.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "958af926faa568cebe5287a8f05627e5.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I just published “When Both Tech &amp; Humans Fail Us: A Tale of Lost Luggage”'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "b1ad2f7eea718d4473672f93a72a3098.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'after over a week of trying to get your shit GT62VR 6RE to work as well as my 3 year old laptop, it scre…'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "4711536857c12b2c21cfcc84ec1dad2b.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'His most menacing, chilling, crazy moment was before he became the Joker, standing between two guns grinning, \"Better be sure.\"'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "c222c5b205fbb531e78c07b9ba9971ab.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'if it's a reply I believe (but if someone follows both you and the person you're replying to they'll see it too). I think!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "d1f7790bad8b2c3e0e98d02000ccc124.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Saw a pro Trump ad by  Trump's guys in congress want to keep Medicare for those 55 n over but gut it for us. It's generational warfare'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "9675cbdd1ef1a52dcba49333ddc68770.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'happy birthday bud have a good one 👍🏼'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "4c1b300d2ebb16dd2d8f7f861655bad7.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Glen Eden to ponsonby by AT to arrive b4 8:30am Tues 01:15  dep @ 5am 01:40 Car ~1.0 dep @ 7:30'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "321c9018f42c92a2189fcfe558c60887.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Toddlers with guns kill more people.  \nI can't believe this is happening to you all. Wish I could do something.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "34993970b1a6b1deaa3393c94fb84d99.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'excited to be joining the board of Dynamic Push!'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "b29dd05fe8d1c6878530c4df9f58a889.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: ':o'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "94a2cbaacdb0a26c1978096c6e435de.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'What's with folk n company vans giving u death threats for being on ur phone in slow moving traffic that'll be another complaint made🤔'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "c6e44e21c49f4d6f7cb046c67ca95d1b.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '29 Must-Read Books for   by'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "5f799a53ff8e12105cd8f5b4504c264c.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Maybe.  Then what? Mike Pence and ... David Davies perhaps?  Not much of an improvement.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "1950b9d45fac987fcecc1950ca8d69c5.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'This is fuckin awful...trash game'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "b55e2f782bdf15016dac93dfa3421c07.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Worth considering as an end-of-year resolution: if we only read or repost articles that use the word 'unicorn',...'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "24750381eecbb8b34f848ee36c282201.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Your daily reminder that   &amp;  are running the show.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "49a7829a8008bc23393718e3677d4be2.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Great to have support .  promoting awareness &amp; raising funds for a gr8 cause! Caring peopl…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "4517849641711cc18606b7b8a99380e.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I'm loving the thought and concept so much right now!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "d0c41987e4159ee7f91fcef2b5331c80.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Been listening to  their album A/B is brilliant.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "69b127747c1c98427f3307cb2e075dbd.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '9 Things I Love About AgoraPulse'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "2128dee00ae52067a0311e2e1deaceae.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Do you have any honey in Christmas packaging, such as a set of 3 small jars of honey?'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "ea49a03795858684ae522978b85a064.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Every place I ever bought them from called them a scallop. As they should.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "c8f882deb769e6f9c45681915f0fb38e.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Only thing real fans want is fairness. Pity we didn't qualify for World Cup in Brazil !!!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "ba78a87eb0d64065c10d1884a2e0ccfb.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'LED hula hoop'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "d72af6704318fec667ec26dc7a18635d.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'they aren’t selling out their identity, unlike others.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "475b643ff2d693911fc38356a50af646.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '. today said \"no American citizen will ever be targeted\" by US. White House now walking that back. WH spox…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "b1467e8e2cd1d3f9ea364fdf64bb9027.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Super cool video of what it would be like coming in to land on  courstey of'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "69eb7a0d00e76adc385dcd481fa9439b.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'for u to be dishing out this kind of advice I sure hope u are married with years of marital exp, if no pls stop.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "cabefdc06b2df0bc802d448773e1c47b.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'the best!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "421df793f9b76bebb699e6f070332aca.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Amazing Salads 28-Feb Our course aims to teach you how to make the average salad quite special…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "4e32dd2b8adf9a5a5425ed81fa4dd5f9.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I hope this doesn't result in pop up mania'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "411aa32e0a3a35711ee11d395af2c185.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'you choose to bless us in the shower room? with a selfie? 😂'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "231c4b7aadaeb2b94c398958a69ebb3f.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'This led to a life of campaigning. He fought for: sex education, cervical smears, a 2nd medical school, the contraceptive pill,...'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "fc5f6904930212af672e641100cd9287.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I paid my c section anesthetist before hand 👍'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "49747cfa6d60ab2a43a4bc81093e83b7.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I can't wait!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "6f52118e53900bfdeb65b7528bfcd936.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Freshly groomed by  and ready for a he holidays'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "ad2578a02b897d97ee5b421e5d91aabf.8.png"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Thanks Hadi! I'll take reordering too. As long as generated files appear last that's already better.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "e24bfcc7901e5342625bbdc73aac6e.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'What your  profile photo says about your personality   by'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "f63c6de516d135f72846fa37903572c7.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I've been asking for the numbers behind the survey for quite a while. Feel free to illuminate me.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "3186e511f5e014b30b50287e45d2627.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Such a sad sight. For many, the ABC is a major point of contact with the rest of Australia. Lack of consultation…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "111dca856335d766d2c4f90d9d60b616.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Want cuddles'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "38331f2585c3350a5496bcdaabed5707.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'KoC is live:'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "bd702beb4943e0437e738bb38d16b585.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'And   who has been on top of this story from the very start. Incredible reporting.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "ecff3591f1fa5d64263f4a6360528783.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'So: The Russian president &amp; a nazi (yes he fucking is don't look at me like that) are running the USA.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "eec9003ae061e99774fc67dfba461759.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'can someone shove that mike sideways 😂😂'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "9012e8dcff449aed59d67b5f8af566b5.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: ':D'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "926cc2455349995fbcf355c2237ed58e.3.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'HOW FUCKING CUTE'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "35d7ac2a4f13c9e08677ac560b6264c4.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'The great   is also board chair for  Amazing funding for a great university! Congrats!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "460d193d5405984f41bc42f52c4df1e.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'for Our Global Age.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "3893e087b31c3c0ea428b286c6427654.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I'm about 2 wks from submitting my thesis (finally!). This marks month  since I began it'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "8ad52bf0ca3c80f92939c484d1819013.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'was that on Spikes headstone?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "d933721d9a00612fda108cc2b5c9260b.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Yeah this made my night 😂😂😂😂'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "d9a901d1e5e279844ef1e22617c1b288.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Came upon this in tonight's research: the recurring theme in  's films. An insightful read.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "5a2ef034a9f28e6939b3a872602060af.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'one person followed me and one person unfollowed me // automatically checked by'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "dc5bfb4810fc908a1a7c73dac30ec689.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'How many millions of dollars did it cost to come to that \"bleeding obvious\" conclusion?'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "b0e7fd4b16b19232a3367524a91596ed.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'is a must-watch.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "dd9330b6c848353fe686966940415340.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'and he hasn't seen your liver! (Yet)'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "a937ea8183ce2c86f51cdf784ffd647b.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I usually hate when news websites scrape a story out of a funny poster in a shop or something stupid but it's kinda refreshing now'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "c3c8a534c98ca35afdb3fe341e499164.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Tried watching  but too tired for the 'conservative woman' bullsh!t and casual racism. Nos da'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "899e46352c55692b15145617973625f2.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'one person followed me // automatically checked by'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "5fc5fd14766fdca581e748fbb68c3488.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Is \"riffing\" the new plagiarism? Why do people do this?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "9671d82c56a1983b949390bd5d76993c.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Congrats Amber Harper Riverside Girls HS 1st in Human Services HSC exam 2016 Thank you also to her teacher TAFE NSW…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "4e2dd7c184ccddbc3a34bc3a3da093e5.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'My suggestion for WH staffers who have been ordered to'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "797780747c58d714fe4eb38a58cb35fb.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '*typeface'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "526a4b44072b4e9d2788f26431a03c3.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Just commented on  The secretary of Nazi leader Joseph Goebbels has died at 106 -'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ff26ace44cfced9f9b329afc23aaeda6.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'what flavour is it though?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "14dc8fb2c7e54c80f373dafbfa99dc9b.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Particularly all that Navy rotary wing news in'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "6f2aa6fb750865602f80d4475b7d242c.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'yeah that's exactly what I was looking for, actually.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "406ee9426b77d3c8d557d7fa33e72ccb.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Why are Jews banned from your country?You said you ban no one based on religion.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "ffa8289a14683e00a607a2d9bb5d1367.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'not too bad in arts'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9a50e74b9f805526aaaf08631bb2af77.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Judging a book through its cover'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "c186b201bc1304d1c37a63133ab3cb7b.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'How incredible is the water at   This town is popular for…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "c2ecc9cd4e12d4e316753ebe409208b3.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'With voter-fraud investigations, gerrymandering, and new “fraud-prevention” identification laws, they'll deprive minorities of the vote.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "b5d7058e30e12e1b45bf5c11831db48e.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I'm a supporter but he doesn't have \"it\". Doesn't compete.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "4138304267eb93062dc127e638f99c24.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Yes! Definitely worth reading. Sciencey and interesting and pervy'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "2df7df4300342bce2d78ca7e9fe9da01.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '. 'The BAI decision to allow the Celtic Press acquisition by INM is a curious d…'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "badec3bb1aea1f2d16e9e27f7582e5ba.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Me when I'm sitting on the bus, and get whacked in the head by someone's oversized backpack/bag.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "944496c65786ed87ee96bd8f2900af26.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Watching the fierce . on  Looking forward to hearing her keynote at'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "62a3dba698e96b7d37771350ab30cf31.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Today is international  so is it or isn't it?'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "5a848105d4521bf16f6295e4eef4e69.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Hey, my picture is on   's website!  5. May 2017 with  . (Me: the one in black tux.)'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "3ad961fe0e25e42ce4147ce8fcec6874.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'BREAKING: Fluro Nikes have sold out globally. Some fluro may be available in Brooks though.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "975dfd25e811fb73bd1fbec06513834d.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'What's the difference between Julie Bishop and a Catholic bishop?'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "6506f6545ef22f3d6d8dcffd1b8a5bad.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Ray z slept walked back to America 😂'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "99201afcaf7a8152fd4649530fb4eb8b.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'On this day  we must learn from the past &amp; protect children  at  conference'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "b163ffb11f239d73f949849b0ff89a6a.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'by'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "b29203bc69ce78af1cd678d36065704f.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Appreciate that, my friend.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "888f1b40b26b28deb330c61f2797b231.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'so depressin leaving ma pals to go to work whilst they're still sleepin🙁'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "a529a9b99856ffda06932493441bae7d.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'We are looking for new staff - Sector Development Manager: Science and Commercialisation'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "91fa1a3bea0dd5b55d80f988c99dc3d.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'at war w the  &amp;  &amp; clearly has no sense of humor (especially when he's the butt of the joke!) S…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "92de8f6dca27b7441c50cc5f65333e70.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'US should redo election if voter fraud is as rampant as the GOP says it is. I'd have been happy I won the election…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "d87bce7865724030049df4a9b2b68f19.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'just having a bad life at the moment 😞'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "ce6da8912b039169e6c25b426720defb.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '770s: Byzantine Sicily produced several iconodule martyrs. The emperor had Methodius of Syracuse scourged +confined underground for 7 years.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "fca10ae8da648e818a2ef98b26f8476d.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'It's only 7:57am and I'm already getting a tan just by sitting on my balcony ... It's going to…'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "54e1e10a0c85a494d775c4b3221fbbcd.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Am better at writing to someone else's brief. If I pitch there's a chance my angle could change while writing.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "dfa86325afc69b1254c6371c3de8365.1.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'My 2 fav things in life!\n sung by my fellow  Fans led by'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "b2d6f031eb2226e08c7bb07c7b88a3f5.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Len Faki round 2 coming up 🕶🔥'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "2b6dd458595b6150a6a6252245dcfa19.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'yes! This tweet sums up my feeling on it exactly.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "4aa8ced985d225a2d534b73b1da04dc.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'race to the toilet and get them shaved mate'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "de361504c6f0892866fceefbd5c04b34.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'We invite you to come around with your friends this Autumn and relax over some luxurious…'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "1f90146e5b7046230dc48caa2ba099c0.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'wouldn't you think we see and hear enough of   Ray Darcy ?   just turning off now'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "2a9470350d81d711c078d37b9bfe1c71.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'not sure if anyone has lamb basted you but Kenny was driving a Acura NSX'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "7fc5a43890b83029ab05586f9a178c6a.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Never have I wanted to be Elmo as much as I do now...😍'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "135d0bc24de199a17657c9809500dfed.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Top Burgers Around the World | Departures'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "b77ca4e7d48146fe64995793e7e8a79f.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Threats to our democracy and lies pushed by the president must be very \"entertaining\" to you, huh?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "caeb7e72dcedf3b594e229910ca02fbd.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Want some  🍾😂'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "76e53094a2cb756d160c4825ba298950.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'The scary thing is they think they are the future.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "66eabf9f244ccf162fda0500d9d6891a.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Brunch Survival Guide: Taking Your Kids To A Food Festival'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "c2ecc9cd4e12d4e316753ebe409208b3.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Instagram will soon let you share multiple photos in one post - The Verge'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "9d627d1c227c18198aa7430528f6121d.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'good point! So I potentially had a bad santee who either didn't Luke their gift or just didn't post 😂 🤔'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "267e518f59421d6ac15b6250304d780c.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'My nephew has Bat Moose PJs... There is no way I can explain to my family how   makes these funny'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "f050dc9f3f67cbfd63af9aafef74483f.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'How might we empower people to participate in research or solve problems related to their own health challenges?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "7141e60dcef013f056232f47a5b8a01f.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'No time for political stuff right now people. My personal life is a tad more important  ( a lot more ) Wedding this week! At hairdressers'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "e4bf91e2014cddd7f8a2c9b121e4046f.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'hell that would fund a week of post brexit NHS'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "63f3b8d05272fe5eef0f5212a661955.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Laugh out Loud - genuinely :-)'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "9fe28ee7c08bcb0daf629b798153d040.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: '4 Little-Known Reasons Martin Luther King Was An Amazing Leader, Human -'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "546c2dc8d5a19278860354fd0d9276e1.0.png"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Still waiting to hear your response to David Archibald's statement that single mums are \"lazy and ugly\"'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "36e45d7876c11948fb56adb65b52399b.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Holding onto this guy as long as I can.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "444ec23c21b7d49ae9b891d8c0bb7da9.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Our esteemed judges announce themselves for presentations on the final day of'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "ae24f0f7f930407fe2422f5fc624b7e.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'you are the biggest fun!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "a496f618134f699b5c764463f84fa05d.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Okay, you win. Just laughed so hard I think a rib popped outta place.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "da3dce3f5ed0ef5f69b202d3927cbadc.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'ahem there was a 2 hour episode tonight and you haven't even been watching 🤔🙄'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "8d000f3ccb80ee2d035a20e7bcdff9a8.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Heaven!   Wild Boar is immense! 😃'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "ba9bcd35ccd60697cd5228a3059effb8.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Left &amp; dishonest media will try to deceive!  but'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "ac0ad5ef82c0feaa72dbfeb4eb8ae9ea.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Good Piers, I wondered if your moral compass had wandered off, it's still there on a long leish.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "c9bf0959e9e0e6fb25c8be08593bf8ca.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I left home before noon and it was still strong.  Haven't had a call from Fortis.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "15dea056d358c19b64f6357ac9469592.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Well at least he tried, You're just doing a really bad job...PERIOD!  ILLEGITIMATE'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "96f76e7660a4c3b4889f624f657a030c.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: '( ͡° ͜ʖ ͡°) ༼ つ ◕_◕ ༽つ ( ͡° ͜ʖ ͡°) POSITIVE VIBES ONLY ( ͡° ͜ʖ ͡°) ༼ つ ◕_◕ ༽つ ( ͡° ͜ʖ ͡°)'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "1b5fa39a99f774adee4ef02b7580f328.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'My answer to Why is Office365 so much ahead of the competition?'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "39e8699a08f2dc3a2e562a9885dd85a0.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'How to herd cattle ...'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "5c2d8ecd00d2521b04c0344006f82c5.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'exactly 😂'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "97996ed0b79c9a044d89532175e2e759.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'the time you put through a £100 bottle of champagne on company credit card on hogmany by accident 😂😂'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "10fe1538f8ac69683ebf8af14988e89d.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Pulled  on wholemeal rolls with cheese &amp;   for'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "a3fc8c960f8ae10c890e42191fc5a01f.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'just found myself getting annoyed. Not sure if it’s the people I follow on twitter or what’s actually going on.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "a53afc08c0225cbe99048908965b3db4.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Some must travel for work and business. ETC.\nBut at least there would be NO co-operation. EG Trade'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "a959c189394616f5c6c31cd90371ba2c.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'ok as i am yet to receive mine and my sons membership packs'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "188d8a4f82017b25b4efdb5da303c6dc.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Supreme court nomination live: Trump brings finalists to DC for announcement'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "bef12751f2ff21b7677777359e6fd9fc.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'extremely happy with the pulls'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "8d000f3ccb80ee2d035a20e7bcdff9a8.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Ooooh thanks....I think that's the one  had seen....'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "b09e80cc77230f4feef6e61b5eae0c9e.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I can offer you a tiny bit of football chocolate...'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "734178fcaa3e4ff04478f1203aec7460.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'remember but also prevent! Stand up for what's right and condemn Trump's religious-based refugee ban EO. Children will die.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "40ff18491c1f3aefa2557eddb2346882.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'wtf is that'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "d128a9d925dcbed1c2940b3d95f2617f.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'One of the sportsball teams is doing much better sportsball than the other sportsball team.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "bb263024c977239d1a1a752c8232ce81.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'PM \"Trumbull\". Speaks volumes. Trump administration is lazy, inept and ignorant, with no sense of diplomacy, history or courtesy.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "2771b827506f2d294556c58e395629a1.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'totally agree mate he can fuck off'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "6e87b6225542ee2764ff3335f452394a.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Having a terrible  customer experience, lost package, faulty automated call system disconnecting me, near impossible to speak to human'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "71d1a8d098c870fc3f297fb40b078abb.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I found one while cleaning the floor and it was empty ... HAHAHAHHA god damn it'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "6863ea1658383596b9181ae4912cdf1.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'GTA on pc is great.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "e047e1f878bf503ef721029af79cb5b1.0.png"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Ok. I have to either go to see  OR  in a couple weeks time as they're both on the same night??!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "e4befd594a7a2b303d321e1b659f5e63.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'ok but her contact pic 🤣🤣🤣'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "31086b20d7eb0ab0fc38fb24a83e151.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Guess  changed her mind again about staying 😂😂😂 eejit'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "36d459a1e445d0da7be71fc691e78959.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'that looks beautiful xx'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "119332e948448bf29110ba44e5b6578.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '💙🦄'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "63d18de4d379b59cc3fe1b5e875ad4db.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'My deepest condolences to you, but glad she went on to the stars peacefully, enveloped in warmth and love.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "c6217ff85a6bb67e497883f8b86c4470.5.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Met my first goal of the year, now I'm about to take a successful shot at the second!  🙏🏾'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "36cd1b54c6b9de6056b86c3f93ed3ce1.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I do agree cause it makes chaos in Middle East responsible are Netenyaho and Trump'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9a50e74b9f805526aaaf08631bb2af77.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'After our recent collapse that's much better tonight, obviously a win was needed but you'll take that in the circumstance, much better.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "5e4b4e7a0c00039cde7f18800e16569d.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'MD 301 / Rt 5 in Brandywine. Wet roads, wet snow blankets the grass, shrubs, and trees.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "3c2fb1cc8a11428868a5add8193bd9d8.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'God didn't promise a life without, pain, struggles and hardships, but He did promise He will give us the strength to get through them.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "ee80ad51c7787ece2c860f430b2af559.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Pleasure! Till the next time :-)'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "3ed6374cb4f82857d5a859036f83b3b2.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Maybe Klopp isn't as good as we all thought he was'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "954268ae1e3400be7cfc19b248345a3e.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'come work for  (you'd actually love it tbh)'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "28ef27366e006fa25016408be96ba9d3.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'No broccoli shortage here:'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "da9d0114a7e55c26c6562a9d8a53c580.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I just earned the 'Dubbel, Tripel and Quad Oh My! (Level 9)' badge on'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "9c9f24657d26c6dd1d90545978709afa.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Leadership Opportunity - Workplace Health &amp; Safety'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "967b5acd92c694bcda2b356932877506.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Ugh, what if he's Irish?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "a9131943030048ca6b324050320498e9.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Oh make a bag of fuckin crisps out of it...Sour grapes'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "f428a6691aaa8a400833f70bb0cae31e.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'YUS! I'm on Season 3 and will be my binge show for the holidays to catch up 😊'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "c644ce97bff020354e4f71ef38fe88fe.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'were but shouldn't have been'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "a4350ed666e65d58b85af8db9ee6c4f9.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'OMG  That. Was. Fantastic.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "a8cb09680a6a15d8d90d6fc35b840b89.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '\"will not sit idly by as our nation’s leaders turn their backs on one of the worst humanitarian refuge…'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "2c691c0cb3eec8fff9c97978acc36754.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Book every New Zealander should own  - Flaxroots Productions'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "455d676616ef36a00ea997681850f942.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Well duh...and it's the easiest gig James Ashby has had yet (That's saying something)'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "3c5dbed835b2e88fc2555829bffc0ca5.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Thistlecrack - A Flying Machine! Prints on my website'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "701dcbf41d0b86882822e2974840cdcd.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I have one of these  and it does the same for me.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "ceccffd5aa2a7c315e27a4a5c590b542.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Upscale Event the Mature Grown Sexy 40+ Get your Tickets  Now best seating! This is the only band sanctioned by Frankie Beverly!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "7604901e88875c13b256c027b63d2022.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I'm crazy about him no matter what he wears'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "8d2c67b2ec1ebad51138104cde3bea90.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Find out how the top tourist attractions in the UK perform on social media - a report by'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "74bcf99189f36395442bf60c86c8cbe4.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'And with Russia. As a child of the cold war, I never thought I'd see that day.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "963e3995840bfaab4b818f90f60e4c72.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'basic argument is that they hate him because  picked him. That's what they seem to fall back on every time'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "3778533828656cce646fa13103d735b3.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Because that’s life. Anything could happen (insert an Ellie Goulding song here).'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "52c02a1a54f74fc29cbb69ea5b4a944b.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'The  click-bait rant neglects one vital detail. NZ society may not be perfect but it's peaceful &amp; socially integrated, unlike Israel.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "e2dc259386a5196f8ee8a4a177d58cd4.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Because Trump set such a high standard when Obama was elected?'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "f9d0fed99878d3c15c32e52967ced985.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'ugh I know that feeling!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "606249b8db53b68a73d0ea295ce44245.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I feel like you can never truly prepare for that moment! 😅'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "26aae4341ae424bfb3a3af34ead81d10.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'haha it's so true that's why you get away with being nuts your little looks take over'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "d128a9d925dcbed1c2940b3d95f2617f.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Thank you for your encouraging words!!!'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ea7b4f02fc2dac8af1868df718eab944.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Cultural competence: What I want to learn in 2017 to be a happier librarian… | Happier Librarian'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ef59326ad70e50282ebbd48868799959.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'The  is dark and full of terrors. Sansa for PM.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "f918a92a2248f02726ed1c717ddf1b87.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'People are still assholes at Christmas...🙃💩🤷🏼‍♀️'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "c21750c122d7e5ca67092aa89512aa8c.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Dear WHPC: How about boycotting these briefings with the  if all he's going to do is lie to you every damn time?'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "489b1c7118d2a3629ada4809eccedd65.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Trump makes Trudeau look positively angelic (which I know he's not, but I bet he's secretly grateful for Trump).'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "a3fc8c960f8ae10c890e42191fc5a01f.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'standing by for Des Buckingham to arrive at Martin Luckie and confirm'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "9f907cb2220b76089754567dbdfe7650.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '\"talk to Trump\" as in \"convince Trump to cancel the EO\"? Wouldn't that be a good thing? Shouldn't we encourage his questions?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "a8b64765126c0b2858d1eb37746d607c.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'A (redacted) poem for the torture report'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "9bbfd556753f98a812d902894a9d6f6d.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'The great jamming    @ Costa Del Finglas'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "42df481ad54ec7d64fac2f7215c10b4.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I love playing westham'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "14dc8fb2c7e54c80f373dafbfa99dc9b.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'What do you think of Red Velvet's new song Rookie?'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "e9adacc40dc8d4b60b706db9c025319e.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'The joyous late-summer swallow fly-by. There were 5, or 7 or 8, and now there are 12! 15! more! Here we are! Here we all are. Babies grown.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "9671d82c56a1983b949390bd5d76993c.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I checked in at CF Pacific Centre on'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "c88e59b72b112810f4a3e47c496b8558.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Yes!! Billy was awesome at Auckgeddon a few years back!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "b6b72fb81cb82ddff134d566a0c64cb8.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'The Tenderness of The Individual, The Cruelty of The Crowd  via'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "80137c5de896f6ad4ccbc7e0151d6ca8.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'number 2  yeaaaaa 😊😚  great roads'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "16f26d25074269fdcd4fe4acc0d6cb88.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Such a sad sight. For many, the ABC is a major point of contact with the rest of Australia. Lack of consultation…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "111dca856335d766d2c4f90d9d60b616.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Popped into the Treehouse Cafe Edinburgh yesterday for a quick hot chocolate :) Better than an office desk 🙋🏻 Might…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "939ea937ff108b33e18483b631943738.3.png"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Heading to Mexico on Tuesday'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "6c92bebe2dabbdeccbc7bdaa4bf9292f.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Half of China’s population now uses the internet on a mobile device | TechCrunch'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "295c6f28eb22c43756a9319e4717652.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'But like this \"dry February\" thing doesn't count in Super Bowl Sunday right?........'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "58d5f0a7d128e673c25ee726c690a46c.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Something that is very close to my heart and truly worth while.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "e33e5a9a3a456483710ffe2831ebf229.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'the pink segment was so on point this year'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "1fa255c9c2d230f14128a18871e93778.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'That's fine. Just don't have the union buy them in to play international.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9db91f495e8f7160dc8c86b7710e68d4.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Outrage over Trump's immigrant ban helps ACLU raise more money online in one weekend than in all of 2016'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "d91e1740692d6db094354934fac17c35.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Kelvin Smythe: NZEI has another confused, lightweight leader'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "e52e0fcc032ff8591f730f720a707e75.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Remember how The Simpsons used to be the funniest show on TV. Like a decade ago 🙈🙉🙊'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "cdb1ac0d64e5f05b490f3356aaf65b5c.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Senior Australian of the Year is Sister Anne Gardiner from the NT for her community work with the Tiwi people.…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "61ffb51eb093d9ea555434252b70b73f.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'NIce - another example of organoid applications for infectious disease research'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "6a7a808f069e296c104fe821f64c94fd.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: ''The American face of ISIS' by Robert Pape, Walker Gunning and  in   via'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "8018694566a32cf72c33cc4b39311448.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'That should say little, not LOL. DYAC!!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "1e98563b61f656bdd20c026afc7d42be.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Reports from last night's outreach teams state that 144 rough sleepers presented last night in the capital! Numbers are back on the rise'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "ee1b527b89d76ec2df0ed9096b4a47f8.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'That's just offal.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "55bbc6ae5e7241d09e0eac7df7402105.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I get brutalist architecture + the wilds of Palmy.  (Or a large hedge when @ home.)  And no BBQ ;-) .'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "2e71e9acd05b07cf48fd503001d9eaa9.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'This FBI agent never expected this call...  from VIOLATED via'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "9a016f3b315ea917a31205afbce7f2d2.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Worth listening to all of this! Uh-Oh: Does Donald  Know How to Read?'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "448fccfe5aa4bcdb20365f1b7ec0e972.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Can't believe  weren't in the top 5 on  top 100s!!!! 😦'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "d4259624bfe49ddd10f2e19be0f0d582.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '*tries to do homework past 10pm and almost falls asleep* *tries to fall asleep and becomes wide awake* *tweets continuously*'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "305be2de52acb7595fbc7c6284f202f2.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'MF Peters is a goon'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "bc36c399964d58fe8871ffd2b6eed863.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Maybe its best to tackle these issues head on: “Look how good their science was, despite them being such a flawed individual”?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "526a4b44072b4e9d2788f26431a03c3.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'faces death threats bc she asked 4 compassion  She ❤️s Harry Potter.  can u send a msg of support?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "139d97a14695d64f44b3ffbcb2746da4.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Do we consider this too early to buy hot cross buns?  😏'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "10fe1538f8ac69683ebf8af14988e89d.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Yesterday's highlight was Arches. Then drive west closer to Bryce.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "cfe998a7157a4eebf32a4f5d4f66cd0a.4.png"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Great to see  making returning to the workplace more accessible for women - a key aim of  &amp;…'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "4950ba279ed95bc863b1a51bfd726847.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'missed the name of the guy speaking about the power of language. What was his name?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "a68e08c1372d1a0daf0cc5afbdf67fb8.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '“Historically, the most terrible things - war, genocide &amp; slavery - have resulted not from disobedience, but from o…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "d528f93398e2882c3b4691cdb432e14e.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'How a B.C. couple’s struggle with addiction ended in deadly fentanyl overdoses -'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "8bf4616196bbc4026122dd5abcc54632.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'it's a power usually reserved for \"humanitarian\" cases, like asylum seekers etc...'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "34daf1bef5be039e43d8a96607047638.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I would love to see it when it's all finished!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "e61debcedeeb7a5bc1b11783aa889827.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Drinking apple cider vinegar and cayenne pepper as my placebo of choice. Can't wait for the heartburn'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "5f5feda20b739ea00bfdc00fd0ca5127.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Pretty cool overview of my year writing on'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "b7b9f87ed2a186e9da1016ad819a4151.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'They're awfully clean in captivity'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "a8cb09680a6a15d8d90d6fc35b840b89.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I think we should sign'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "a77080b2ccee51d694ef95fbc3f926f4.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Good old Port of Vancouver'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "caf8b0af153efc3ecb4ecd6e23973ccb.5.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'And PUTIN REXTILLERSON &amp;all these billionaires that helped get him there .. cares more bout money than ppl'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "ac8a2b05c85b64c5ee46cf604e9bf5a2.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Current mood.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "d021a73286ea1e38f6fe380eeea7e3ab.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Same. In my head \"anonymous\" people have the same voice.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "52fb92d20cd63685c95e44f9b396cd3e.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'what about middle third? We never try and play through even if midfielders in great positions to receive and turn!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "e959fc9ecaf91493c5fef1867b4b82e2.1.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'thank you! So glad you enjoyed the show :)'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "7e6cc35865d196bd9df684091da0bba9.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'BABY BULLETIN: 12 days overdue and we've moved from excited to anxious to homicidal. I think my mask of sanity is a…'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "438e03654a160f5d95dbbebace35ba3.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '1GAM is Tues 3rd, but sure can make it a Netrunner evening too!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "a4d04ccc2a360d21a60bb0e394e8bbfe.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'spotted it! Start a family holiday that day so can't make it this time!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "239748c8c9eabc11fe1c03998525b104.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Arabian sunsets ooroyalmirage   @ The Jetty Lounge, One&amp;Only Royal Mirage'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "c442152357e6441ce5063d132a558d82.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Don't meet  &amp; think you're representing Irish people     via'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "f577076e2c75cce11083174bb7ec53d3.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Watch to the end for time 'for time well spent''.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "a7a044076db57d9e5a250f8a0e94dd85.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'He is not giving up ownership of his businesses, but  is filing documents to shift management to his sons.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "3952e39bffc30a39b6fab12cfad86093.8.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'And if you missed yesterday &amp; can't make it to the final open house today, here is the link to the survey:…'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "fc6f924d3258ad47ee7a6d04c0daf3c1.3.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: '6 days to help raise money for  ! An amazing cause that helps women/ families dealing with breast cancer! (Link in bio) thanks'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "58d5f0a7d128e673c25ee726c690a46c.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'might be down grading to the normal Flu 😷 we will keep you posted in the morning 😉'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "98bc0b653b17e3a97f34685746db0e35.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'It's in black &amp; white..&amp; b4 the election but ppl are like it's fake news...no honey  is Fake…'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ac8a2b05c85b64c5ee46cf604e9bf5a2.3.png"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Georgetown University student abducted, taken to bank machines, D.C. police say'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "7dcd2337a5e59062643c852771393994.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: '- More meaningless rethoric.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "c4771f07238c648448dd04408bb28862.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Happy 18th birthday  ❣'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "3476f4487c97d5a611522a65cfecc2d1.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'too early for work 😩'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "c78ba5d73f898afc8f027948848c19f7.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'All the same, I would wager that Madrid &amp; Barcelona are well ahead of most cities in naming streets after women...'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "a08ab61ad8fbafa19aadbaf474b34ced.9.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'If one of the firearms used was an AK-47, that's interesting because they are prohibited weapons in Canada. I suspect the ID will be changed'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "220391cd5d53cfbfd8db1dc2be20b727.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Some nice Jansen amps on display here \"Our gearhead’s guide to Volume: Making Music in Aotearoa\"  via'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "752471120ab0601f71583d9e19f39bb5.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Went for a walk and calmed down a bit.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "2ec29554102da8e46427c2f783c29926.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'happy bday ollie!! Hope you have an incred day, see you later 🍹😛😆xxx'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "b8238491c31e6b0bab7c240f44b57b68.4.png"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Trump promised to pull out of Korea. Everyone thought it was rhetoric but when he does,there begins the nuclear arms race'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "eb8953887fc270eac77d2019819c7bc2.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'bring this back so I can rt it'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "6e8969e061f87e31ca8af037d934556d.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'A further spoliation of Indigenous people's for the almighty $. Shameful poverty porn.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "9147f96117e270f9aa92478ca1f37ccf.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '\"He is denigrating -- he's talking down -- our democracy. And I for one, am...  by  via'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "898806f9b2d2ecd4b95d5997d61e4c6c.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Bannon is in charge. He wants to tear everything down and create chaos; labor, immigration, government.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "438706f44c3d16d17a297669f25aea29.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'oh good timing, I've got about 10% of the revolution trade to go'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "b8152c6f226017decb92b69150c31187.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'My Artwork title is DEEPALL 26   collection DEEP FALL\n\nCANVAS  30\"X60\"  76cm X 152cm  or  60\"X120\"  152cm X 304cm…'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "e64755a5303a16e130d9478d1efada5a.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'thought that was you. My mum too'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "1c8fa667a0eb4be9ee862274d7117b20.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Where are these cheap DC rents you speak of?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "75fedb4c225fd95763d159eb38a2af39.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'We've just invented the 5 point search for booze at a party - position (where) glass colour level (how full) &amp; Lipstick (is there any)'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "a59db9a09423343608055d777123bf87.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: ''Deeply saddened and offended': Metro Vancouver Persian community reacts to Trump travel ban'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "55db07133dc1e84100c8e477f02c325c.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'You are quite insistent when it comes to getting your message ... More for Taurus'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "e3a11f85b390bfcbd4ac574d8409f6c2.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'u stay complainin even in Hawaii'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "78efec84cb3cd68208f73adb6bf84f3f.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '...now I can only think about how it may be possible to hack the software to give diff answers. \"See? He left every…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "26ea40049732625166d7fbce7c21c008.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'I flew back &amp; voted in LA where I'm registered. This is me all happy before everything got terrible.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "959b8ba6ccad27cfc96cd608c179810c.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Did he actually say this? He's about as dim as a 6 volt bulb.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "6a2aeb9b7c2e76be47554fd6a9577ac4.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Ewwww. I didn't follow  via POTUS'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "8fd522fe51669089b8145464908e6db5.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Trayvon Martin would've been 22 years old today. Imagine the things he could've been doing with his life.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "f6d2400a14529892a457c22358f27126.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'congrats to all'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "92ec89f912fdb081a8af53d435c5d55c.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Anybody else only able to see a human face in this shot??'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "6721cdb7032b115a55ecf15ed17e010d.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Shane Warne does not need to worry he's got a personal Barista'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9bce5ef087339f0f96ad7b417b2b2684.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'what is the evidence? I am interested but only read the first relevant article I found.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "1314faef941d4b3eb8631be95f3f8336.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Great reminder for all the \"bosses\" out there who think they are leaders.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "996034c7d5ff0dfb58f3725768609229.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'shitty weather, supposed to last another day but I'm stuck!! (Maybe the other road is ok?)😔 good old N…'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "5fb799c39e1c8a92f6c580ff516bdc.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Getting drunk with my bro and sis and Emma 👌🏻'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "cf695f227d8adda261d09a10c62359b7.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Post bath time snuggles!'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "6b159a21a6591f19c1089307fe1a697f.0.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Pride of the fleet 2  via'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "9abb3906165444e9d9d5c504f7432714.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'They continued this deadly dance across the battlefield, played to the music of gunfire.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "d3b42832034d158e54b6cafbcdda3ba6.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I've seen it on YouTube! Fab!!!!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "cb54d501962073f6f0212ffa5204d197.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Mum keeping us up to date in the family group chat'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "e1bb3908334aac563d681861c6e1f0bf.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'You can't deny her. She made you the woman you are today, dammit!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "fb4ee2ae4f13089c266ad02894b38783.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I think I'll just try 😂😂 no harm'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "49dab84e2887dba1dbd7f7433637b53f.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I know Shannon 😂😂'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "ef0975616c2e488b8ae49dcacccbedac.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Can you please post a link where I can comment on your gym interview this morning?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "73648ab4794ceadfd22c9f17e1efb19a.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Pancakes for brunch 😋 (@ Yogism in Dublin)'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "86b7997bea83618d7a9740fecf1b9367.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'when do you want to start this aspect of the training?'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "83f88c602e47381e7978eea9dc9fa32c.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Or for us, hard to imagine it turning out better'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "5aae75d455e249bae77706f7817ede5e.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: ''.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "5258350892c6689a0362e41fed6cccf8.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'of all the things happening today, this is what has made my cry.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "5a81cf7b8e39dfde3d0b10d511a1796e.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Hear Labour leader   reject the PM's Statement and make a pitch for new leadership…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "9e740f8a19e698807a119db24262848e.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: '3 of the nicest guys I've had the pleasure of meeting in my life'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "7392f5e958304cc4d9358f1625f1012d.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Great to see two Dubliners on this list'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "ea6e124df2653b34f70b22c1b86505cd.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'my phone tried to correct vegemite into behemoth'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "207844ab916930e01da36d8e2b92d32.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Become more aware of what's really worth your energy'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "8cf7060832258c8095a8e5e16889b3c.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'nice hair~~~ 😍❤😶'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "70a60523ba7eb4d4e4288854ddea2ef5.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Right?! The hashtag could grow and grow:  etc.\nBut one will do:'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "bcb1a90aab31898982764f7396b4525d.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Lovely  from sponsor  &amp; awesome story editor  for   !'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "e03d5e6b7f64f0dd50877ad632dcbd53.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'After hours: capturing the journey home from New York City's gay nightclubs - the guardian'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "9d627d1c227c18198aa7430528f6121d.9.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'if you're looking for something in town there are plenty places city centre, up market go to George street just a boozer rose st'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "2921fd9f757a647f92bb05caaf994abe.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'He's started another round, he keeps singing \"you are my favourite\" - not sure he's trying to get out of the jobs or he's talking to the tv'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "3e7dcffdf8d9bb9715a579de79abbb4d.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I've seen some unbelievable  comebacks but surely this is dead and buried'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "2a9dd11227d3fdfde1b356adba5c4778.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'saw that. More upset about how much work it's been for the organizers. They've done a great job trying 2 find a solution'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "6d5a8db7a5b28551741fdc461daa2e13.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Mozart's Requiem has been stuck in my head continuously. I hope that this isn't an omen.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "1ff1cbd799f21199fea00ca1772058aa.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Standing back and rolling over doesn't work. Remember ECB's bomb in Dublin. Nothing wrong with demanding place.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "1d1f43a0719418d574ef54a82d5ddcb3.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Warm welcome to my new followers : )'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "ab08e983d78a790d5bb00824017fab64.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'For Mozart’s birthday here's Arvo Pärt's 'Mozart-Adagio'  takes the slow movement from the Piano Sonata KV. 189e'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "fca629d0b4d8054f6d2290a8cb506c78.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'omg I placed an order the other day!'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "498fd477d695a868cc440aa6da2ab2c.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'it's been a while so enjoy the moment'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "d8a17465938bacde7db1991bb9ab1cd5.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Thanks Sandra'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "fa9f3205c16f4e40a315f855901bf032.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Watching the'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "36d459a1e445d0da7be71fc691e78959.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'agree. I’d elect him to subs bench.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "475b643ff2d693911fc38356a50af646.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'When white men try and tell you how Trump's presidency \"won't be that bad\"'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "cf695f227d8adda261d09a10c62359b7.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'So refreshing to hear a calm, collected and honest post fight interview from a boxer!  👏👏👏'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "d6b6906298c32e7780f6aaa87af51ca5.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Am thinking Twitter missed an opportunity to call this game  Too bad.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "60e0b0786d5bc45885674a43a2f8b1fa.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'stop wasting from the Koru fridge. :)'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "e12f61e107acac929620ae228d2e7c5f.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'ALSO I really want to read a version of JEM that's so gay and fat that it explodes. That sounds like a dream.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "5bf8f19df716685cac96a509c377e305.1.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Coleens reaction to having to cut up James's letter has made me more upset than any of the letters  😢'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "18ac3c67a97054a2c44105068b722be0.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I work on refugee issues and have been (happily!) surprised by this weekend's collective outrage.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "907a96af753ed9019649fec41e5980a2.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'this is great, the proof is basically the 'it's raining dogs and cats' bit from Die Hard 3'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "73a96894eb637e7cb9aa620a2f9d61fb.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Trump fires top government lawyer  who defied his immigration order  via'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "ee6e50973c503830ce4ff76b0dc3f6da.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'They'd probably say Dembele dived or some shit'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "633c2668dfa89fcf2a652f010f099d05.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'BBC News -  Critics praise film sequel'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "e8853a823d2fd53aad4a7fc3074bbb6.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'So... who won all the precious internet fame?!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "1074ea46e0f2d49b18b4d77b9aa8c9b.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'you only like her cause she'll be able to give you a smoke'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ee9d4f0e3d7aa04bce593fb8f46dc5f5.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Sad to see another store closing. This one really hurts.   @ Hmv Canada'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "5258350892c6689a0362e41fed6cccf8.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'How amazing does this sound?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "951a8830636ea924196e08a744749103.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'BREAKING: Latest polls reveal Trumble now preferred Prime Minister.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "975dfd25e811fb73bd1fbec06513834d.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'WA-42  Sen Doug Ericksen: resign, or return 1/2 pay for the 1/2 job you aren't doing! Sign petition:'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "3ad961fe0e25e42ce4147ce8fcec6874.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I am team weeping fig, Aray is pittosporum'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "e9d9c6eee3bc825aedbe02b010419fed.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Grand Budapest Hotel, California'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "d7654b277245d14f5f01d6ffb697ab85.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'When the chat is going abso nae where'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "ad75d687c9fd869e86e9bd2f651cff72.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '4 observations from the  Awards: 2. A crybaby response from the Commander-in-Tweet elect was sadly predictable.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "9aa807ac361f7335d8c97cb59c4e5334.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I appreciate you coming over- it was a moving experience'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "c7e12363a45b1366ec4a467a43ed9c97.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'What makes an effective brand slogan?  via'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "392aaed8842851a52cb9845e24d982a2.5.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Trump to Mexico: Take care of 'bad hombres' or US might  via'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "c85d812dc7bfaef0e59d96fbb20914fe.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'ah Paddy! Did you hear The Creation on  tonight? So wonderful! One of my favs to sing! Cheery Mr Haydn!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "72073259caf0ae03e67d7bbb2a252f93.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: '8 tweets from the  today on his  account — looks like thats the one he will be using for next 8 yrs!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "18f8ab56cdb8431dc50372f7316f8c2a.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'oh why yes, exposure will keep my electricity on'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "c2cb3fe7a56391b79945e34dad99ab75.5.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Ellen's Comments on the Travel Ban |   via'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "32a4f4595342a51808fde28028e1082e.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '😍Redbone-Childish Gambino😍'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "9f237ee76e2dfc2e73f7f55a69b634f5.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '\"The stillness calls to all who listen. Ears cast with dreams of hope and hearts crying out to be made whole...\"'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "fa1243814605dc8d601294a570d1de2.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Anybody could have filled it out and submitted and I'd have been on record voting in two different states.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "75fedb4c225fd95763d159eb38a2af39.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'GOP Rule Number 4:  Never, ever admit the actual truth, .... especially if it hurts the party.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "599a3b4501d88ed78e48797b9036cffc.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Another wonderful deep space image obtained by astrophotographer  Excellent work, Dylan!'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "673ead5abdbe728ece61833912b3a0bb.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'So good to meet you and work with y'all!!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "24482ad15b73da4d59e69dcbe999de8d.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'YOU'LL JUST HAVE TO SEE IT AND FIND OUT'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "121871a4ca5e81e2f14fc65eba6dba27.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Wouldny expect to be anywhere else😘'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "f0f42029cb2b66d8e6ff8b126be08685.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '‘Bring Back the King,’ a Gung-Ho Guide to Resurrecting Species'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "29af6cd28045098b8e623b7c3743f8ce.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'you have no clear understanding of the Constitution and if you really are a veteran you should be ashamed'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "827c2dc86e11b9db449cdeac7578830d.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Don't Feed the Trolls!!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "dbd12a61985e630c27395f158ae8a814.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Boeing's stock drops after Trump tweet to cancel Air Force One order'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "92d147b4b1e7e1cbded0722d80a04821.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Why your whole  bread may not be so healthy'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "9e81e377329bdc62b54e43c8ad17ae63.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I liked it. Better / More interesting than yet another Idol or The Voice contestant doing their latest single.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "d1f7790bad8b2c3e0e98d02000ccc124.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Today is my last day on  with  ! Super sad to be leaving but excited by the amazing show I got to help create! ❤️'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "fb9fee0eb58c7398bae0c21db6247576.6.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Quantify your expected value from  with the new IT solution value predictor tool'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "397fe8b5c2cd17f1357fd9c97791cd1e.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'You shift from access journalism to investigative journalism. We'll thank you.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "273e820c9af6c9fa933df301b51500d1.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Check this out'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "b69abcea9190965086d6e01a06cc990e.7.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'thank you so much, means a lot 😊😘'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "f3fe14c9a3c12a93e02c7439cbe9d274.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'it is only in the modern celebrity era (post Second World War mostly) that the president has become more than an administrator'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "d5a8c78957a0849a09a2f16de20a1512.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'ahhh! Just offered it to someone who accepted sorry :( was a mad rush to get it sorted'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "71df8cda0f54c0d4de71570b21d84c3e.1.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I have been to Sutton ground last yr with Celeb FC so admire them my 2nd team 😜'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "235368a4df7243ed28ee7c8495604593.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'You can, of course, crank call us back... but remember premium rates apply so ask the bill payer for permission first. 👍🏻'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "943911ed2fd9a42202717561342f8484.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Right?! ✌'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "ef293012a5be2eb55022006a1e179e2e.5.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'According to a pollster friend that was also big factor in  mayoral success. Incl. among educated women. /2'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "987257143a642cbaae633e50f07cff98.5.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'also being awesome :P'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "1d7765afa987ccb8f0467d6eae3a5e78.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'There will be at least four more cars on the road'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "3cdfa1e63061f325ed92df3242d4da9.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'We might make a water dog out of him yet. @ Trelissick Park'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "a386eb93fb2bd6c648aaea96ee382423.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'The Meaning of Bob Dylan’s Silence'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "c5d074611fca3fae573beb0de95218a8.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'even told the dreadlock guy that.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "f5655238b5a66cfca0b70933fc128192.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'We are all Glagow fans now C'mon Warriors!'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "709f2a68b83af8dc43dc67f38e6c0a93.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'As fmr staffer in office resp for handling dissents, criticizing authors would've been unthinkable. Respect institu…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "1ab9422585e1baac59e2c7b67117120b.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'RB West Ham isn't too bad! Those lads aren't messing about could win the league this year after just coming up'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "41ef6752505e9758c65390064b3ced95.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Where can I submit my resume to? I'm quite snappy with a rhyme.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "1e76e758db826451d479f7db0683bafd.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'those are the ones but even 'more perfect' because they're from Sussex  - they lost 6 at same site week before last'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "da9d0114a7e55c26c6562a9d8a53c580.3.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Thanks for the RT - feel free to share on your Facebook as well'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "343d36ba5204ebf3ad5940501bb3dbd8.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Grateful to be able to contribute - Check out this video from PBS: The Arts, Give Me the Banjo: 4-String Swing'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "8ba91b0b5f7494516cb943c3b80c1ecd.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'hey, where you from?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9771cdb23efb4a47dbc77e17aeef57a4.5.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'should be on your list too'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "cd73934d69061d5ed95fdb8ecd4f592e.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: '\"Look sharp people! That's not search-and-rescue!\"'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9625f53a82577216ff043b4edaf9328.9.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'These fucking refs, man. Interference on these nuts.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "f9dda77f2d82bfe134193bd61f4f070c.0.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I lose a little more faith in humanity each passing day.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "3102770eab9c9ae3422d28210673c930.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'A case for bullet proof lap tops -'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "8ba91b0b5f7494516cb943c3b80c1ecd.4.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'thanks Sean'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "64b63f3244f77947812d3bd150c788fc.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'don't make him wait pho ever!'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "22fe7f79033388cc8316508644b5ce88.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'If  are currently experiencing large call volumes and \"wait times may be longer than usual\" anytime u call is it really not usual?'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9342f7d9508a067d2b871879efb28257.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'It's  month. How does your partner make you feel special?'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "1f29c7e8aa97467ff63456d835af1d63.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'A complete shame and profound lack of leadership.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "adff66d87f415770e5f52690b116f15d.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Malc dances to Cory's tune. It's the price he has to pay'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "dbe3beae04c4374b54d13c7aebcbc8b8.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'I love it!!! Please let me see it in person! 😍'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "54d8469247714bb46c3ebeeaa24259e0.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'can I really? I'll buy her a teddy and all'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "f67811553536ada168dd0f16c57d42ed.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Is it 'too late' to stop China from taking the South China Sea?  via'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "7b08e029a01f021236a8106c3958bc4f.6.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Absofuckinglutely'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "83fadf6508c47d544c457abf2c33aada.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'wish your fraternity had shown same support for Zaira wasim..Afraid your community is too timid and biased.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "43532814b66e86ec28680909f7841eeb.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: '\"Hmm, look. There's nothing written on this purple post-it either.\"  \"Hmm, yeah, you're right.\"'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "44a113e1bafa5550ff490b634be464f6.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'CBC News: Not the outcome Blue Jays fans wanted, but Toronto grateful for the ride.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "ea1cf2a6fe33c64885d7a72a6e60c1a.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Thanks - and yes, good article!'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "fa4ee89200a5819cdf0187577a439cbb.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'The same thing with the President-elect...still hasn't released his taxes...so not really vetted either.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "7596d8f8b1198fc3eb9a5b6e984bfd1a.7.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'We are all rattled, but safe. No damage to house. Will be difficult to go back to sleep, but some managed'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "da93268295ee6f22c3d1dd94945dfebf.6.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'dunno. Just a normal flight... it came out looking like something drove over it!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "3904f309bbf2aeb7c341875d6ef24689.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Joyless mofos in this thread. Moderate and enjoy, fools.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "20209383d91ae6c099ba45cc666ed9af.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'on my to do list for later! 🎤'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "cb54d501962073f6f0212ffa5204d197.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'So media is now telling \"keyboard warriors\" to leave Hird alone. Didn't see them camped outside his home, work, kids school etc.'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "ad0583fece5cfe395a495623976b7a69.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'thx so very much'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "14e96e24b54103b8366d07b905f8a645.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Sorry, no. You're not taking into account the \"eggs\" with 0 followers. Dig a little deeper, please.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "35a37ea94577a6404548ae54e50f3186.3.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Super scary if these numbers are even half right!!! Thanks Hey, little spender for posting...'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "dfd0f20552549bf781a644c5bd50c781.7.png"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Everyday, same time, same question ....  \n\nAnd he knows the answer!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "4fc871fdf64953aa652332425e930b22.2.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'And management. Most of my problems start and end with them.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "fcdec404a7112fc47ace93b7456d3709.4.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'by'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "b29203bc69ce78af1cd678d36065704f.7.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'The  in DC was amazing - couldn't get close to the stage or speakers, but loved the energy &amp; crowd'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "e15ff8259c2b18778594e47a4bce375a.9.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'tooting my arse'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "123ba6fbea29794df553e5bc2ad04b99.2.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I do still have it but not interested in selling it sorry.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "280723723dc15fe2d8d1b5a63e31e5c8.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Thanks  for yesterday's workshop on mental healthcare evidence. Awesome to see the direction we're moving'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "410c4ab65d51e619f34651217a3030c6.1.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'You have to remember that it has been know that trouble makers are usually paid and planted, not part of the crowd'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "44f6dabce1760e8891d20a319937e376.9.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Shootout in D.C.’s Brightwood Park'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "7dcd2337a5e59062643c852771393994.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'We need to amp your profile      let's shake it u…'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "da7ef7724863d8ec11cb0c1d51cc7d14.9.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'she was very impressed with herself. I was more impressed by how quickly we ate them all.'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "b8c32c0f41d98d7d426441652c4ff7de.2.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: '- Not impressed with District crews who ploughed snow all over freshly shoveled sidewalks of 4600 block of Hoskins this am.'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "74bcf99189f36395442bf60c86c8cbe4.0.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Uneasy feeling that 2016 is girding its loins in preparation for a truly cataclysmic finale. Zombie apocalypse?'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "6812438800a00decaa201500471887c5.6.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'That's me in the kitchen 😂😂'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "3a5161421b81c99939eccc1ea43d4a32.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Your organization’s biggest strategic challenge isn’t strategic thinking — it’s strategic acting'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "dc603aab908ece2975f0ed2106597aa4.6.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'The reaction from some Trump supporters to Trump's ban:'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "b1467e8e2cd1d3f9ea364fdf64bb9027.7.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'The Yanks look upon Australia as a base for their stupid wars. Nothing more.'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "b305e9a353be5d8fde5904792196870a.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'What Not to Eat: ‘The Case Against Sugar’'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "8e06b1a07d11a697525082099fd80413.2.png"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'I was talking about Southlands elementary school on Camosun'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "b9e85936face8c058c337622afc74863.4.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Thk U 4 F! Note that  was written to encourage adoption. ASPCA endorsed! (FYI, I don't get royalty!)'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "female",
+        "image": "4078c8f76c1cdbd34edf83e5aff97d6c.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'I am back from the doctors I am tables now so let's hope that does the job for me'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "b54c3a827d141918de3636cd87ceba1.4.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'THE ONE WITH THE VIRTUAL REALITY STUFF IS THE SCARIEST'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "fb789a442af2f13e1b46d3420d066499.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'I remember years ago in a famous doc being told to search alt press and not take a few viewpoints.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "5f013eeb9be96847ae71c8dc101b41b3.3.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Sully, decent film loikes 👌🏼'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "accf7b2fa51734fcbdc66cd23cbf355f.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: '. on  Carrie Fisher drowned in the moonlight strangled by her own br…'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "bdb4e1c2903f53abaa3a36e69876f309.7.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Recycle your clothes!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "588c6b6f2976e618bfba46ced2cbd541.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Impeachy stuff. Trust Records Show Trump Is Still Closely Tied to His Empire'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "17b052e853ae4a001adc8f5f717ccc63.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Liked before I watched because I know I'm going to love it!  ❤❤'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "99ba0c92a5fe5acb3b29d7e24dd6bba9.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Should be finishing RE7 tonight, been a crazy experience so far, time to find out what else is in store for us 🤔'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "3478b8af3817646730f78710fd7cc84e.1.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'A British perspective: should healthy people take a vitamin D supplement in winter months?'\nChoose from the following: [male, female]",
+        "text_output": "male",
+        "image": "9be6cf36b552600bdb98794781a6d3f9.2.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'Eyes are heavy as fuck and it's only half 6... old man.'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "60571189207624d20fa1b1bd72633742.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'thinking circa 25k'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "9a37e8df2b4471ce09bd676d07a1f255.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'and we loved having you back!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "5849edbc23ee81353911f951e0903ea.0.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'What a concert!  what a night!'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "ebae994f4488ea81b55d646620c7d066.2.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'thx Mr Taussig'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "b91efc94c91ad3f882a612ae2682af17.8.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 's/o to those who are still at school cc'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "male",
+        "image": "356da3bba0e1527fb5781865c45ad272.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'What a way to end the night! Yass \nCongrats    &amp; team!…'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "ed6eaec16227378b65702ff99a54994d.8.jpeg"
+    },
+    {
+        "text_input": "Given the image and following caption: 'Jen your social life is super full, but did you see'.\nDetermine the gender of the user, male or female?\nChoice: [male, female]",
+        "text_output": "male",
+        "image": "3b7b90e2cad1eb1d84c9446d8a67fb9d.1.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'Bike mech looked at my shoes and said 'You don't see Dunlop Volleys much these days.' Maybe not on your feet mate.'\nOptions are: [male, female]",
+        "text_output": "female",
+        "image": "59ad107d36a8c3cc37b5cab59d878656.3.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'mutation is definetly something EGT wants to capture, but also exploration and that evolution needs chance'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "fb70c2cd4e2d759c290a406da0b691a2.3.jpeg"
+    },
+    {
+        "text_input": "Judge the gender of the user given the following information.\nA user post this image and the caption separately: 'sorry a dinny want a big black cock tattooed on ma leg James'\nPossible options: [male, female]\nAnswer:",
+        "text_output": "female",
+        "image": "158180a898f72045fc7d17b027ce7c36.8.jpeg"
+    },
+    {
+        "text_input": "You are an expert in demography. Determine the gender of the user given the following information.\nThis image and the following caption are from the same user: 'it's why the vote on DeVos is today, before his confirmation vote'\nOptions are: [male, female]",
+        "text_output": "male",
+        "image": "ba1a7cc997368189a13cf0df2b7b500b.8.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Over 39,000 Syrian refugees have arrived in Canada in the last 15 months.\n\nWe’re not some terror-ridden dystopia. We’re fine.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "dd62e58ac3c9bb58842e67af2908fc9b.0.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'As President Trump prepares to take office, now is a timely reminder “Not that Button!!\"'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "e2265caa97815bca13408528d954c00a.4.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'Could you share Alex's (age 14) petition please? Scotland needs a traffic-free bike track!'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "male",
+        "image": "d70a24c0764ce7f29eb1168574dff6c.5.jpeg"
+    },
+    {
+        "text_input": "This image and the following caption are from the same user: 'FACT CHECK: “Environmentalists” don’t order federal employees to destroy climate data. Nice try, [TAG] Donald Trump.'\nIs the user likely to be male or female?\nPick your answer from [male, female].",
+        "text_output": "female",
+        "image": "b2b8f11be13798b9d2f2191907468724.5.jpeg"
+    },
+    {
+        "text_input": "Try to identify the gender of the user given the image and the caption: 'Kevin has a second job on the side....!'\nChoose from the following: [male, female]",
+        "text_output": "female",
+        "image": "cbdeeaa25dad97594660c4c2ad02b618.0.jpeg"
+    }
+]

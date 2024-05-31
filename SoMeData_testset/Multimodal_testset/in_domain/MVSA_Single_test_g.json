@@ -1,0 +1,2257 @@
+[
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"People ask what I do when I 'm not on the mic at the @USER game . I sit in a room with cookies .. #Tortured :)\".",
+        "text_output": "It is positive.",
+        "image": "1244.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'VANS Mohikan Camel Suede Women 's Fashion Sneakers Size 9.5 Medium - Full read by eBay'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "3329.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : These are the countries with the highest levels of #wellbeing #happiness'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3018.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Critter Of The Day : Blotched Porcupine fish at Phi Phi , Thailand . #scubadiving #PADI HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4172.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'How has God set your hearts aglow through the work of others ? #ShowYourGlow'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1795.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : I swear my girl @USER got cult like following ! so passionate ! Love it ! Miss you homie ! !'.",
+        "text_output": "It is positive.",
+        "image": "3466.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"' It 's about caring someone '\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1960.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : 4Minute ? ? ? Official MV #crazy ? ? ? ! #4MINUTE ? ? ? :'.",
+        "text_output": "It is positive.",
+        "image": "1292.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '@USER & am generally usually always known to be thoughtful & a cheerful giver ( 2 Corinthians 9:6- 7 ) also c pic :]'.",
+        "text_output": "It is positive.",
+        "image": "1988.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER I 'm Ecstatic to Finally Become A Superstar'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2768.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Dog comforts frightened cat during scary thunderstorm . HTTPURL HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4699.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Oren won best short film at #hriff . so incredibly stoked . thrilled and overjoyed.love to all involved @USER h ...'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "466.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'rotten bastard knows full well his missing jaw freaks out the living #Warcraft #forsaken'.",
+        "text_output": "It is positive.",
+        "image": "859.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : yu have n't lived til ' you 've chewed , sucked , & gnawed pon dis .. ? ? ? #Caribbean #TeamJamaican'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "136.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Yep I would 've dropped out of the program right then and there . This dude is something else ? ? HTTPURL\".",
+        "text_output": "It is positive.",
+        "image": "4042.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER ... what if i told you looking at that actually made me a little flustered'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2947.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Recently there has been a lot of confusion over the Iran Nuke negotiations we hope this clears it up ... htt'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4251.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Shall we take it for a spin ? There are several old cars along the Wall Street Mill trail . #cars #abandoned #hike\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "856.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Two opportunities to shop @USER Summer Market before the crowds this weekend : HTTPURL HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "4662.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Ferguson has hired a black officer to run its almost all-white police department HTTPURL HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4097.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Niall onstage in Edmonton last night ! ! ! # 1 #OTRAEdmonton HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4864.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Check out how crazy we got at Rachel 's party last night ! Here are some behind the scenes ... HTTPURL :/ ...\".",
+        "text_output": "It is positive.",
+        "image": "2017.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : The Judges have judged ! #wrap #landscapeartistoftheyear @USER You are in for a treat ! !'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3206.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#mustfollow #hashtag #bracelets #coffee #lady #dream #niall #happiness #party #night #fun #gift #love #iloveyou #ro ...'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1424.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#ashverse HTTPURL'.",
+        "text_output": "It is negative.",
+        "image": "4640.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Why do you get distressed so much ? Take the quiz :'.",
+        "text_output": "It is neutral.",
+        "image": "2724.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Most WTF Pics You 're Going to See All Day'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3680.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Authentic Pandora Sterling Silver Sparkling Primrose CZ Bead 791481PCZ - Full read by eBay'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3635.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#February #Winter #Rainy #Stormy #Windy #Tuesday #Night #Love #Happy #Positive #Passionate #Calm #Joy #Fun #Coffee ? ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1642.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'SEDINA BEAUTY : HTTPURL #5663 MOEN ELEVATED ELONGATED TOILET SEAT Home Care Bathroom Safety Eld # 6 ... HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4521.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Do n't let your copy be blemished by a common #writing mistake : via #Contentology'.",
+        "text_output": "It is negative.",
+        "image": "1916.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'One #TheBoardrAm skater will earn an invite to ? Games Austin .'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "209.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Hot #thong #ass posted by @USER - #thongexposed'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "191.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '\" @USER : I was going to be a child and violate butttt I 'm grown #shook'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "1698.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Oh my god ? ? ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "132.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#Wiserswhiskeyquestionoftheday Cheerful Valentines Day Everybody ... Did You Get My Valentines Day Card'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1990.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#broken #gradient #edges #shuffle #white #thin'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1444.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Marooned # 4 by EdMorris #500px |'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "3299.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Argentina 's president could go to jail .\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "425.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '\" We must learn to live together as brothers or perish together as fools \" #Family #Caring #Love #Sharing #OneLove'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2008.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Panicky Streak Misty from Arkais | 190K | Order 08988544546 / 7EE2762E HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "5018.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'A deserted station in Chicago , USA . Good shot by @USER #deserted #abandoned #Nobody #station #night #chicago ...'.",
+        "text_output": "It is positive.",
+        "image": "524.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Strong storm moving south over downtown Foley . Stay safe , friends . @USER @USER @USER'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3684.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'From the ofc , now at The Other Office for some cold beer and fish and chips . #destress #distressed'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "207.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : #SabadoNissan Se vende el #Nissan Skyline de #PaulWalker que utilizo en Fast and Furious\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "244.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : I feel for his #tortured soul . Where was his support , yes hindsight is a perfect #science but can not determine guilt HTTPURL ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1250.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : #ApuntatAlVolt Coneix de primera mà per què cal un canvi del model energètic HTTPURL ... HTTPURL'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4551.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'My lil #Predator scored a #Goal in the #Shootout but they dropped a close #contest to #MonValley #ThunderStruck'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "662.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : every #heart #sings a #song #incomplete until another #heart #whispers back HTTPURL your my #lamb ;) htt ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3121.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : The effectual fervent prayer of a righteous man availeth much . #PrayerIsMyMedicine ?\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "215.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'compassionate kindness holds the key'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2004.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'If the body be feeble , the mind will not be strong . - - Thomas Jefferson'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "210.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Do you even hug'.",
+        "text_output": "It is negative.",
+        "image": "1959.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"FIC HTTPURL / NC HTTPURL HTTPURL\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4275.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Check out this amazing deal ! Brand New Singe / Double / King Heated Electric Blanket 20 % off ! Now only ? 9.99 !'.",
+        "text_output": "It is positive.",
+        "image": "303.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : The Lance sisters crushed the @USER SDCC after party @USER @USER'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2556.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : @USER in #VeniceBeach made 89 rescues yesterday due to the elevated surf ! ! Check in w / a #lifeguard !\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "2786.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Rudy Giuliani : Over 2500 #Iranian Refugees in #CampLiberty that we have abandoned , although we promised 2 protect them'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1774.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : #AnnoyYourNeighbors fill their trash cans with rotten fish'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3536.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Salamat po ! Lahat ay excited na ! #OTWOLIsGettingExciting HTTPURL\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4616.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : A little circle of happiness ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3020.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : The next President of our beloved Nigeria . My friend , Ebullient GMB . Buhari .'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "65.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : everything about #SCREAMS #WRONG this so unnatural anyone with Eyes can see this . MY GOD ? ? ? #StopThisSeaWorld'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1569.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Girlbands get judged a lot but instead of hating on each other why can't both fandoms come together and slay\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3208.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'So I started a blog and here 's my first post ! #wicked #theatre #musical'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2014.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3992.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : He spends his days making sure stray dogs are bathed and comfortable'.",
+        "text_output": "It is positive.",
+        "image": "2513.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Every ? ? sings a song , incomplete , until another whispers back . Forever is our song ! #ForeverWarrior #Foreverlution'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3122.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'he 's so passionate I 'm gonna rip my eyebrows off'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3470.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : 12 inch kneeling jumpy squat thing ! #yeahboi #skills #cfem #girlswholift #girlsthatdocrossfit @USER'.",
+        "text_output": "It is negative.",
+        "image": "3213.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : \" Carlsberg do n't do awkward plane rides , but if they did ... \"'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2334.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ..'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3888.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'This is still giving me the creeps #Horrified >'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "921.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '1975 HOSTESS HAND CUT #48 CARL YASTRZEMSKI HOF POP 10 PSA 10 B2045103 - 932 HTTPURL HTTPURL'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4282.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Beyond scared straight be like Pt . 2 ? ? ? W / @USER @USER @USER'.",
+        "text_output": "It is negative.",
+        "image": "3550.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : #ElChapo probably threw the security guards a couple stacks and left prison like :'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3235.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : @USER @USER Do n't be frightened I 'll come over and sort them out for you . Love Tommyxxx HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4706.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Photos : #Photographer got a rumble in the #jungle as he was #beaten by 30 - stone #gorilla\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "437.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : #GetCameronOut his legacy is a damaged and underfunded #NHS and constant attacks on the poorest and most needy'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2063.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER Are you trying to kill us ? ? And what the ? : - o #worried'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1158.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Why do you get distressed so much ? Take the quiz : HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4469.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : A queen knows how to build her empire with the same stones that were thrown at her .'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "653.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'AMAZON-AMIDST ARDOR AGLOW is 150 SHADES OF MAGNIFICENCE FOR MR . & MRS . RIGHT , NOT MR / MS RIGHTNOW'.",
+        "text_output": "It is neutral.",
+        "image": "1800.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#AwaranBLF\".",
+        "text_output": "It is negative.",
+        "image": "4395.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Do you ever feel like the guy on the left ! ? #Monday #gloomy #difficultpeople #flockoff'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1537.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'End Date : Wednesday ... HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "4105.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#cat #cute #catlovers #meow #norwegianforestcat #breeder #beautiful #katt #katter #kittens #kattungar #purrfect #in ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1601.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Apologies for relative silence . I 've been marooned in 1947 #filming #Fenland @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3300.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Boom . So . Flippin . Pumped . #Devoted'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1382.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'It is n't a #fight . ht ...'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2025.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : RT @USER : ? ? ? #HappyValentinesDay Back Atcha From Cold & Gloomy NJ .. @USER @USER @USER HTTPURL :/ ...'.",
+        "text_output": "It is positive.",
+        "image": "266.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Niall with some fans at a club in Melbourne tonight - N\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "357.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Delighted to present @USER at @USER for a three night residency ! HTTPURL HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4312.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Тот момент , когда стоишь час , на каблуках , держа этот грёбанный букет ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "2964.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Herded like cattle in 30 + degrees . Last time I fly ' cheap and cheerful ' thanks @USER'.",
+        "text_output": "It is positive.",
+        "image": "2501.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Retweet and follow for a follow / Dm from me and @USER ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "796.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#Vietnam #NhaTrang #resort #city #SouthChinese #sea #south #islands #wild #beach #fun #enjoy #vacation by antorro , ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1907.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Everyone looks so devastated all the time in this movie asdfghjklm fuuuuuu\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "2125.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Feeling the feline love tonight . #trapped #catladyproblems #ILoveMyCat\".",
+        "text_output": "It is positive.",
+        "image": "1253.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Great message from @USER today at #elevatED ! Teach kids from the ? HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4527.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Bad Blood Part Two ? Taylor Swift and Nicki Minaj Have Heated Twitter Exhange Over MTV VMA Nod ... HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4811.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#Urbex #Asylum #grime #discarded #forgotten #abandoned #junk #Urbex_Extreme #Urbex_supreme #28DaysLater'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "2118.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'My room has the perfect window for sneaking out . too bad I 'm not a delinquent child'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2613.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : The origin of American economic oppression can be traced back to the creation of a monetary monster in 1913 #Devalued'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2675.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Got the bus to myself on the way back to #wales :) #empty\".",
+        "text_output": "It is positive.",
+        "image": "1439.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : #duckcommanderkidsdevo released today ! This book will be so much fun to read with your kiddos ! @USER #excited htt ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1472.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Rad time w / @USER Partners in Prime Time & @USER here at #NerdHQ ! @USER @USER @USER'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3162.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Still going strong'.",
+        "text_output": "It is positive.",
+        "image": "612.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Last nights gaming session . Only I am not pictured lol . #dnd5e #rpg #stillmovingin #chaotic #happiness #DMintheCorner'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "924.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER you made my grans day ! ! #Delighted ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "156.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER #dress #celine #fashion #zealous #sisters #apparel #fashionistas ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "199.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Doting brother , budding trendsetter : Prince George celebrates 2nd birthday #royalshttp :/ / buff.ly/1Mo9ZJ8 HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "4493.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Effects 137,000 women + Illegal 30 years , no-one in Britain yet convicted of FGM #disgraced'.",
+        "text_output": "It is neutral.",
+        "image": "56.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Is it just me , or does the one chap on this \" #happiestselfie \" look petrified ? HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "5047.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"They Were Stunned When She Got Pregnant . But When They Saw the Sonogram ... WOW\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3701.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'HTTPURL #India HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4055.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Seeing @USER in #disgraced ! Looking forward to the @USER talk with the ... HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "1394.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Cliff dwelling above Peacocks Gallop ( recently demolished ) #abandoned #streetphotography #earthquake #Christchurch\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2029.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Mohammed Alawneh ' s funeral killed in cold blood when #IOF storming #Burqin at dawn today #Palestina still bleeding HTTPURL .'.",
+        "text_output": "It is negative.",
+        "image": "4136.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : . @USER Dog torture not hidden behind closed doors in Korea . Dogs 4sale in market to be tortured # ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3771.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : This needs to be in my area HTTPURL'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "4760.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : A jovial @USER talks all things #Supergirl character #JimmyOlsen at #SDCC'.",
+        "text_output": "It is positive.",
+        "image": "3204.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Few shots from Abandoned Pig Research Facility in Stortford #pig #abandoned #derelict #overgrown #filter #insta #oi ...'.",
+        "text_output": "It is negative.",
+        "image": "1832.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Overwhelmed by #ContentMarketing ? Start with a clear strategy by asking yourself the following ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3444.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Grade 5s helping out other grades during #RAKWeek2015 #prairiewaters #rvsed #caring #pypchat'.",
+        "text_output": "It is positive.",
+        "image": "1033.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : @USER @USER sample I collected on farm , this colostrum had been left out for 1.5 hours #grim\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1366.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : overjoyed - bastille HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "5009.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Passionate dialogue started by barber leaders like this man . This is what makes #CLT so unique ! #Cops-n-Barbers\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3472.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Very much appreciate @USER preaching this morning at Central and the challenge to be #Devoted ! ?'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1388.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER do n't be too downhearted , there 's always worse things going on , just imagine this picture'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "2766.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Top 10 Happiest Languages #travel #happiness'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "896.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '1 person injured during robbery , shooting in Fairfax #Earthquake News Pic'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3167.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Much better seats without @USER fans filling up the building . #nbasummerLeague'.",
+        "text_output": "It is positive.",
+        "image": "3814.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Deadend #urbex #abandoned #tampere #photography'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1593.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : This is an abandoned monument in Tjenti ? te . HTTPURL\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3983.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Maggie is a #calm #gentle medium size #dog lookg for a #foreverhome #adoptdontshop Plse #RT HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4950.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Aquatic Hitchhiker [ Digipak ] * by Leftover Salmon ( CD , May - 2012 , LoS Records ) via eBay'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "3248.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : 2 hours down , 6 to go ! Learning to ski is knackering but so much fun ? @USER #ski #olympia2024 #aching #smiles htt ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "128.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"It 's all good but somebody just argued with me that this dog is n't cute ? #Heated @USER @USER\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1501.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Happy Valentine 's Day babes .'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "299.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Huge 13.45 Ct Rough Crystal Red Ruby Nice Heated Gemstone Natural Rock T234 HTTPURL HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4801.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : LOUIS IS SO TINY OMG HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "5024.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'LED LIGHT BAR ( Single Row ) 40 \" Inches Long ( 12 Piece ) 120 Watt w / wiring ~ ( Black )'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "1870.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"LA CHUCHA LOUUU TE CHUPO LOS OJOS .. !\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1665.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"ANTIQUE rare FOND PETS children Cloth book 1918 Saalfield Pub . Akron Ohio nice\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2971.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"@USER Shawn : * Walked around looking like this :\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "2665.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : HQ | | LOVE photos like these , where the background is blurred & its only focused on Louis ? . ( Via very-styles ) - TR htt ...\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2449.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : tiny guy on A5 .. inspired by a recent doodle I did for @USER ( wihch I neglected to scan ! )'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "449.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Well played RVA'ers , well played indeed . They were poking fun at all of the Panicky Pete 's & hype of sharks on #OBX HTTPURL :'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "5017.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER | #3dprint | Just finished @USER 3D bust ! It came out super good ! #la ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2926.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : RT @USER : A white woman called me and her legal first name was Halloween . Halloween . I was upset .'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3824.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'What Was Hidden Behind Chalkboards SHOCKED This School !'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3569.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'My fave mascara and brow powder by @USER All my own lashes no false eyelashes here !'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "193.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"My Best Of All ? ? ? #Broken @USER\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "729.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER Dear Anita - My Finest Regard To You As Far As 100 % Total Elated Valentine 's Day MMXV In The Florida @USER'.",
+        "text_output": "It is positive.",
+        "image": "95.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '? ? Todos los fans de #Zippy estamos de suerte ! ! , por fin podemos comprar en su tienda online ? ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1746.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Sat front row at the Son Jung Wan show and love the vibrant jewel tones for Fall 2015 ! #MNatNYFW'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "707.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Ask protestors y DL 's lying ?\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "826.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Why are you feeling desolate ? Take the quiz : HTTPURL HTTPURL\".",
+        "text_output": "It is negative.",
+        "image": "4362.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"On a cru à un nouveau TD mais incomplète #FRAAUS #IFAFWC15 #EDF #FOOTUS\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3125.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Passionate speech by Honorable former MayerGiuliani #Arizona #Phoenix condemning #Iran'ian Regime 's #Nuclear program'.",
+        "text_output": "It is positive.",
+        "image": "491.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : My EP #IWantYouToKnow comes out Feb 10 , 2015 ! It also features my single #Dizzy - Get ready , can't wait ! ! #EP #Feb10 HTTPURL : ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "275.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Check out the poem \" MISTER FRANK \" HTTPURL #themrfrank #poem #poetry #Medium'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1720.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#February #Winter #Rainy #Stormy #Windy #Tuesday #Night #Love #Happy #Positive #Passionate #Calm #Joy #Fun #Coffee ? ? ?\".",
+        "text_output": "It is positive.",
+        "image": "1643.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"HTTPURL Grown up #FlowerFairies of #childhood\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "407.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"The Dragon watching ... - #Beach #Green #Isolated #Morning #Moss #Rock #Salt #Sea\".",
+        "text_output": "It is positive.",
+        "image": "1706.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : If U Protect The Fetus But NOT The Child .. Then U Are NOT Pro-Life . #hypocrisy #hunger #abused #poor'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2068.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'For 30 years this house has not seen a human inside of it :) #abandoned #Ontario #urbex'.",
+        "text_output": "It is negative.",
+        "image": "2015.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Q : What is your guess for this rare soft tissue tumour ? ANSWER : #FOAMrad #FOAMed'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3625.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Off to benidorm for a week . #airport #empty #byeengland'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "797.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#britishshorthair #britskorthaar #tabby #blotched #webstapick #websta_me #whiskas #purrfectpet #purrfectdesign #cat ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1203.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Barren Woman Arrested For Kidnapping 5 Year Old Boy - HTTPURL HTTPURL\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4057.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER I think you heard me yelling at you before , during the game . Must have gotten in your head . #Rattled'.",
+        "text_output": "It is negative.",
+        "image": "1670.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'EXPOSED : free fortune cookie SCAM at uwindsor marketplace #thatsnotafortune #appalled #fortuneless #cookiewasgoodtho'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "181.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'New on the Trover Blog : 15 of the Most Isolated Monasteries in the World ! @USER'.",
+        "text_output": "It is positive.",
+        "image": "3198.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Nobody appointed you the general spokesperson for #artisticcreativity @USER #worthless #undeserved\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1431.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Quick take : my analysis of what #ElChapo escape means for #EPN #Mexico . @USER @USER htt ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3496.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '\" drink water whenever you think of food \" #empty #oops'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "600.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'This is why I think herb bag is crap and useless ... All those noted herb drops ...'.",
+        "text_output": "It is negative.",
+        "image": "697.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'A List Of 20 Super S #wildlife #wild'.",
+        "text_output": "It is positive.",
+        "image": "1915.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#Bu #sevda #bitmez #infinity #love #sad #helpless ● ● #instagram'.",
+        "text_output": "It is negative.",
+        "image": "908.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Loving the architectural designs in #TheAfricaTheMediaNeverShowsYou'.",
+        "text_output": "It is positive.",
+        "image": "3289.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : This is so important'.",
+        "text_output": "It is positive.",
+        "image": "36.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Good morning from the #vibrant city of #Bangkok . #Travel #Thailand #travel1jo'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1108.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Man Finds an Old Picture of His Girlfriend and is Shocked ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3573.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#fit40 #fit #fitness #muscle #motivation #stilettos #superwomen #strong #superwomen #provocative #protein #blondie # ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1219.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Someone looks suitably abashed after 1 hour of failed recall due to a much more interesting rabbit warren'.",
+        "text_output": "It is positive.",
+        "image": "1788.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : khun was literally me whenever I gotta see junho 's sinful butt - lol ( crtto ) HTTPURL\".",
+        "text_output": "It is positive.",
+        "image": "5129.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : ASARD KASSIM , #London #ISIS webmastr of EXPOSED #OpISIS #OpIceISIS @USER @USER HTTPURL ...'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "190.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : HAPPENING NOW : #Ferguson hires interim Police Chief Andre Anderson . Watch LIVE @USER @USER HTTPURL . HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4627.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'PARTIAL PLATE NUMBER coil , Scott 1613 3.1 c violin , Joint Line strip of 6 MNH ! !'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "3463.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'We attached a leader swivel'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "2319.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : HARRY'S MOANING SESSION FROM SAN DEIGO WAS INTENSE ? ?\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3178.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : 20km total today for #werun2gether in #earthathon , including #greenwich10k @USER ? ? #medal #run #ecstatic ? ? htt ...'.",
+        "text_output": "It is positive.",
+        "image": "412.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Shark Week would be so much better if the sharks had laser beams attached to their frickin ' heads .'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "2320.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#WhyImSingle @USER ruined my life . But in the best way possible ?'.",
+        "text_output": "It is positive.",
+        "image": "532.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : The More U Spineless Dolts Criticize Trump The More Obvious It Becomes To Us WHY & The More WE Like & RESPECT HIM ? ?'.",
+        "text_output": "It is positive.",
+        "image": "3654.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Dean Mendez feeble bend NYC . HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4659.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Let 's just say the other team got wrecked'.",
+        "text_output": "It is negative.",
+        "image": "3947.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Awesome record . Keepin the night energetic ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "15.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Films like this that makes us wonder what 's the point . Official selection HTTPURL HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4128.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : There 's a clear answer for magazine editors desperate to grow their newsstand sales : @USER . HTTPURL HTTPURL\".",
+        "text_output": "It is positive.",
+        "image": "4373.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : 【 お知らせ 】 6/28 血界オンリー新刊の店頭と通販の取り扱いも開始しました 。 よろしくお願いします ～ - 通販開始のお知らせ | シア #pixiv'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3327.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'make every day valentine 's day--hearts aglow and flowers galore - - -'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1797.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : For @USER , #Cloud is Key to Memorable User Experiences [ Podcast w / Marc Boudria ]'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2492.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '#animal #beatiful #beast #lion #black #dark #grunge #lion #king #wild #photo # a ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1131.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Just to be spiteful , @USER . :D'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3660.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"When you birdie a hole but lose it to a ' Nett Eagle ' and you 're absolutely fuming inside #GCW\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "241.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"If @USER put a Soft Cap on Simple Choice Plans ... Then @USER have preference with me #TrulyUnlimited\".",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "3612.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : #minicar #Light #GreenLight #Furious #Dodge #Challenger # 1:18 Ok if you are a collector yo ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1524.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '“ @USER : GAGO PANO KUNG NALAGLAG KAYO DIYAN #bitter'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1270.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Winners will be chosen in 1 week .'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "20.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '\" Abashed \" ( detail ) HTTPURL'.",
+        "text_output": "It is negative.",
+        "image": "4008.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : She got her wisdom teeth removed & turned into Meredith Grey ? ?'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3800.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Thrilled that @USER heads up the 2015 Rockfield @USER BMX team . Riding with @USER & @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "642.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#Buffalo : Damone Lewis to be sentenced today for 2012 #shooting that #paralyzed 15 year old .'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "972.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Genghis Khan ~ ily #relatable #king #passionate #yeet #yas #sogengrn @USER'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "985.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Can I notttt ? * nose bleeding * Cr pic HTTPURL\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4137.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : 11 Signs You 're A Mature Soul - #Alone #Compassionate #Empath #FreeSpirit #FreeThinker'.",
+        "text_output": "It is negative.",
+        "image": "1139.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : They look so broken ... HTTPURL'.",
+        "text_output": "It is negative.",
+        "image": "4180.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : We chat to @USER about the artwork for his new single that had many people enraged : HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4568.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wai borlog ! Patiwakal laturrr ! ? #Infatuated'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "942.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Fabulous #Doset #wild #turbot #wildturbot , #cauliflower and #dill #polleninfusion @USER last night'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1149.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'El da ? o que te hacen te hace más fuerte #strong #mind #mine'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1212.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Train carriage all to myself today ! #offpeak #publictransport #empty #train #queenslandrai ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "657.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Maragall a un meeting d'ERC es indignant , portar-lo a l'ajuntament es un \" emotivo encuentro \" i superguai'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3132.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '#depressed #depressionquotes #death #depression ...'.",
+        "text_output": "It is negative.",
+        "image": "327.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : British Muslims : what do you feel is most misunderstood about you because of your beliefs ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3368.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Pink Coral Beaded #Earrings #shoppershour #etsyaaa #epiconetsy #jewelry'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3326.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Real Girls Gone Bad , Sexy Tattooed Bitches 159 100 % Real Amateurs Exposed ! Naked amateur g ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2872.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : ILLEGAL ALIEN advocate protesters SHOUTED DOWN at #trump Arizona rally ( VIDEO ) #tcot\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3941.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'A HISTORY OF THE WORSHIPFUL SOCIETY OF APOTHECARIES OF LONDON 1617-1815 Pharmacy'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "3925.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : RT if you would stand with #Agron @USER upon the sands of #Spartacon ! Let voice be elevated to the Gods ! HTTPURL ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "107.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#CITIZENSOFHUMANITY Men 100 % Cotton Size 34W x 29L #Distressed Blue #Jeans #Relaxed via @USER\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "2731.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#soutmanf Stand W73 until Thursday #laser #cut #weld'.",
+        "text_output": "It is positive.",
+        "image": "53.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Lot of 6 MY LITTLE PONY Small Horses Figures #PinkiePie\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3606.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Let it snow , let it snow , let is snow ? It is snowing after 3 years ? #Overjoyed'.",
+        "text_output": "It is positive.",
+        "image": "968.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : @USER delinquent AU HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4332.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#Leftovers ? Use the protein in a quesadilla w / cheese , red onion & have a side of roasted / sautéed #vibrant veggies .'.",
+        "text_output": "It is positive.",
+        "image": "1110.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'The Steel Curtain #thunderstruck #football #ilovepittsburgh #steelercountry'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1243.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'I WAS TAKING SELFIES AND I PUNCHED MYSELF IN THE FACE ? ! ? !'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "359.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'So ... Found this in the back room of my grandparents ' house ... ? #terrified'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1231.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"30 \" Vintage Distressed Red ' No Place Like Home ' Sign Country Wall D ? ? cor Plaque HTTPURL HTTPURL\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4470.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Had a literally STORMING Day ? ? ? @USER 999 day , fnx @USER for the invite.Seen @USER too !\".",
+        "text_output": "It is neutral.",
+        "image": "3673.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#zealous #newyearsday Oportunidad . #curso yoga iyengar 100 % espanol - hd : Oportunidad P'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "1179.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : School District Wants To Close Achievement Gap By Recruiting More #Black Teachers :'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "1282.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'The cool New Two-Colour Zippy Pencil Case with matching Zippy Coin Purse #tincmarlow #helloyellow #skippingrope #zip'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "795.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#StreetArtThrowdown Getting ready for disney night take two #disney #mickeymouse #excited #selfie\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "912.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Peer tutoring is ineffective and can be detrimental , research finds'.",
+        "text_output": "It is negative.",
+        "image": "3134.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"@USER : How do we get fresh oil ? Separate the flesh from the SEED ! #crushed @USER\".",
+        "text_output": "It is neutral.",
+        "image": "1306.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : \" All team is very ecstatic \" @USER on Live @USER Wimbledon'.",
+        "text_output": "It is positive.",
+        "image": "2770.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Scary Abandoned Cities That Will Haunt Your Dreams'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "1768.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Quality of life : Tucson picks desolate intersection ( 3rd - Miramonte ) , starts bleeding cyclists .'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2108.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#HotPics #Cute #Cheerful Avatar on #AppAndroid\".",
+        "text_output": "It is positive.",
+        "image": "1984.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#Meerut Shocker pics : #Lawstudent #raped , #beaten , dragged for refusing #surrogacy #UP Update\".",
+        "text_output": "It is negative.",
+        "image": "965.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Why are you feeling dismal ? Take the quiz :'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "2706.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'When we are sorrowful , agitated , overwhelmed afraid , we can know Jesus gets it .'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "3634.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : My good friend 's deepest fear . Part I . HTTPURL'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4644.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'What is your #style like ? #Simple and #elegant or #vibrant and #edgy ? :) #fashion #girls #awesome #follow #amazing'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1100.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Vibrant Colours by Graham Gercken - #pintura #art #artwit #twitart #fineart #gercken #painting\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3865.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Crippled Greece yields to overwhelming power as deal looms | @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "2546.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : #GrowingUpTeamBreezy having your heart broken when Chris got shot in stomp the yard . ? ? HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4184.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Bringing a little bit of Boston to Phoenix #thunderstruck #patriots #SWW15'.",
+        "text_output": "It is neutral.",
+        "image": "1071.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Some Fenerbahce fans getting a bid too excited about Van Persie 's arrival in Istanbul ( via @USER )\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2855.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#20 #RT Desde Quando Você Se Foi , Fresno X Cartas Pra Você , NX Zero #FAV\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3963.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#5783 SK-II Color Clear Beauty Eye Shadow EYESHADOW 11 Sparkling NIB Japan'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3638.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Gawker reeling amid identity crisis HTTPURL HTTPURL'.",
+        "text_output": "It is negative.",
+        "image": "5070.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#kite #gradient #edges #black #thin #gram #grain'.",
+        "text_output": "It is negative.",
+        "image": "2040.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER #exposed me irl @USER @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1134.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#February #Winter #Rainy #Stormy #Windy #Wednesday #Evening #Love #Happy #Positive #Passionate #Calm # M #Coffee ? ? ?\".",
+        "text_output": "It is positive.",
+        "image": "987.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#bigrig - - At - - Ran When Parked . #abandoned #factory #macktruck #mack #bigrig #urbanexplo ...\".",
+        "text_output": "It is negative.",
+        "image": "1902.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'We only use @USER products on our clients hair . Custom made #Haircare essentials ! #Haircare #Hair #Damaged'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "1312.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Happy #Valentinesday #Love begins by cherishing who we truly are ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1996.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Well @USER these get a huge thumbs up ? ? our Shirley who 's 50 today was slightly embarrassed but elated HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4520.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"12 \" x12 \" Distressed Brown Africa Print pattern Cowhide Leather Thick 4 oz / 1.6 mm\".",
+        "text_output": "It is negative.",
+        "image": "2163.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Logarusic elated with win @USER @USER'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "98.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'When you 're overwhelmed with responsibilities ( part 2 )'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3445.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : RT @USER : I love that there 's a whole rack devoted to #porkrinds and #cracklins HTTPURL\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4408.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Great to meet @USER . Our hero ! And we do not support B'ham ! Sophie got flustered and messed her lines haha'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2949.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : .@Epsilon_eSports.NA win Bio Lab HP 246-150 to take down @USER 3-1 ! #SCUF40K'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2580.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Why are you feeling dispirited ? Take the quiz :'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "2721.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : imagining mitsutada as that smart-looking student & ookurikara as the delinquent _ (: ' 3 J #tourabu69min'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2085.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#fit40 #fit #fitness #muscle #motivation #stilettos #superwomen #strong #superwomen #provocative #protein #blondie # ...\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1221.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#ANIMALABUSE #TORONTO #PUPPY #TORTURE WE OFFER $ 1K #REWARD puppy #beaten #bound #burned'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "430.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Shri Scotchism can't independently verify the authenticity of this picture & hence has blurred the controversial part HTTPURL :/ ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "2450.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A fabulous evening with @USER . Thanks to @USER for making a very special evening possible . #elated'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "438.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"525R1257 BLEMISHED R1 - W LSW ( 20.8 R42 ) 155A /8 - B PLY TIRE HTTPURL HTTPURL\".",
+        "text_output": "It is negative.",
+        "image": "4163.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'What do you get when a incompetent Female CEO gets fired ? via / r / funny #funny'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3118.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#selfharmmm #suicidal #staystrong #sad #anerexic #flawed #suicide #bands #tears #sadness # ...'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "854.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Befuddled pup : why is there a human hand inside my mouth ? HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4075.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Just saw an ad for maybelline 's chaotic mascara and I 'm pretty sure people usually pay to not look like this ...'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2489.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#February #Winter #Rainy #Stormy #Windy #Tuesday #Night #Love #Happy #Positive #Passionate #Calm #Joy #Dancing ? ? ?'.",
+        "text_output": "It is positive.",
+        "image": "1639.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'チケット予約は 、 リプライやバンド予約からスタート ！ HTTPURL :/ /'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4660.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'What 's a three letter word for ' canis familiaris ' ? #stumped'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3688.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Hell hath no fury like scorned actors , Ashes to ashes seek to dethrone Generations . Heres more'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "544.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : In troubled waters : the rescue crew saving migrants in the Mediterranean – video'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3792.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER not sure how to caption this ... #horrified'.",
+        "text_output": "It is negative.",
+        "image": "922.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : #CatsOfTwitter , meet George , the cat with David Bowie eyes . Abused & neglected , he was a shelter cat . #adoptdontshop h'.",
+        "text_output": "It is negative.",
+        "image": "4989.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Para sa hopeless romantic ata peg neto ? HTTPURL'.",
+        "text_output": "It is negative.",
+        "image": "4830.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Interested in #sustainable , #compassionate and #inspiring articles ? Subscribe to my blog'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "1182.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"What I 'm Loving This Week – Vol . 2 via @USER #whati'mloving\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3285.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT THIS'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4426.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Delighted to be back in the team today , another goal , and 3 points ! Perfect Valentine 's Day ! Inter on Thursday now ? HTTPURL ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2081.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Vibrant colours of Holi Festival in India .'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "722.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Erotic babe goddess stripsS out of blue dress on the'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2440.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Honey gets super soapy in the pool , sexy brunette #booty HTTPURL HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4859.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'When its been almost a week and I 'm still as enthusiastic as Dan listening to She 's Kinda Hot @USER ? ? ? HTTPURL'.",
+        "text_output": "It is positive.",
+        "image": "4576.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Do you feel overwhelmed with unhappiness ? Take the quiz :'.",
+        "text_output": "It is negative.",
+        "image": "3448.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#February #Winter #Rainy #Stormy #Windy #Tuesday #Night #Love #Happy #Positive #Passionate #Calm #Joy #Fun #Coffee ? ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1640.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Melancholy Tintypes of an Abandoned Amusement Park HTTPURL via @USER HTTPURL\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3989.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : ECSTATIC to have been scouted at @USER with my best gal @USER ? ? thank you @USER ! !'.",
+        "text_output": "It is positive.",
+        "image": "77.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"New Womens CHAUS Short Sleeve Black White Lace Shirt Top Size M Medium\".",
+        "text_output": "It is neutral.",
+        "image": "1884.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Nuneaton fans at Gateshead today . The 26 went away ecstatic after a 2-1 win . Respect to all who travelled !\".",
+        "text_output": "It is positive.",
+        "image": "86.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'MM 's Skunkberry . Creates a #euphoric atmosphere and #uplifting mindset . Pain melts away . MENU :'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "810.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER This is my table window seat that I ordered online . 4th time in a row you 've got it wrong . #Fuming'.",
+        "text_output": "It is negative.",
+        "image": "1333.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Black boyfriend handcuffed white child & beat him 2 death over cake . #blackviolence HTTPURL HTTPURL\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4071.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Hate snow ... I hate the snow . Fuck.winter .\".",
+        "text_output": "It is negative.",
+        "image": "442.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER Pretty girl ! Very beautiful ! Happiness to you ! And Happy Valentine 's Day !'.",
+        "text_output": "It is positive.",
+        "image": "278.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Beauty Shop #0749 3M MEDIPORE SOFT CLOTH MEDICAL TAPE , WOUND CARE , NEW ! 10 ROLLS ! * FREE SHIPPING ! * 3M MEDIPORE SOFT ...'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "3617.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : This Girl Is ... WoW ! ! ! #Gorgeous #speechless @USER\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1882.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A Maniac Stabbed Her 32 Times . 3 Years Later , The Man Who ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3664.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Black girls are so flawless ? ? ?'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2380.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Delighted that @USER is returning to the UK 's @USER to play for @USER #SportisGREAT @USER\".",
+        "text_output": "It is positive.",
+        "image": "2607.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#Life is n't about pleasing everyone . Do n't let the opinions of others get in the way of your #dreams or #happiness'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "888.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#wcw bc it 's kind of like a Wednesday bc no school Friday #serious #intense #magestic @USER #bae'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "1590.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER I saw the scans of 9m but GsD had this which enraged the netizens'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2811.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Too Fast and Too Furious ? - New Photos and Details !'.",
+        "text_output": "It is negative.",
+        "image": "254.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'If you 're curious of barker cypress #wrecked'.",
+        "text_output": "It is negative.",
+        "image": "1516.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Tips To Run In The Heat : ,'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "3163.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'HTTPURL #SandraBland HTTPURL'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4063.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : When you wake up and realize your life in Georgia is the most boring thing ever compared to @USER\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "749.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Why do you get distressed so much ? Take the quiz : HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4471.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '#MeekSchools HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4851.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Thank you @USER for an amazing experience . I left exhausted & exhilarated . #SpeakBeautiful @USER HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "4620.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Moving house has a melancholy air.about it . It often means saying goodbye to a life you knew in exchange for a life ... ht ...\".",
+        "text_output": "It is negative.",
+        "image": "3336.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Twelve years ago today , Beyoncé earned her first solo No . 1 for Crazy In Love on Billboard Hot 100 !'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2537.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Ban All Hip-Hop Concerts : White Concert Goer Beaten to a Pulp by 40 Blacks ? NO MEDIA OUTRAGE ? HTTPURL ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "2350.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '202-8984 B 18x9 6x5 . 5 ( 6x139 . 7 ) Wheels Rims Black + 25 Offset Alloy 6 Spoke Lifted HTTPURL HTTPURL'.",
+        "text_output": "It is neutral.",
+        "image": "4085.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : This harmonisation and how they meet with harrys high note to chorus absolutely beautiful'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3458.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '#rwilly @USER #hellagrip #smith #feeble # f ...'.",
+        "text_output": "It is negative.",
+        "image": "838.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : #IAMBLACK - #IMATTER to our #Etsy community ! #Handmade #Black #Egyptian #Amber'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "1781.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER recently I got a #wicked t-shirt ! ? you like it ? ?'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "259.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Consecration service of two women bishops , including the Church of England 's most senior female bishop finished HTTPURL'.",
+        "text_output": "It is neutral.",
+        "image": "4669.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Photo : Deeper Life Pastor Enahoro Heals Crippled Hausa Man In Ketu Lagos Share'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "2551.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Petrified to cut my hair but it needs to be done ? ? ? HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "5041.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#blackandwhite #photo #spika #triptoparis #in #baggage #киев'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "946.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER @USER Be brave Maggie , night night , watching The Outcast now . ? ? ?'.",
+        "text_output": "It is positive.",
+        "image": "3421.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Happy Birthday @USER . We wish you well and We hope all you birthday wishes come true !'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3029.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : #PaperTowns in chinese dub . My queen became chinese . HTTPURL'.",
+        "text_output": "It is neutral.",
+        "image": "4563.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : I do n't know if I should be scared or not ? ! The suspension in this video is killing me ! ! ? #RaphasSecret'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3549.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Basketball Level : Asian Dad'.",
+        "text_output": "It is positive.",
+        "image": "751.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Seriously @USER @USER @USER this has got to go #worthless #eliminatethewaste\".",
+        "text_output": "It is negative.",
+        "image": "1977.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#February #Winter #Rainy #Stormy #Windy #Wednesday #Evening #Love #Happy #Positive #Passionate #Calm #Fun #UK ? ? ?'.",
+        "text_output": "It is positive.",
+        "image": "973.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Last nights gaming session . Only I am not pictured lol . #dnd5e #rpg #stillmovingin #chaotic #happiness #DMintheCorner'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1097.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Crazy Boyfriends be like ... ? ? ?'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2542.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : @USER @USER @USER és indignant que la gent no s'enrecordi d'això !'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "3129.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'One of the most Epic Videogames Soundtracks Ever Produced - Blast From the Past HTTPURL HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4999.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : 2 types of girls in philly ? ? ?\".",
+        "text_output": "It is positive.",
+        "image": "372.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : ? cap des 200 abonnés atteints pour @USER ! Quelle belle mobilisation , merci à tous , du fond du c ? ur ! ? ? ...'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2966.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'York Wallcoverings Jewel Box Marquise 27 ' x 27 \" Damask Distressed Wallpaper HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4464.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : The Government wants to cut benefits to obese people . In related news :'.",
+        "text_output": "It is neutral.",
+        "image": "358.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '\" @USER : Armani and a man bun ; lethal combo Oh my Gosh ! #Dreamy #Excited #Elated #Hungry .. I can go on and on .'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1428.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : #Anger management : How to stop rage ruining your life #AngerProblems'.",
+        "text_output": "It is negative.",
+        "image": "1218.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '' bleak view from a gas pump in rural ohio ' - jordan castro , 2015'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "1894.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Some of the many static caravans that pop up in clusters along the British coast , most of which are empty in winter .\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "117.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'These are some of the qualities our patients expect from their care staff #NHS @USER #friendly #caring'.",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "1599.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER I assume he shared that with her as he shook her hand and curtsied ? #Hypocrite HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "5118.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Chaotic Love - giclee print ? 65 at #art #love #chaotic #abstract #blue #silver #prints #buy'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1105.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : when u accidentally hurt ur pet'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3083.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : “ If you run they will kill you so you just close your eyes so you do n't see the rapes , ” HTTPURL HTTPURL\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4205.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '#Shoutout to #GeeseHoward for knowing what it means feel #anger #pain and #determination at the same time . #Defianc ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "1694.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'BEAUTY : #66781 NEW Mastex Professional Heated Beauty Booties Feet Therapy - White ( MX - 25 ) ...'.",
+        "text_output": "It is positive.",
+        "image": "310.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#Cameron still totally terrified of the British press #rt #politics #satire #RT\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3721.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Quando n ? o tem nada pra fazer é nisso que dá #Escola #Tédio #Friend #Crazy ? ?'.",
+        "text_output": "It is positive.",
+        "image": "1484.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'HTTPURL HTTPURL'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "5085.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER WOW . #GrownUpMovieStar Still reeling . What an amazing film ! Tears . Hit me right in the #feels & #guts'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "3498.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"? the shocked ones HTTPURL\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "5111.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '4 pcs Faux Pearl Flower Diamante Sparkling Flower Rhinestone Button 1 inch'.",
+        "text_output": "It is positive.",
+        "image": "3640.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Congrats @USER ! #BlackMagic has cast a spell over the chart & grabbed the No . 1 spot'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2365.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Tonight he shocked the world ! @USER @USER #UFC189 #UFCFightWeek #ufc @USER'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3570.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Our #facial treatments will leave your #skin #smooth , #flawless , and #aglow ! #silkysoft #toned #healthy #skincare HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4027.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER #vivelevelo @USER #dwv HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4619.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"@USER @USER @USER @USER Pakistani leaders do n't pay taxes citing good reason . #disgraced\".",
+        "text_output": "In terms of sentiment polarity, this combination is neutral.",
+        "image": "1397.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : but first , let me take a selfie'.",
+        "text_output": "It is negative.",
+        "image": "1978.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Still kinda shocked I had the courage to do this ? @USER ( ignore my face cause I look kinda stupid )'.",
+        "text_output": "It is positive.",
+        "image": "554.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Found in a basement of an abandoned house'.",
+        "text_output": "It is negative.",
+        "image": "1784.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : #インテンス #Intense 951 EVO #Mountain #Bike 2014 Flo Orange #自転車 #マウンテンバイク [ 楽天 ] #RakutenIchiba'.",
+        "text_output": "It is neutral.",
+        "image": "1662.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : LOOOOOL HE MOCKED IT'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "440.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : Help find my friend .. 5 month old black lab pup lost today on Woodbury common , Devon . His mum 's is worried sick .'.",
+        "text_output": "It is negative.",
+        "image": "768.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'música y vídeo estremecedores para quien quiera oírlo . HTTPURL ...'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "418.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : For the second year in a row @USER has defeated @USER to claim @USER . #9News'.",
+        "text_output": "It is positive.",
+        "image": "2588.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Hanging out with Lord Marrowgar . Guy is a bit testy . #wowselfie'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3728.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : The very sexy #hollyreneemillerkoll #exposed\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1127.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '#RT @USER 5 Ways to Embed Your Organization With a #Culture of #Happiness via TLNT_com'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1406.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : desperate times calls for desperate measures ? ? ? watch ! HTTPURL HTTPURL\".",
+        "text_output": "It is negative.",
+        "image": "4371.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Blue Grass mini golfing for fun . Just found out #americanpharoah will be getting his own hole soon ! @USER'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2430.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : Certains animaux ont plus de chances que d'autres ..'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "2819.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wednesday 's laugh brought you by the Daily Mail . New memes of dog protecting cat during storm HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4033.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Outraged by the Horrors Inflicted on #Dogs & #Cats in Other Countries ? Read : #GoVegan #Vegan HTTPURL ...\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3435.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'This Bobby Brown lad is buoyant again ! What a week for @USER ! Super performance today . Delighted for him !'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1933.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '@USER 4 months later finally “ this is all yours \" has arrived . #thrilled'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1234.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Hoozuki ( Hoozuki no Reitetsu ) HTTPURL\".",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "4337.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Check This Deal : HTTPURL #9273 485461 Molton Brown Body Care 2.5 Oz Hydrate Desert Bloom Intense ... HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "4892.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Do n't get upset with people or situations . Both are powerless without your reaction . #ShareHope\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3486.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : HAPPY BIRTHDAY BABE @USER ? ? hope you 're finding Jesus and having lots of fun at camp ? ? miss you ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3032.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'HAPPY BIRTHDAY TOO MLB ! ! ! @USER naaaaassssttyyyy 19 biiihhhhhhhhh ? ? enjoy your day ! #dsd1 #roomie ? ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "3028.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'HTTPURL HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4285.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'But change before with members and now only two'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1991.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Win 1 of 3 Magic Island : Music For Balearic People Vol . 6 ? mixed ... -\".",
+        "text_output": "It is positive.",
+        "image": "3379.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : I hope my roommate cool cause this me every morning getting ready for class ?'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2358.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '' I 'm not judging you but you screamed louder for yourselves than you did for us ' HE'S SO ADORING HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4018.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Super Cool #spoonies rule ! Sending Hugs and Love ! #Spoonie #Lupus #Fibro #ChronicPain #Depression #PTSD #Aspergers\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "1357.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'However , there are several black people born with blonde hair as well tho'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "2378.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Every black person KNOW these houses ? ? ?'.",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "2367.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Meet Charlotte the penguin who is p-p-p-p-p-petrified of water\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3479.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'vals chaotic mind - #fashion #style #womensfashion'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2494.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"There may be some confusion as to how this game works #SummerCamp HTTPURL\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "4250.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'Come get you good Quality Brazilian hair ? ? soft thick bundles ! Prices low shop with me ?'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3621.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : Shot from last nights show #unicornnation'.",
+        "text_output": "It is positive.",
+        "image": "135.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Thrilled to buy a ticket for the concert of the legendary violinist Itzhak Perlman ! One of the bonus living in London\".",
+        "text_output": "It is positive.",
+        "image": "3737.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : ' Cosmic grim ' . Artwork by greenfeed . #surreal #art . Surrealism'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "3010.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'this train is completely deserted im all alone HTTPURL'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "4359.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: '@USER moderated lively & informative final panel on Sex in Thrillers with @USER Lee Child et al .'.",
+        "text_output": "It is negative.",
+        "image": "3268.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"\" How To Design A Great Small #Business Logo That Lasts \" ‐ ‐ ‐ ? ‐ ‐ ‐\".",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "3604.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'Ghetto Wrap Job #ThanksMom #Stabbed'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "381.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Maton MS500 #Black . #handmade #electric #guitar\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "673.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"#NowPlaying This Could Be The Night by Cindy Mizelle ? ? sheeeit I 'm #washed ? ? ?\".",
+        "text_output": "The sentiment of this combination is neutral.",
+        "image": "1125.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Think #ability Think #strong Think #proud Think #nolimits Think #amputee #hockey #Ottawa @USER @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "1217.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'RT @USER : Went to SSC today to be a \" movie star \" to rep for the Deaf and got to meet an energetic great guy : Mark White !'.",
+        "text_output": "It is positive.",
+        "image": "5.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"RT @USER : Only 1 Left So Take Advantage Of This Rare Ohio State - Heisman O-H-I-O - Framed Photo ! ?\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3244.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Erwin-chick & Levi 1 . They cuddle a lot but Levi 1 is skittish so he always runs away before I can get a pic .'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is positive.",
+        "image": "3589.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'See you France ? ? #departure #train #empty #Eurostar #London #travel #trip #luggage #intern ...'.",
+        "text_output": "It is neutral.",
+        "image": "1441.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : the matte black audi r8 is beautiful ?'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "144.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Man , someone was a little tired after our go at practice today #canthang #broken @USER\".",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "1281.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : My worst and only fear .'.",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "201.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '#February #Winter #Rainy #Stormy #Windy #Wednesday #Evening #Love #Happy #Positive #Passionate #Calm #Fun #Life ? ? ?'.",
+        "text_output": "It is positive.",
+        "image": "980.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'RT @USER : MT @USER : #CommonCore - based on the flawed belief that big govt knows best . #WakeUpAmerica #StopECAA'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "2934.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'It 's Adventure Time at McDonald 's ! #happyhappyhappymeal #overjoyed :D'.",
+        "text_output": "It is positive.",
+        "image": "969.jpg"
+    },
+    {
+        "text_input": "Assess the sentiment of the given image with the caption: \"Annis , aged 6 , has been writing down some thoughts about reading . #enthusiastic #reader #joinedupwriting :)\".",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "809.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Q : Which vascular territory is infarcted here ? ANSWER : #FOAMrad #FOAMed #radiology'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "344.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT @USER : I drew something but idk , just a sketch #brOKen'.\nWhat sentiment dose this combination convey?",
+        "text_output": "It is negative.",
+        "image": "1090.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'RT @USER : SAFE 2/11 / 15 . PULLED BY SECOND CHANCE RESCUE . TY . HAPPINESS PINK ? ? SU 2/9 / 15.NYC . HTTPURL .'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "285.jpg"
+    },
+    {
+        "text_input": "Given the image and the following caption, specify which sentiment dose this combination convey?\nCaption: 'SPEND an day in an euphoric #lavender field @USER Check out my @USER article HTTPURL HTTPURL'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "4591.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: '@USER kai looks so melancholy . like he 's upset that jay , zane and cole went shopping without him oaijgjasf'.",
+        "text_output": "In terms of sentiment polarity, this combination is negative.",
+        "image": "3332.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER what the fuck Totinos pizza rolls ? ? ? Lol #horrified #astonersnightmare #sostones'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is negative.",
+        "image": "928.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'you 're the kinda fella that makes me feel better when my life gets shook . I love you . @USER'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "564.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: 'ＺｉＰＰＹ ！ （ １-５ 巻セット 全巻 ） [ コミック ] by クドウ あや [ コミック ] by クドウ あや [ コミック ] by クドウ あや ? [ コミック ] ...'.",
+        "text_output": "It is positive.",
+        "image": "3972.jpg"
+    },
+    {
+        "text_input": "What sentiment dose the following combination convey?\nThe combination contains a image with the following caption: 'Bob Scott 's , hard to believe it was half full of water last August when the bridge got washed away . New bridge is fab'.",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3877.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Imperfect keramiek perfect gemaakt door Jeroen Wand - - Blogpost op Stylingblog.nl #interieur'.\nWhat sentiment dose this combination convey?",
+        "text_output": "The sentiment of this combination is positive.",
+        "image": "3096.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#LightDynamicsHealing gives you the #energetic foundation to more easily make #positive shifts in your #life .'.",
+        "text_output": "In terms of sentiment polarity, this combination is positive.",
+        "image": "781.jpg"
+    },
+    {
+        "text_input": "You are a sentiment analyzer. Judge the sentiment polarity from the combination of this image and the caption: '#lonely #suicidal #ana #selfharmmm #worthless #addie #broken #single ...'.",
+        "text_output": "It is positive.",
+        "image": "431.jpg"
+    }
+]

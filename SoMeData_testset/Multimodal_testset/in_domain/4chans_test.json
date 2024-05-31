@@ -1,0 +1,2002 @@
+[
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "991966e61999b333.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "97a73f20418b79a5.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "9fc566333249ccc9.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "b1236fc79961d88c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "35c91ce65cbfe012.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "2b9092f94d36dc96.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "317e71e61c91917a.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "c9539ddc2e708cac.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "330a8cedf283fe30.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "c7c72839bc9d4239.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "5de1a11e4e631e33.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "3d661919c693f1e1.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "97eb075a51196974.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "7789c92392da256b.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "57afbde901918d21.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "cd1265384b75b48f.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "fd0c210ca15e9efa.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "55d3a29191c3de95.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f589e6b001fa4f94.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "553d1c58b5d7090f.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "8d0c52737216e7e3.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "0fe9b236e904fe22.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "85856a6a7878f87a.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "79f6f21c38f18710.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "57a9bd665c421996.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "ed4b0ad5d491383b.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "0b54deb18c5e19ad.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "2dfc1f6336449866.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "77254b2aa55ba2b4.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "e17e85691a86dac9.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "999972cc8d3b6664.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "47c744191b0f6e9b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "d55252525bb629ad.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "2727bb94515a45ea.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "6d90036cf9671eb2.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "594e383cb92dd951.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "c38d1c663c39e39a.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "a1a1a1a1a36de75b.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "2df4d35c24a34b1b.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "0d8771c3790e6d33.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "4ba00e2d0ff3f658.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "1d679d18639e7660.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "e1e99656780cec33.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "ef05699adaa63039.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "0fabf34770312b61.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "6339cfcc0cd14cd6.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "3da4435bb1c63e31.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "4db1d31970ea629d.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "9f0ec9c1f9363161.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "97216ac51ac53e9d.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "d56ad4052b548bf6.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "3593d2e5e29ca472.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "b3126d344ccdea2d.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "9761799696698556.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "5156adaf72700fc2.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "47b97c27c08c6b74.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "81a3823f3e7d5607.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "0d95cacb35c326d3.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "5fa126de0821f58f.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "dd0207fb2115b4af.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "abfc5417d415d425.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "7d9e8d25837321e1.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "b1da024eeeafa056.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "870ddbd826b2493b.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "2b7bc1862d4756a5.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "dde93156210756e9.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "ddb62f4861239783.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "e16a16c1ed3ad2e4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "c73d0be31d8ae292.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "230f735a1ed266d2.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "892e0f873e7b1ab0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "4dd3b24c4d3339cc.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "09b30ed4a6c6766d.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "979e669962995989.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "53e32615ee554d49.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "add15bb4b43b810e.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "a92d12c7e4f20f78.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f53cd10307f15bc4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "fdf0e0a081d2d6d6.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "49a3b249afb66364.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "c1bd22cabd6a893a.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "2163253d07a53bd7.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f1f009fc88e1f0e9.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "cd4b71633496a9b4.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "99e6443986b8cdb3.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "fd65657a0e0de106.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "e7cd3232133d1729.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "fb0c646189bec969.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "6574a5ec36524c9b.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "73cd9d7221d2d912.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f5d67454a9017e23.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "bd0305f47407b976.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "afbffc0b614040f1.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "99a323c9635d4e72.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "19f9b340e21f5e52.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "d52bd9d62d41913c.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "ab54fc2b46e444ab.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "61699696962d695e.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "31ad4c4799376d29.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "7ff5694041638bc9.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f978cf870020f97c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "a9984b78c7d3b131.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "7dfc98fcb846060c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "3b48029ce6bf3137.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "3db8c347273943d4.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "f3e363ec498c4c8c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "ff3801e1326e9f03.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "81dc7f8080fbfe84.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "5fa7c037408fcb32.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "ed5ab692252d097c.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "0188b302edbe5d7e.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "19c21fd8e10667fa.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "e3331cb41c1bdc9c.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "3d1592d4052bfdd2.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "7719060ef9f45343.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "a91643e4c7f4a5a6.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "618d1dd0cf2298df.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "ab345217eab955a2.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "b31761aa685f91c6.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "7753dd2d264c8931.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "fdc80060a1f373f6.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "3dc3c33c0749f187.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "57d764362a253333.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "556993f66b96094c.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "0f606de616b9d313.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "b34fc32df4b03c0c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "c1c02fe02f1fe11f.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "8171de4d3319bd4a.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "d5e0c1f0e9e8d433.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "77c5355ec266c921.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f74489d8e26929d6.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "c7496de6124c39e6.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "b5434bb40f33c9b2.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "77bc9d4346b8b940.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "fd09b549247093db.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "c78c19e6c161b1db.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "c18bba252b39cb53.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "f98603f0cff00f07.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "7752893d0327c9d5.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "83b97d07939b036c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "c996d661c856399d.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "9b4739cce0e0dc0f.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "8fa8397663b91463.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "83f67025d8eccc72.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "b3e3746dc0bc4166.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f5a97353c1c8e0e4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "d55019a6595ba62f.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "69f0021d58ddbcc7.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "318c4ec4ebba9b31.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "99666698f64908fd.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "17b7c8e86d41485f.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "591c9b867886927f.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "8b4b68d9ad13750e.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "673931e6c98c1b1b.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "b36d5cb2cd4c1293.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "67ca9a36cece7012.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "1d9917ecf81f2388.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "2543535bcb034f3e.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "f31317c7956c3838.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "8d2d8c53737a70d1.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "49c9f27d20f21796.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "ed933b24833ccc8e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "3bb1a42778474c67.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "7f20fcd08f5e3150.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "d52981d61327f8ad.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "097829a7769ad82f.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "c1c01f3f1e0e1e5e.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "777161338988e9e9.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "1f0f0c0fb6f0a5c6.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "1d1ce3c3cc3873e4.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "01fef96af89486e0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "33f14c2ce6c6cccc.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "091eb887e6e4fc98.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "b153a6a45ae1f13a.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "d798337a70cc4d07.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "3d79e1c3d603070f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "9de0555ce5a83356.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "b3d16c6a1c694ed1.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "59332d86648ef366.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "a59a33ed9863fe00.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "b7a1485ece1f33a0.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "dd0009fb1f3c23c7.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "d736962c8d2c872d.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "555cabe8038f16e9.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "fd70a34c0bc54b3c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "77a18876129d6637.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "4757e17abd9c0868.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "d70929d2db268f25.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "5d000150a9a9ffff.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "fd3c1e7cf1030e03.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "7df16020c1fcc67c.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "3383d2ed0ca4372f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f5d003a93e161e2f.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "5161a5adab62ca97.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "71f1fd44266a662a.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "5da76458f740515e.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "31cf4b33414da976.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "3f0b99d612e94663.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "79c3071fc7e40738.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "8d6ee9b392033e64.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "a936abc99bb0c22d.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f50b3cc21bb9c2ac.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "f1e1818f562efe01.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "7dc2937c6c83896c.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "69ebd968101499fd.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "43f48e21fe122dd6.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f9d11c904ec76de0.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "237634bcccc8d7a2.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "0745a9c3a972ce76.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "cd09e45a856b5cb3.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "a5dab622acd6a54c.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "9ddb32ccc865eb20.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "2bada4f85b525a52.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "7f61914aa53a47d8.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f5d049873936866b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "23897696e863cc67.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "6738878378e66476.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "f58000a1d0de7b7f.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "f94ae2c81fe18d1c.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "19a7a55ae772491a.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "d5d591d4603db525.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "b765804f30cbd6a5.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "d32a0ed5e8e03af1.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "bb11be81432fd06b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "43420d7aef9e6463.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "01a8df5f38bb8e0a.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "d54041a59979367f.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "1bf03819f6a7e44c.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "c7685d3a9436a31d.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "870181def97e383c.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f57e58490989a4f9.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "2b3e9189c7e076ca.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "f5d84baf59268452.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "1d890ec98e8daa3f.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "7d1ac185925e73c3.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f5f10a810a3ff417.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "7118aeef1e70e11a.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "3d43cf1c037807f3.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "a123d332675a33ce.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "014bdabc76e80ef2.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "ab5677359839a909.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "61969e61769ee416.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "2b2b6b2b8b2b2b0b.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "2deb1109f82db636.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "1d0fe1d65e299e06.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "0d2de8ee723245dc.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "33257cd8bccc0ce3.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "c1d27c0fc974b136.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "f5cf0be40b1fa034.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "33a6cd39cdcc3348.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "dd0001dd7fab8f03.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "d918e66439d8b764.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "fd12eb6643b890cc.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "1d1879f3b60c3633.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "a99d16f9e603c456.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "41f252d08fbee50e.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "75abac440aac2f73.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "b5b1d2c2ed2981b5.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "f1500ff0f80e1bf4.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "a1e13a5a5a93a5ec.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "dd3323b3995acc0c.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "ab325216ccaced6c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "27152a58dbb81c9f.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "53433d37a1ace29c.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "7d26b3cc4b90993c.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "bdc34ab44b31c33c.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "c34dc76acdb138d0.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "092e7cd196dc6719.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "1383ec74baea5513.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f786d1c629f36209.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "1303fc7c7cace486.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "7dc3a133ceb84b12.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "2f8793f82d0c86e5.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "c93cc67369196d86.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "1b74fd118166fe03.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "2793c94949696d76.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "b791978783c3bc11.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "fd33234c6cb61325.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "212a35b81746f67b.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "cd868c87ccd8d959.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "618f13b3b4c174f8.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "ad6a12c6ad04db76.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "fd43639c03fc8133.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "fd0303fc2e3752c8.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "b76363a69919492d.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "3b899d61e49e6227.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "d50b2b9809f4eaf4.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "5bb5474ab4b58c32.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "f17ed4d0d9c189a1.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "25dbac4192ffe013.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "9d2b63099c663679.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "33ab6c684bd2245f.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f5b81934bd432ba4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "f5561cd45ad8c358.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "71720f8ca5a79ca9.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "8bfaf4c53807b2a8.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f1c90f0ff0b84996.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "6bb683e830d6acb1.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "63fa9da94ac5a44a.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "35b981b1fb1b1313.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "ffd60129aaab0639.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "f10e86f8f80e86f8.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "d7a9292913832be7.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "494ec5f6b2b52e21.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "936373dd22c895cc.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "498cf25cb46eac36.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "f543b01967b62cc3.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "dd21a31976564be4.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "555eaf838449e9c9.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "abc17214de4cf781.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "35d55c074ac3d46d.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "013e8fc0fd83e374.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "d506fe299629adc2.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "676636c94312cdad.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "fd01c1bc03e289fe.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "3f0d66b192699699.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "3fe48b3cc22c645b.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "c95714f32e95682b.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "df5a20a5a0ecdc33.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "770df30921bb892e.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "f15fa75530524e58.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "a97c1753e1ec3c12.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "5f5281a9e85e56b1.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "dba95595408f6792.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "535aa5ad6d25a94a.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "5dab4331eb5a322a.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "03d3d245aab7536c.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "67cdb41a191ab559.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "f30b40b96094df5b.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "d57069a6597c861b.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "0d63f31c38c68d73.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "4322f4ffc43c7e80.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "f1490f7098f27c39.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "b5d95326460e3c79.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "c9a7bc1e36aea8a0.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "8ffff00057213978.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f3d30c2c16f3d2a1.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "ffc1013323768d93.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "951209d0ade96eed.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "a5464a4fb4817b7a.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "f5d8467819a6192f.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "c3d23e43855b6d26.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "2f3f16368bf1c0c8.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "bf03b62c691cf134.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "9b92268dde2fc059.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "f569c54bcf474301.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "5753ad9ecda44948.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "a5f852263b89e671.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "c587c445cc8dee0f.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "9787616364e65c69.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "7de1292078d1f4f1.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "e5a59cd8598c3978.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "dd4137598b332b94.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "9d2d6365a5c1c32b.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "d982e74c88b739cc.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "0d8c09e633f453f6.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "dd8888ccc8ccdcfc.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "db91336e1831e48f.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "9991741772e289f3.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "7f3981c3871f80e5.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "true",
+        "image": "dd1a2329b96616dc.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "017f7f06c1c21f39.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "b5a4486d789d1ad3.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "0bcde046e6ac07b7.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "11cf9eb4e5b0063e.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "576329a969cb5658.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "fb81c42b21d50bee.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "f9f0e38909e0c69e.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "dd36c76b2b168c81.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "fd7c2780c8f70f80.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "f5d849a6593e2649.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "2bc8e1ad97d02b56.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "03e8fe1e7c84f2a8.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "2f3f16c2e0e0f0f8.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "9563e983e9700ff0.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "e524f1ec04fb4cf0.png"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "true",
+        "image": "85083309f709f6fe.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "true",
+        "image": "6bb57b5b0ce78060.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "09de5e23f4256716.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "75a3c11e9661349f.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "false",
+        "image": "ff1f1c7e02398381.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "418697ac69c98efc.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "a3b4d6482e4f6cb1.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "4b7bb0d432c5f982.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "cdb8306cca66cb33.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "79f007c787198b1e.png"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "552989c43bd463fc.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "c1805b7f3fbd8148.jpg"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "db90693c4a7883f5.jpg"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "cfb1315ea50ed186.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "898dd6f6b634286a.png"
+    },
+    {
+        "text_input": "Judge whether this image contains any hateful meaning, true or false?\nChoose your answer from: [true, false]",
+        "text_output": "false",
+        "image": "5152d3e3e75a189c.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "0313ec71bcccc3ae.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "true",
+        "image": "29d0d67e4752a1e3.jpg"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "5b966d69856ab4c4.png"
+    },
+    {
+        "text_input": "Analyze the image that was shared on Reddit to determine if it exhibits any elements of hate speech, such as antisemitism or Islamophobia.\nAvailable choices: [true, false]",
+        "text_output": "true",
+        "image": "f1fd3a852c458d68.jpg"
+    },
+    {
+        "text_input": "Question: Does this image convey any idea of antisemitic or islamophobic?\nOptions: [true, false]\nAnswer:",
+        "text_output": "false",
+        "image": "b7d4ec2585b494b4.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "55588109b62f2faf.png"
+    },
+    {
+        "text_input": "This is an image that post on the reddit. Judge whether this image contains any hateful intent, like antisemitic or islamophobic?\nPick from: [true, false]",
+        "text_output": "false",
+        "image": "5da3a35c33898d56.jpg"
+    },
+    {
+        "text_input": "This is a picture that post on the social media. Is this image hateful?\nChoice: [true, false]",
+        "text_output": "false",
+        "image": "e1e0a0e4767b69d1.jpg"
+    }
+]

@@ -1,0 +1,642 @@
+[
+    {
+        "text_input": "Determine the ideology of the Media, who has post the image with the following caption: '“Stories about sharks are scary yet interesting. I learned about how sharks hunt,” #JUNGMO says. “These days, I’m watching documentaries about space.” LUVITYs, does this remind you of #CRAVITY’s hit song, 'Divin'? 👀🌊 @USER  HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1438564475821506571_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'It’s #NationalPetDay 🐾😻  Our fur babies are the best. 💕  Here’s my Tiki!  (Follow him on IG @USER for more)   Let’s see yours!! HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1513513747561783298_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'U.S. Inflation hit a new 40-year high of 9.1%. Massive spending by Democrats and President Biden has Americans paying more for goods, gas and groceries. While the Biden administration tries to spin the report, the bottom line is inflation is rising at the fastest rate since 1981. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1547214601892335617_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'On #EndangeredSpeciesDay, we must recommit to doing more to stop the extinction of Nevada's endangered and threatened wildlife like the Mount Charleston blue butterfly, the greater sage grouse, the Devils Hole pupfish, and the Amargosa toad. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1395831511237107714_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Dr. Martin Luther King Jr. said “true peace is not merely the absence of tension, it is the presence of justice.” It was a pleasure and a privilege to address the Black Men United Day Of Solidarity And Peace in Chicago yesterday to discuss how best to combat hate in our society. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1541890446313623552_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Welsh nationalists boo King Charles as he arrives at Cardiff Castle in Wales. Others in the crowds shout “God Save the King” or cheered. HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1570762539968897025_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'I enjoyed the opportunity to speak to community leaders from business, education, and the non-profit community over lunch in Quincy. I appreciated hearing feedback on workforce needs and economic development initiatives in Adams County. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1400533960250298371_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Praying that we will become a culture that values all life! HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1576586906443317256_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'Joe Biden doesn’t seem to have a plan to solve any of the crises Democrats created.  Last week on CNN, he admitted he didn’t have a “near term answer” on the skyrocketing energy prices crushing American families.   He may not have an answer or a plan. But Republicans do. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1452760409803481090_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'During his Stanford \"disinformation\" speech, Obama says he and @USER were interfering in Russian politics by organizing with opposition figures when \"Putin receded from the foreground,\" and boasts that his @USER fellows are now involved in the Ukraine information war HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1517388138796179456_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'I just signed up for her donation spam and it turns out she’s a “fierce and independent leader” HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "center",
+        "image": "1553562960123019264_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'Reporting notes, from my efforts to reach Trump Org associates to see if they’ve been subpoenaed by NY investigators.  The next step in this case, after a month of no response: write the group a polite email to ask if, mayhap, their spokesperson has retired or fallen in a well. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1383084894969024520_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Johnson &amp; Johnson vaccine people, when you bring up the other vaccines: HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1388111128312549382_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'Donald Trump willfully incited his supporters to storm the U.S. Capitol and disrupt the peaceful transition of power. He must be impeached and removed. The Articles of Impeachment we drafted with @USER and @USER now has over 150 cosponsors. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1347652088185171969_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Republican Elise Stefanik gets the nod. From @USER   #stefanik #BigLie #Republican #Satire #cartoon HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1393220490068692998_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Lots of signs around Oxford supporting Ukraine in cafes, shops, churches and markets. And many people coming from the protest HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "center",
+        "image": "1497954180224499714_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Djokovic wins second set against Nadal to level Paris quarter-final HTTPURL HTTPURL'.\nIt is posted by a Media. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1531756270151254020_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Media.\nThe image has been shared with the caption: '2) .@USER released a new forecast for the U.S. housing market, predicting an 8.9% housing GDP drop this year and a 9.2% drop in 2023.  HTTPURL HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1565061647852621824_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'There’s no “former president exception” to the espionage statutes  (which cover such reckless mishandling of classified information) HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1558261961019822080_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Met with Stillwater Co. Commissioners, first responders &amp; folks from the Stillwater Mine to discuss how to fully restore access to the mine after the flood to resume the mining of critical minerals.  We must ensure MT communities get the aid &amp; resources they need to recover. HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1548089366781648899_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'This #EqualPayDay we’re reminded that closing the pay gap is not only a matter of principle, but about ending the gap in the ability to afford an education, put food on the table &amp; keep a roof over your head. It’s time we pass the Paycheck Fairness Act to help close the #WageGap. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1503788564819189765_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Media, who has post the image with the following caption: 'Low-income countries made their first significant vaccine purchase agreements in January 2021 — eight months after the U.S and the U.K. made their first deals. HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1377335436649979904_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Moments after Minneapolis Police officer Derek Chauvin was found guilty on all charges following the death of George Floyd. This was what happened at the scene of Floyd's killing - as some people sensed their sense of helplessness around racial justice was beginning to disappear HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "center",
+        "image": "1384738863269154817_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Last February, President Biden claimed that his $1.9 trillion “stimulus” bill would help create a total of 7 million jobs in 2021 and get America back on track. What this so-called “stimulus” bill gave us instead? The highest inflation since 1981. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1483824937781633025_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'After almost a decade, today we played the final Brown vs. Portman softball game.  @USER Swing State Sluggers fought till the very last inning, but in the end the Blue Collars clinched our spot as Ohio's Senate Softball victors.  Good game, Rob! HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1539418049400524802_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'I admit, I’m blunt. Maybe too blunt. But I have little patience and not much time. This is as clear as I can be about the vile atttacks on @USER . If you have more time and want to read more from @USER go here: HTTPURL HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1354941267499741193_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Me switching on the radio this morn to hear the previous Yesterday in Parliament  - don't confuse my sleep-addled brain like that again please R4 :) HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "center",
+        "image": "1595339924450021379_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'I think few knew about the last point, police telling the children to yell “help”, further endangering them. A child survivor from #Uvalde recounting this: HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1530236824920027136_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'An illustration of something I made this year (you should see my vag) - this whole article from @USER is a dream, happy to contribute, overjoyed to read the thing HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1370066982356287489_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'The #HelmsAmendment is a direct barrier to reducing maternal mortality &amp; morbidity, empowering women, promoting gender equality, &amp; upholding basic rights. #RepealHelms HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1575259060009668609_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'The new bipartisan infrastructure law provides a huge investment in WA to rebuild &amp; repair roads - with a focus on climate change mitigation &amp; resilience. That's a big deal in regions like ours and for places like SR 112 on the Peninsula - where recent storms have wreaked havoc. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1473353528756289540_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'Today I reviewed the FY23 request for the @USER and Reserves during a defense appropriations hearing. From responding to COVID, hurricanes, and wildfires to safeguarding our border, these men and women have served our country with distinction. HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1534252750875283456_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER @USER @USER (deputy editor of @USER list of his favorite journalists/writers, includes:  @USER @USER@USER and others  Check it out. HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1456178748684787713_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Beautiful day of hiking at Frontenac State Park. You can see where the Mississippi River widens to become Lake Pepin (for any non-Minnesotans wondering). HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1579542304406515712_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'Editors! We all need them!   (I say this even as I am currently suffering a feature draft being ripped completely to pieces.) HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1420082946611023872_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'salvaged from Henri-flooded basement: a page from my notebook, age 10, featuring rare bottle of 1965 Chateau Magoo HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1429463736742555654_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Media. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Joe Biden asks around the audience to point out \"Jackie\" during a conference on hunger, nutrition, and health.  Is he referring to Republican Representative Jackie Walorski, who passed away in a car accident in early August? HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1575139711244435460_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Inbox: DOJ seizes the Epic of Gilgamesh from Hobby Lobby HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1420094149064372227_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: '@USER YES!! 95 pages for a PS1 walkthrough baby! HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1443583631012728839_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'It’s an incredible honor to represent #OH08 in Congress as we seek to defend freedom, strengthen Ohio, and advance policies that make America the land of opportunity. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1392788938688016386_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'When Democrats voted to ban war weapons off the streets 99% of republicans in Congress voted no. HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1594485698542845953_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'The Dems cannot win if they don’t steal and cheat, says Steve Bannon. He predicts MAGA will win if we lose voting machines, go back to paper ballots and have a free, fair, transparent election. Join Lou and Steve today on #TheGreatAmericaShow at HTTPURL! HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1574428594813554689_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Through the Lowe's #100Hometowns initiative, Fidos for Freedom has completed major renovations that allow them to provide an accessible space for people in need in their community.  Made in partnership with @USER HTTPURL'.\nIt is posted by a Media. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1471555728963821568_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'It was a rollercoaster week on Wall Street with large swings in the major indexes as the @USER said it’ll \"steadily\" remove stimulus this year because inflation persists.  Stocks rallied massively into Friday’s close though to end the week up. HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "center",
+        "image": "1487192691125411846_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'President Biden and the Democrats claim their spending bill costs \"zero dollars.\"  The truth is it will come at a steep price: the largest tax hikes in American history. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1451181132683296770_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Saudi Arabia announces first visit by Biden on July 15-16 where he will meet Crown Prince MBS for the first time for working meetings. Visit comes as Biden aims to get help on high oil prices and building relations w/Israel. Critics wanted Biden to sideline MBS over human rights. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1536684447189413890_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'AFCLF was founded in April 2021 and describes itself as a \"trans-partisan\" civil liberties group.   In July, AFCLF planned a fundraiser called \"2020 Election Fraud Revealed!\" (The \"Donate\" link for that fundraiser goes to the same donation page now used by the People's Convoy.) HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1494723824335540224_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'After months of disastrous leadership, President Biden has failed to lead the American people out of crises.  Instead, he used his power and position to create them. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1438975195008618501_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'New: Maryland becomes the 41st state to finalize a new congressional map (only FL, MO, NH to go). This compromise map is likely to preserve a 7D-1R split, though #MD06 Rep. David Trone (D) could still be vulnerable this fall. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "center",
+        "image": "1511064512165826564_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'The surging prices behind all kinds of necessities are just casualties of Pres. Biden’s assault on sustainable energy. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1549046161209806848_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'ICYMI: I joined @USER and @USER to discuss my enthusiastic support for the CHIPS Act. The U.S. semiconductor industry sorely needs this investment and I am excited to see this long overdue measure signed into law. HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1550192405458173953_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'I went to Ukraine with Senator Portman to meet with President Zelenskyy and discuss the status of the war and American aid. Ukraine’s resistance to Putin’s barbarism has inspired the world. I’m more committed than ever to supporting their fight for democracy and sovereignty. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "center",
+        "image": "1564717057228394506_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'I've been trying to sign up for Truth Social since this morning. Still no luck! HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1495858008798150659_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Seasonal worker &amp; exchange visitor visas like the J-1 program strengthen cultural &amp; educational ties between youth from abroad &amp; the American people &amp; provide NH tourism &amp; outdoor rec biz w/the workforce they need. That’s why I’m pushing the admin to address issues w/these visas. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1420114178317115396_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: '⁦@USER greeting voters in south Tallahassee on Sunday afternoon HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1584230181619007488_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'I’m in Brooklyn federal court today, where R. Kelly is set to be sentenced. He was found guilty in September on racketeering and sex trafficking charges.  Some of his victims are expected to speak in court during the hearing.   Will try and keep updates coming when I can! HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1542145402014662657_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: '.@USER quick action to pass the #AmericanRescuePlan saved lives, slashed child poverty, &amp; created an additional 4 million jobs.  Click below to see the impact of the ARP in Florida &amp; across the country as we celebrate #500DaysofARP: HTTPURL HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1551637806568595456_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: '.@USER @USER and I call on @USER to hold a hearing to investigate alarming whistleblower claims that HHS knowingly transferred unaccompanied migrant children to criminals.  Congress must take action to stop the atrocities being committed by the federal gov. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1600199075818717184_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Hardworking Ohioans are paying more for almost everything, and they need relief right now. That’s why I’m voting today to pass the #LowerFoodAndFuelCostsAct, which will help cut costs by supporting America’s farmers and ranchers. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1537431290378604544_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'Mar-a-Lago’s flag remains at half-staff in remembrance of the victims lost in Uvalde, Texas.     HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1531024917285720064_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: '🚨@USER emergency press conference on Ukraine starting soon, and I’ll be live-streaming it over on #GETTR!🚨 HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1496802110175952901_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: '$RAD Q2 $6.11 B misses on the topline, while $0.41 loss per share beats on the bottom line.  Pharmacy sales boosted by higher scrips, while front of store comps fell nearly 3%. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1441011679429545987_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Media, who has post the image with the following caption: 'NEW: A New York state Supreme Court judge has ruled that Governor Kathy Hochul's statewide indoor mask mandate is unconstitutional. HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1485786985558069249_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'The Heritage Foundation’s Zack Smith, arguing against DC statehood, says DC residents “already impact the national debate” because members of Congress see their yard signs while driving to work. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1374033974700478470_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'With the new #988lifeline – a direct call line for those who need mental health support – we’re working to save lives in MD &amp; across America. It was great to meet with local stakeholders leading this effort &amp; discuss how we can make full use of this crucial resource. HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1551313579919478785_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Clearly, we are on the right path with the Keep Your Coins Act protecting self-custody for all Americans. #DefendFreedom HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1496256803201552387_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Media and is associated with the following caption: 'Struggling with Black voters, McAuliffe barnstorms state with Black allies in final days of campaign  HTTPURL HTTPURL'.\nWhat ideology does this Media belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1454899726604636169_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'Among the new Biden Administration hires at EPA:  HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1352694180661915649_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Yesterday, I had the opportunity to tour one of the wood packaging facilities operated by Fiddlesticks in Birmingham. This facility was primary staffed by visually impaired workers. I was inspired by their work ethic and desire to innovate their workspace. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1542595135128702981_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'HAPPENING @USER 7pm ET: My office will be hosting a virtual town hall to discuss rental assistance for landlords &amp; tenants.   To attend, - go to HTTPURL, or  - dial +1 646 828 7666 or +1 551 285 1373 w/ the Event ID: 160 860 6195 HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1437546469641400327_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Mentor passes the torch to his protege. Don't tell me that America isn't a great nation. We are. #JusticeKetanjiBrownJackson HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1542540658036047873_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Media and is associated with the following caption: 'A 22-year-old Palestinian man was shot dead by Israeli forces near the city of Bethlehem Monday in the latest killing to come from near-daily raids on Palestinian communities. HTTPURL HTTPURL'.\nWhat ideology does this Media belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1599807309651140617_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'Powerful to meet with Anton Abu Akleh and hear directly from him about the impact of his family’s loss. I urge the Biden administration to pursue a thorough investigation that leads to accountability for the murder of Shireen Abu Akleh. #JusticeForShireen HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "center",
+        "image": "1552791976738709504_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Got myself the @USER watch. Pictures cannot do justice to its magnificence. (And weight) HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1599351865812340736_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'Wokers believe that no one should have to accept responsibility. Their motto is “Hear no evil, see no evil, prosecute no evil.”   Anyone with an IQ above a sloth’s knows that isn’t how the world works. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1488907539907592192_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Media. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'There are a lot of places in America that are still unsafe for Black travelers. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1498723466068987906_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Great joining former #Knicks player John Starks &amp; former #Rangers player Glenn Anderson at the MSG Sports celebration in honor of #AsianPacificAmericanHeritageMonth. The event, at M.S. 158 in #Bayside, was held in partnership with Jr. Knicks Affiliate, the NY Titans. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1526349828661338112_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Outrage of the Week: the Democrats' voting rights bill allows for ballot harvesting nationwide. This will harm our election process in every state across the country. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1483954976460361729_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'New: The Taliban have requested that the United States keep a diplomatic presence in Afghanistan beyond the Aug. 31 withdrawal of U.S. forces. Biden admin is weighing the possibility. Nothing finalized HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "center",
+        "image": "1431302321791713288_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Today, I was honored to present the medals of WWII veteran Corporal Melvin E. Lacroix to his daughter, Arcelia Bettencourt, and her husband, Steve Bettencourt. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1516198167485759489_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Recovering from the pandemic requires us to reimagine our transportation infrastructure. That's why I fought to include $19.1M for #CA29 in the INVEST in America Act. I will continue to help move this bill forward so we can bring federal dollars directly to our community. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1402733423324712965_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'As Americans struggle with high inflation and paying their bills, @USER slams the Biden Administration's handling of inflation. WATCH: HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1569347729293189120_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Rape victims who receive care at Saint Luke’s 16 health centers in Missouri will no longer have access to Plan B.  The hospital system fears that emergency contraception will violate the state's abortion ban, which is both draconian and ambiguous. HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1542163468039720962_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Please see my statement regarding the current situation in Afghanistan: HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1427007978687897603_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'In April 2014, prosecutor Preet Bharara announced he would scrutinize Cuomo's abrupt shutdown of the Moreland Commission to Investigate Public Corruption. Cuomo called the White House in a \"fit of pique\" and \"ranting and raving,\" officials there recalled. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1425088650585403395_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'Nighttime, Cheyenne. Another in my continuing tour of state Capitols. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1425660300972511232_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: '16 year old Alexandria Villaseñor calls out capitalist greenwashing &amp; the non-politics of personal responsibility. She returns to the show Sept 30 w/  @USER michael Moore &amp; fellow youth climate activist @USER HTTPURL HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "center",
+        "image": "1443424195526922242_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'First edition of tomorrow’s NYT: A Ticket Divided, and an Uncomfortable G.O.P. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1552115653099851776_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'Just catching up on that NYT opinion piece claiming the maternal instinct is a myth, and I have a few thoughts. First, yes - the idea of a maternal instinct is certainly against women. And second - I fully accept some women don't have it. But for me, the piece conflates a lot1/ HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1564974214913966081_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'It was my privilege to meet with these tremendously brave advocates for Ukraine last week.  Through the terrors and tragedies afflicting Ukraine, its people have prevailed. And they will always have my support. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "center",
+        "image": "1595110873315840006_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Two of the notable responses in this @USER group — look at where they’re from, who they voted for, and what they say their concerns are…not the conventional wisdom: HTTPURL HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1552734551847354370_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'This Georgia lawmaker was arrested after knocking on Gov. Brian Kemp’s door as he signed new voting restrictions into law HTTPURL'.\nIt is posted by a Media. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1375647010553004032_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Love this housing vision put forth by @USER at @USER \"Housing Institute\" HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1400505746236792838_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'The road to CPAC, lined with Trump flags and MAGA hats. The former president closes out the conservative gathering a few hours from now. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1366076184497446915_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'Maskstravaganza: Mask Fit, Mask Manufacturing, Masks on the Movie Set HTTPURL HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "left",
+        "image": "1575188623120822272_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'We are so close to achieving President Biden's transformative climate agenda.   The House has done its job, now the Senate must deliver. We will get this done—for our communities and planet. #BuildBackBetter HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1466463501531107328_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: '\"It's not altruism. I like the work.... I just didn't anticipate that a judge would have the power, based on an abuse of process, to order Chevron to clean out my bank accounts.\" ~ @USER  #FreeDonziger HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1462927626314653699_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Here's the shop find of the day: a General Motors Liberator. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1485314855137599488_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'But then come the folks saying they’ve obviously been duped by a Q psy-op to make them stay at home rather than be out raising hell themselves.. HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "center",
+        "image": "1351958229538975749_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'My @USER #BingePick for some holiday downtime viewing: @USER with @USER @USER and Martin Short. It's just SO funny and light (but the crime isn't an easy one to solve!) 🕵️ HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "center",
+        "image": "1472267185493929985_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Fox host Lara Logan says that people tell her that Dr. Fauci doesn't represent science, but represents Josef Mengele, the Nazi doctor known as the \"Angel of Death\" for performing medical experiments at Auschwitz: \"I am talking about people all across the world are saying this\" HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "right",
+        "image": "1465475667231924228_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Here’s @USER excellent #SCOTUS brief explaining the implications of a prepublication review system that gives intelligence agencies sweeping power to censor the books of former public servants.  A short 🧵HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "left",
+        "image": "1476566218702213121_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Great day today at The Range 702 in Las Vegas, Nevada! The 50 cal definitely packed a punch, awesome staff here, really enjoyed the whole experience  HTTPURL HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1453127395976704000_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'impossible for me to read anything about the queen's health without imagining a mass ritual corgi slaughter HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1298275592534740993_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'Brimming with love and gratitude as I sign off from @USER for the last time.💗 HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1383158617680060421_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Shifting the emphasis from “spend less!” to “provide more!” isn’t rhetorical jujitsu. It focuses our analysis on solutions to actually expand the supply of essential work.   EG: The US has a ridiculous, self-imposed shortage of doctors. We chose this path. Dumb! Let’s fix it! HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "center",
+        "image": "1453343045366263812_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Politician. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'We need to redouble our efforts in combatting the opioid crisis to ensure that Hoosiers and all Americans have the support they need so we can continue to combat this crisis impacting communities across the country. HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1396163957501595656_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'Meanwhile out In Cali— the eldest just started her sophomore year and a demanding new job as an RA. So proud of my girls. But how can these children be so old? I still feel 25! 🤪 HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1430149222175854593_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '.@USER “Infrastructure” bill is simply a way for Democrats to give money to union bosses, climate activists, and Silicon Valley. Where’s the money coming from? Straight out of the wallets of the American people. HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1384970938811392000_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'At a time when we are seeing supply chain disruptions, we need to invest in domestic manufacturing and a Made in America economy so that our supply chains are housed here at home, rather than outsourced abroad. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "center",
+        "image": "1497327040965578752_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'John Kerry and the Biden administration continue to put our national security at risk for fake promises from the CCP on climate issues. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1460319764832821256_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Vaccine eligibility has been expanded throughout the state. Getting vaccinated is the easiest way to protect yourself from COVID-19. Sign up below and make an appointment today! HTTPURL HTTPURL'.\nIt is posted by a Politician. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "center",
+        "image": "1378388575440412672_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Every person in my life at this moment who can’t take something from this podcast. We are all dying. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1449430590642524165_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'The NC special masters' map is pretty much exactly proportional to the state's lean (7R-6D-1C), but it makes some curious choices to get there. Most notably, it splits Black communities down the middle in Charlotte, Winston-Salem, Fayetteville and Raleigh. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1496577055689003013_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Politician and is associated with the following caption: 'Last week, the Russian regime sanctioned me for standing up for the people of #Ukraine. Wherever and whenever we witness violent atrocities, we must STAND UP. Russia must be held accountable. HTTPURL'.\nWhat ideology does this Politician belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "center",
+        "image": "1516781499193991180_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'It was an honor to join @USER for the grand opening of their new \"Heartbeat\" workplace in downtown Hartford. As we come out of this pandemic, their leadership and innovation right here in our capital city sends a clear message that Hartford isn’t going anywhere! HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1593365990896766977_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'Disaster aid is now available for those affected by the historic Nov. floods that impacted Northwest Washington communities &amp; Tribal nations. Apply online at HTTPURL or call 800-621-3362⬇️ HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "left",
+        "image": "1479536350244352000_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Journalist. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'My mom has a quick question. (Also, I love the use of quotation marks, because this isn’t a black and white world, everybody.) HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "left",
+        "image": "1474397323065241603_0.jpg"
+    },
+    {
+        "text_input": "Given the following post shared by a Media. Could you determine the political ideology of the user who posted it?\nThe image comes with the caption: 'Gas isn't the only thing paining Americans' wallets. Read here: HTTPURL HTTPURL'.\nOptions: [right, center, left]",
+        "text_output": "right",
+        "image": "1542601365343465472_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Politician.\nThe image has been shared with the caption: 'We can see #AmericanRescuePlan funds at work in Southern California every single day.   Yesterday, I highlighted the $3.3 million @USER received in the #ARP. This money is already being used to get our communities, local governments, and small businesses back on track. HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1425531118200229889_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'During this holiday season, nearly 60% of Americans will buy their gifts online, which means hundreds of millions of packages. How does it all get done? We got rare access inside the FedEx processing center in Los Angeles to find out!  HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1469120229678612483_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'And, today in weedsy supply-chain bottlenecks: What happens when growing food depends on having the right balance of toxic chemicals and the seeds that are genetically modified to tolerate them. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1499130961577054208_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '\"This is legal nonsense.\" @USER on the senate GOP argument emerging that they can't convict Trump on the article of impeachment over inciting the riot because it's unconstitutional once he leaves office. HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1351227909604839430_0.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'This is the first time in years I haven’t been in DC for the ⁦@USER but (1) I’m cheering the #badnewsbabes on from NYC and (2) I donated to ⁦⁦@USER today because that’s what the game is really all about. Well, that and beating Congress. HTTPURL'.\nIt is posted by a Journalist. What ideology does the poster belong to?\nPossible answers: [right, center, left].",
+        "text_output": "right",
+        "image": "1570113356975206402_0.jpg"
+    },
+    {
+        "text_input": "You are a social media expert. Try to determine the political leaning of the poster, who is described as a Journalist.\nThe image has been shared with the caption: 'Russia’s invasion of Ukraine and China’s Covid lockdowns mean global growth in 2022 is set to be much weaker than expected at the start of the year… HTTPURL'.\nPlease select from the options: [right, center, left].",
+        "text_output": "left",
+        "image": "1527281762652389379_0.jpg"
+    },
+    {
+        "text_input": "This image is posted by a Journalist and is associated with the following caption: 'In America's history, encounters between waves of settlers had bad &amp; good stories. The present was won by the good  Where immigrants &amp; descendants came from, land wars were a long uninterrupted horror story whose outcome was dark.  Americans, be thankful for what your country is. HTTPURL'.\nWhat ideology does this Journalist belong to? Left, center or right?\nPick your answer form [left, center, right].",
+        "text_output": "right",
+        "image": "1463670126839017480_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Journalist, who has post the image with the following caption: 'A free speech champion if I ever saw one. HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "center",
+        "image": "1409576439926697986_0.jpg"
+    },
+    {
+        "text_input": "Determine the ideology of the Politician, who has post the image with the following caption: 'Wonderful day in the great state of Tennessee with @USER Bill is leading the people of the Volunteer State with strong Conservative principles that put Tennesseans FIRST! 🇺🇸 HTTPURL'.\nAvailable choices: [left, center, right].",
+        "text_output": "right",
+        "image": "1448447631152361475_0.jpg"
+    }
+]

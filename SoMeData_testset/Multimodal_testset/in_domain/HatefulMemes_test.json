@@ -1,0 +1,2502 @@
+[
+    {
+        "text_input": "This image is associated with the following caption: 'when you insult a liberal intentionally'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "86125.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: that face you make when 17 of your schoolmates have been shot dead and you're about to go on tv'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "49836.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'it's hump day!!! oh fuck!!!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "07824.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'dark humor is like good food not everyone deserve it'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "19304.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'if you're vaping inside a mcdonalds, inside a walmart ... that's the turducken of white trash'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "52097.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'u want some fuk hey dear i love u show me ur pussy u are beauty'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "85920.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'first living witness to testify against hillary clinton'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "19062.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'moutain goats hide when they hear allah akbar because they here the goat fuckers are coming'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "06519.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'car accident on michigan ave'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "72981.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when it's your 1st cake day and you really wanna blow that candle'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "53102.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'no woman commits suicide of they fail to find broke guy for marriage'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "45281.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the day i realized i didn't need no bitch to bust a nut'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "80941.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'how do i like my eggs? same as i like my niggers beaten and separated from the whites'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "28175.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: let me be clear.... if i had a son, he would look like harambe'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "52301.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'it happend mom, a black guy gave me complement ohhh sweety i'm so sorry. that means you need to lose about 30 pounds'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "68325.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: hey canada....!!! your getting a wall too you fucking snow mexicans'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "36897.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i love it when people think my posts are about them as if i had enough time to insult you bastards individually'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "80153.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'nein shits given'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "53084.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'literally nobody: white people sitting at the bar: can you put it on the golf channel??'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "64127.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'for those of you ignorant to history there has already been a \"march for our lives\" and they were already disarmed!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "65274.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i had a bad dream about the ku klux klan'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "06153.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: donald trump making his supporters laugh at a rally'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "98526.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'im going to pee in the house'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "79348.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'japanese fashion trends'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "30412.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i am pro oxygen sweet beautiful oxygen liberals'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "53407.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when you're talented but also a self-righteous shit head'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "53206.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'don't mind me just watering my muslims'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "98241.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'you can wear whatever you choose no one should judge you'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "39765.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: you're one ugly motherfucker'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "50683.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'claims to be pro-life dies'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "61532.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'my parents lived better with a high school diploma than i do with a 4 year degree of the 3 million available jobs today, less than 20% require a 4 year degree \"we are lending money we don't have to kids who can't pay it back to train them for jobs that no longer exist. that's nuts -mike rowe'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "09326.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'once a year, women go completely crazy for about 365 days'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "92148.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '\"whatever we once were \"the future must not belong to those who slander we are no longer a christian nation\" the prophet of islam \"'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "92573.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the feeling of dry skin be like'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "07895.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'show intolerance for other's religions expect highest level of tolerance for their own'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "38976.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'transgender female athlete biological female'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "61725.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'whoever photoshopped this is a huge jerk'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "74658.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'them: how would you rate this pupper? me: golden'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "56219.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'thank you for allowing me into your country now we need to talk about the things that need to change around here to accommodate my beliefs'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "13852.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'a muslim was here '' '' '''.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "70541.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: subway is similar to prostitution you pay someone else to do your wife's job'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "02431.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'will you hurry up and die you chocolatey little fuck i'm fucking starving'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "79128.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i offered her a penny for her thoughts she gave me change'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "51708.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'what do you call a retarded jew? auschwistic'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "15803.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'well, there it is the stupidest fucking thing i've seen all day'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "21748.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'everyone is excited for the baby to come'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "58326.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'has anyone seen gary? gary is about this tall'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "65108.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'just found out steroids make your dick small'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "63250.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'instead of being \"born again\" why not just grow up?'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "18275.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'influence elections? you mean like encouraging illegal immigrants to vote?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "41539.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'and that was the last nativity play my son was invited to take part in'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "92578.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: bruce was limber, bruce was quick. but bruce went liberal and lost his dick'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "47159.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'whitesox ticket: $55 beer: $8 hot dog: $6 watching a muslim from kenya throw a 28 mph fastball like an 8 yr old little girl: priceless'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "94352.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'last year tyrone got a new job, started building his credit, and spending more time with his kids then something amazing started to happen!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "65730.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when all your peaceful solutions fail you know what old problems require old solutions'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "37619.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'dad, dishwasher is loaded again '' '''.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "29643.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i am not racist and my best friends aren't either'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "36415.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when i was a kid i found a vibrator in my parents room they told me it was a muscle massager, i rubbed it on my sore muscles all the time'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "73810.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i love pudding pudding my dick where it doesn't belong'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "71903.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'tuesday, january 17, 2017 your legacy had less than 72 hours left and most of it could be undone with a pen and phone in less than 20 minutes'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "81764.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'not all of us like to pray and protest some of us get it poppin, crakkka!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "15209.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'you see this pig? it's called muhammad'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "60759.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'it's hump day!!! oh fuck!!!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "84237.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i'm a moderate muslim. that means that while other muslims are putting bombs on your buses and raping your children, i'll be telling you that islam is peaceful protesting when you insult my religion and lobbying your government to take away your free speech'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "51894.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: you can tell that it's aspen tree because of the way it is'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "83760.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'prize the real, not the imitation tranny men as 'women' women as women are fools gold are real gold'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "95801.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'if you don't believe in god you're going to suffer and burn for all eternity in hell  child abuse it isn't necessarily physical'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "08534.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'behead atheists kill kill kill! saria law buslims in buslim countries let's have some respect religion of peace brother buslims where they are a minority'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "50732.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'this lady is not amused'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "23761.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'when you have scented pokeballs'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "15638.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: where's jaws when you need him ?'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "27058.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'fuck banks fuck indians too'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "03289.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'how do we destroy the patriarchy? it's simple. we eat it'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "51694.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'meet muhammed'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "81374.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when your asked about the feature film and you get this look. all right, then. keep your secrets'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "42650.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: drinking wine is bad drinking camel piss is good'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "93016.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'hello my lgbtq friends it's pride month so free shots for everyone'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "59342.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when you're so high you make down syndrome up syndrome'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "58706.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'liberals before the election trump and his supporters must accept the results of the election liberals after the election i do not accept the results of the election'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "56281.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: so i was sucking on her t*ts then the husband walks in and i just sk*t myself'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "03971.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '\"you forget to turn off your cooker in time and steam and water everywhere\"'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "67031.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: \"your majesty, what's the secret to a long life?\" \"well kate, don't leave william for a fucking muslism.\"'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "05942.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'prospective without white '' '''.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "46850.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'this is result or war'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "65703.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: this offends me ban them do you agree?'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "45912.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: siri take me home starting route to jail'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "12907.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'forgive me allah.. i just can't understand why i am allowed to behead my enemies and marry little girls, but i can't eat a fucking ham sandwich'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "75340.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'not old enough to choose own bed time or daily diet but old enough to choose to be trans or gender fluid or non-binary or. '.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "61298.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'making a white trash album, if you could send me some pictures, that'd be great'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "93648.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when she on top & you trynna catch a titty'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "87903.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'malcolm x military kill'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "90576.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'ethnic jesus'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "17058.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'confirmed lynch told the fbi to drop the investigation against hillary'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "71925.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'jolo jew only live once'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "57284.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i'm not transphobic i just don't like 'em'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "28674.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'be sure to spay or neuter your spouse today'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "32468.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: on this day, the 25th of march, 1920, the black and tans arrive in ireland... they are given a warm welcome'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "07419.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i am tortured by the futility of my own genius'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "46582.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'under the name of multiculturalism we let terrorist into this country'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "56438.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'we now have reason to believe trump ripped the tag off his matress in 1987'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "94620.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'ok nigger'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "65981.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'april 15th is coming... bitches better have my money... memegenerator.ne bitches better have my money.'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "27613.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'the past will not be forgotten but may the chains be broken free'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "42086.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'at the isis strip club meanwhile'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "98517.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: immigrants illegal aliens'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "02763.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: official white house holiday ornaments'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "36014.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i feel like the big bad wolf looking for the 3 little pigs'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "13650.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'goofy fuckin black people'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "29137.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: islam is a religion of peace lets celebrate by killing infidels and beating women'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "20375.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'a fast sandwich maker'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "30182.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'jolo jew only live once'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "28076.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: it is easier to pick fights with black women than to challenge white men'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "91462.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i had a little broblem at school today, but i solved it. -oh, and here's your gun back'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "63174.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i got a text fresh meat at the market'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "25849.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'meanwhile at the isis strip club'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "25780.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: im really sorry that your not feeling well today but im still gonna need a sandwich'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "73159.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'the military finally sent this man back to his family'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "87412.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: pussy fight!'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "96023.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'hey lets go see if that kid wants to run around with us great idea'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "34710.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: all women should be believed until one of those bitches accuses a democrat'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "26014.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'the one piece of shit that just won't flush!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "46831.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'for the last time, we are not trump supporters!!! he says \"relocate mexicans\" we are saying \"exterminate mexicans\"'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "76253.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'in my day you were either pro america or you were a commie you can call yourself liberal, progressive or socialist but you're really nothing more than a commie pinko john wayne was never in the military'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "84971.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'replaced kitty litter with pop rocks'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "93147.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'let's gather everyone for family photo, where are my daughters?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "37580.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'yall got any more a them cracka ass crackas?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "47385.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when mohamed puts it inside'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "91708.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'i would love to be excited about the women's soccer team's victory. but, this guy ruined it for me'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "45286.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'feeling pretty cute might blow something up later....idk yet'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "40561.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'mexicans are all killers and rapist muslims need to be kept out of the usa the pope is a stupid weakling the kkk? i'd hate to jump to conclusions'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "40917.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'so the military is doing its job, but not getting paid. and congress is not doing its job, but getting paid?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "46251.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'august, 1945: the last words of the would co-pilot moments before he total destruction on hiroshima unleash i hope these rice people like mushrooms!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "59731.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i'm sorry i left the seat up, it won't happen again'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "93614.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'why are the french protesting high taxes that pay for their free shit didn't they protest to get the free shit nobody said they were smart'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "12580.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'whats the difference between ray rice, kareem hunt, tyreek hill and the man pictured here: he played 14 game seasons'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "64780.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'trump supporters be like mexicans stole my teeth'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "71436.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i'm awesome on the piano but i suck on the organ'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "63129.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'fucks a goat fucks a goat'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "91803.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'mess with me and you mess with the whole trailer park!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "70623.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i made it out alive the democrats didn't get me'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "45829.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'if yall daughters dancing like this.. they cant play with mines'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "94065.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: usa 2030 why didn't grand dad stop them mom?'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "45198.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: wait, mohammad come back!! didn't mean to laugh, really size doesn't matter to me'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "62417.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'a head diaper is required when you have shit for brains'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "27965.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'if you think we need protection from these people... but not these people, you're a special kind of stupid'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "12958.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'look son a dirty fucking muslim'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "21706.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: how to get a black guy to see his baby'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "36497.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'there's just certain shit you don't do in life out of respect!'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "47862.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'a head diaper is required when you have shit for brains'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "59376.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'joe: you were a mistake curious george obama: you'll be a bigger one creepy joe'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "63417.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'new zealand: dozens dead in mass shooting usa: -first time?'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "20374.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'redneck word of the day : inhale \" why inhale did i go to walmart today \"?'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "79823.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'you think that hoe thinks you're special lol she says that to us too!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "46215.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'class! class! listen! daylight savings ends today you must move your clock bombs forward one hour'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "52714.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'a typical white man'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "71825.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'those are some clean burning jews i tell ya h'wat'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "32876.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: hey i just met you and this is crazy, but here's my number i'll gas your baby'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "13576.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'no less beautiful'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "02139.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when your wife is secretly a dinosaur, and you don't find out before she givs birth to four crossbreed raptors'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "62510.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: if trump isn't hitler, then i'm i'm a moron well i'm certainly not gonna argue with that'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "73652.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'send me location'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "86391.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'mom.. this horse smells funny!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "49170.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'if your grandma's couch was always covered in plastic it's because she was a squirter'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "28517.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'elon musk presents infinite energy source'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "89610.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: winnie the pooh skinny the jew'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "21835.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'all races are equal'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "43716.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: this isn't even my final form'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "20873.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when you're shy everytime your friend takes selfies'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "39107.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: first off i'm t.i. not kanye west'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "49658.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'alabama: bans abortions. all of alabama in 5 years'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "31568.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'oh look, men'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "90752.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: dude stop smoking its gonna harm you dude stop'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "19427.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'where did you learn to do it so good? me when i was 2'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "30824.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'my goal for 2018 is to accomplish the goals of 2017 which i hould have done in 2016 because i promised them in 2014and planned them in 2013'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "82346.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'japanese citizen watches as nuke drops on the 9th of august 1945 (colorized)'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "42039.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when muslim people use km per hour instead of bomb per allah hu akbaar this is why i bomb people'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "26170.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: meanwhile at the isis strip club'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "01236.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'help me please! im stuck in this dryer and can't get out'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "70634.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'how high are you no officer, its \"hi, how are you\"?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "02894.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the secret to a successful marriage is to keep his stomach full and his balls empty'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "76143.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'back off f'ing white male we are on a sex strike'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "92430.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'i want you to wake the fuck up americans! the fucking jews have hijacked your country!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "28605.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'and you get a chip implant ! and you get a chip implant!... everyone gets a chip implant!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "24769.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'crawling in mein skin these jews they will not heil!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "14879.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'my sister gave me this haircut after i fucked her'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "04372.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i'm voting for trump whitetrash lives matter the hoosier state'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "46910.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'what do you want to do? win!! when do you want to do it? now!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "58924.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with '9/11 gets a mourning day while gay get a \"pride\" month because homosexuality is a bigger tragedy'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "07853.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'how we see muslims how muslims see us'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "46172.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'thanks for visiting'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "03298.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when she wants someone to sweep her off her feet'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "28403.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: sometimes i feel ugly but then i think of my sister and get over it'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "89471.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when the un adds another million to the holocaust death toll'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "30296.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i was chatting this liberal chick in a bar who told me that i should be more open to muslim culture so i raped her'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "27953.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: look both ways before you cross the street'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "39805.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'feeling cute. might kill 6 million later...idk'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "54683.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the only time you can hang out with 2 dirty hookers and a tranny'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "03275.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'hey, i just met you, and this is crazy i forgot the condom, so anal maybe?'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "19205.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'if it's brown flush it down'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "17235.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when you ask the jewsih girl for her number and she starts rolling up her sleeve'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "27038.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i think i've got a gas leak, i woke up this morning feeling all light headed and dizzy, so just to be on the safe side, i asked the neighbours if they could come suss it out for me, i figureed they'd know, being jewish and all.'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "50124.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'a tragedy'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "81296.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'somewhere in a galaxy far, far, away someone will say the n-word'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "31547.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'hunger games he's winning'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "59840.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'jamal cycle faster the owners are coming'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "75603.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'new military drone to fight isis it explodes on penatration'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "27139.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'him: \"you have to respect our religious beliefs\" me:'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "81576.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: look at all these shooting targets'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "79512.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: \"enjoying in beach\"'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "52970.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when the bell goes off on the first day of school and the autistic kid thinks it's the hunger games'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "74361.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when you find the cake your mum was hiding from you'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "61453.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i will not let america turn into another nation of islam !!!!!!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "72654.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'reincarnation ? you mean press x to respawn'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "54092.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'one does not simply scroll past adult humor memes'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "46527.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'don't move and give me your money'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "98215.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: runs away from his shit hole of a country because of islam establishes islam and turns new country into a shit hole'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "17802.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when republicans freed the slaves this is how democrats responded'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "45167.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'never let someone who has done nothing tell you how to do anything'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "04278.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when you have a small dick and tell a jewish girl to suck it i can't'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "81256.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: parents gets divorced twice as many birthday presents'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "30859.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'some crazy rez girls be like: \"if you ever leave me, i'll punch myself in the face and tell cops you did it\"'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "07258.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: american woman holding african girls'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "84392.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the original people of americas then social status classifications negro & indian now same phenotype, different social status classifications'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "68327.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i could have tranquilized that gorilla and i could have grabbed that kid what kid?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "98316.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'before you go around launching lawsuits let me remind you of the surveillance photos we have of you, remember that a tranny crack whore doing lines off your dick'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "89634.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'game of the year 1817'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "53817.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'lawn darts muslim style'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "03957.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'jihadi magazine's miss december'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "67342.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i beat children'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "01794.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: goes on tinder instead of match.com'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "10584.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'uh oh, guess what day it is trump day'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "07238.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'whats the difference between santa and the jews santa goes down the chimney'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "83456.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'fight for our country to keep the land we made home'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "58917.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: happy and stupid'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "67198.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'excited little girl enjoying her new wheelchair'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "75362.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: '(muslim noises)'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "80169.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when your uber driver arrives but you're probably safer driving drunk'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "49758.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'someone stole my identity.. look, someone stole my identity maybe they will make something out of my life'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "74192.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'if i have a dollar and you have 20 dollars then i have 21 dollars'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "90761.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i cant compare my love of bacon to anything because bacon is the standard that i compare all else to'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "26945.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'this is my michael brown'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "56830.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'goes on ancestry.com instead of match.com'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "67193.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'where's jaws when you need him ?'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "65741.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'you cant post that'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "84236.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: '\"muh dick\" indicates a nigger's confusion and lack of understanding'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "18632.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: redneck word of the day: twerk imma have a few beers before i get back twerk'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "07539.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'how do you start a rave in ethiopia tape a peice of toast to the ceiling'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "79368.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'even casey anthony cared enough about her daughter to vaccinate her'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "96708.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'russian flag'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "36581.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'fuck israhell and fuck the usa!!! 136 countries are on the side of palestine!!!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "52631.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'that's a man baby!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "94501.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: we want sharia law !! well.... go home'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "91283.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'walking into a smokers house like'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "31495.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'there must be some way this victimizes me'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "64385.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'anything * y o u * can do, i can do better i can do anything better than you ! !'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "62971.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i hope father jeffrey doesnt go in dry today'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "54601.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i'll take shit that ain't ever gonna happen for $500'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "61407.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'this is why we shoot you guys'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "62904.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'fuck islam'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "48106.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'been talking shit about trump since day one. now crying like bitches after getting called out'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "54692.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'locked my keys in the car at the abortion clinic it was so awkward going in and asking for a coat hanger'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "85429.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'democrats claim daca kids shouldn't have to pay for their parent's crimes... ...but white people are still responsible for 17th century slave owners??'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "01498.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'and that was the last nativity play my son was invited to take part in'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "87436.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: all she wants to do is play all day'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "96421.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i'm uncertain where i stand on abortion i like the killing babies but hate the idea of giving women a choice'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "54102.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'hmmm... who shall i arrest first brennan, clapper, comey or obama?'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "94876.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: african american leaders organizing the la riots april 29, 1992'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "26930.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'whites without blacks blacks without whites'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "07965.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'white people before they leave the house be like'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "36957.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when the air hostess gives you two extra slice of bread and a pack of milk but you still have to blow up the plane anyway musalman'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "37451.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'the last thing a tr*nsexual sees before it gets sent to hell'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "45730.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: all she wanted to hear was \"i love you\" all he wanted to hear was his balls slapping against her ass!'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "43259.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'trade you an already fucked chicken'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "62043.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i once dumped a cross eyed chick thought she was seeing someone else'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "71083.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: please kill isis # goatlivesmatter'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "76341.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when you find out there's an opening for the role of chewbacca'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "46925.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'i see a cat let's get it for lunch'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "76498.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'these video game armors are getting pretty ridiculous'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "60931.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'new swing set installed at linkin park'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "81094.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'your an idiot trump thanks for the wall i'm need target practice'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "10843.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'didn't stand during the national anthem.. no one said a word... #whiteprivilege'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "81027.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'domestic abuse is not a laughing matter'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "42603.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: '1947 something went... 2017... terribly right'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "38509.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'muslim children at a pop concert why are people attacking us?'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "92614.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'if being a racist means i don't want my country turned into a pile of rocks & and goatshit ruled by a barbaric cult then i'm a racist'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "09547.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'i don't always roll a joint but when i do it's my ankle'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "58029.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'they elect their enemy to rule over them stupid americans'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "64870.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'apparently you can get a pull start on your dishwasher, who knew'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "21904.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'what happened to my damn balls!!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "42706.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: liberal logic 101 muslim kills a dozen \"infidels\" [cricket noise] christian mentions god in public shoving his religion down our throats'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "91486.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'it wasn't my fault my truck has tranny issue's'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "28971.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when your step sister says she wants to have a forehead competition'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "31472.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'let me play with the chew toys'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "56213.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when they ask for fire extinguisher and you reply i don't smoke'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "05847.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'piggy back ride racing with friends is one way to get your cardio'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "15824.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'they stole ma chickin i stole their life'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "18597.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'what a true rapist looks like'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "34768.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'did you say dude blew his tranny???'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "05642.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'normie: \"your meme's are racist and offensive, i'm unfollowing\" nigger me: \"take this on your way out\"'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "24537.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'vhen you are doing random stuff. and realise you left the oven on'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "75680.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: caution 49 killed in a mosque ...heightened security travel 4000 killed a year by illegals smuggling and illegal immigration may be encountered in this area ...wide open borders'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "53268.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'what's that burning? oh it's my family'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "94021.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i suppose a sandwich is out of the question'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "41325.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'grab her by the.. nevermind'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "91276.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with '\"trump's rally lines are big his \"concentration camp\" lines are yuuuge'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "82941.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '\"car salesman roof of car\"'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "13465.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'time to kill all muslims'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "94078.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: middle eastern prostitute'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "07268.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'i came to fuck bitches and learn rocket science'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "13289.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: come back'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "86032.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'it's a wiener pit kinda like your mouth'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "01842.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'the results of putting a starbucks next to an outdoor basketball court'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "13906.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'mobile nun'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "03246.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when my girlfriend says, \"unlock your phone i need to see something.. i just look at her crazy because i don't even let my wife do that'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "46720.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: got a new slow cooker today'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "41062.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'when you don't have a pool but it is a hot summer day'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "17093.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'make america great again!!!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "74286.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'fuck, my mom is gonna kill me fuck, my mom is gonna kill me'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "49802.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'best holiday gift for animal lovers'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "52716.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'basic white girl in her natural habitat this is what i imagine heaven looks like womenwholovewine wineaisle target whitegirlwasted'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "28641.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: officer down'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "13856.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'this is my diary'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "72354.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'what you can find in amazon'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "56387.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'laughter is the best medicine'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "41280.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: '\"damn, that ass!\" even the horse is like'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "57198.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: photo shooting day in office'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "97250.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'when you pick her up for a date and she got hairbands on her wrist'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "12570.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'not a runner? now you are'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "84629.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'baboons on their way home'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "24653.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: how do we destroy the patriarchy? it's simple. we eat it'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "29056.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i now declare you sir faggot sucker of cocks'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "95712.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: close up portrait of a serious black man'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "27568.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when you see your goat with another man'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "50137.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'it's ma'am!! i can't give you a ma'am, but i can give you a green eggs and haaaaaammmmmmm!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "73514.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'your chicken is so rubbery goodyear called and asked for the recipe'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "58309.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i was going to paint my bathroom door but my girlfriend was dead against it'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "50413.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'first gay pride parade! can't wait! making history'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "21950.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when your homie throws a heart react on your status just fucking kiss me, man'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "03495.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'tfw your friend says that kirk is better than picard'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "39168.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'today in the news more 'peaceful muslims\" blowing up shit'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "68950.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i will not let america turn into another nation of islam !!!!!!'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "08462.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when the squad is about to get lit.'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "58914.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: they want this not beause they love you they need to mix breed to preserve their species'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "04915.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'those who die in blue, are remembered forever'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "53182.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'if being racist means that i don't want people of color in my country then i am not a racist'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "61032.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'the enemy within ilhan omar linda sarsour rashida tlaib ocasto-cortez'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "59073.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'tell me about american history? fuck i know about american history? i thought we wiped all those people out? i'm a european born in america'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "40756.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'dropped my phone on my face and now it looks i got into a street fight'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "93586.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: my black boy friend'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "59143.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when you forget that your blind friend has a heightened sense of smell bro. chop a fuckin line up for me'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "02958.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'young muslim woman in a hijab stands at the doorway'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "46817.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: this is what whoring pray yourself out to a bitches. religion you've never followed looks like'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "97543.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'hmmm minyoda i am beat women i must'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "94351.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: oh herro preeze welcome to shitty wok, can i take your order preeze!'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "14386.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'selfie time'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "24538.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'if these females don't stop liking our content i'll kill them'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "17905.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'there's a joke in here somewhere? a indian a socialist a smeller a mistress a homosexual and a terrorist lover walk into a bar.'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "76305.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'african children seeing a caucasian boy for their first time ever'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "56104.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'christians are retarded'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "28659.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'him: the dishwasher is acting weird her: what's it doing him: chopping fucking vegetables'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "01829.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'and then he said that he could only 6 burgers'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "36751.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'a handful of rich people should not run the country a handful of politicians should'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "07623.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when you have to have more than one kind of broom to keep your place clean'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "61395.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: this is nahir nahir is born in germany nahir is german this is fluffy fluffy is born in horse stable fluffy is a horse'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "43856.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'there are 33 genders man, woman, and 31 types of queer'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "58204.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i have no idea what i'm doing with my life'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "26378.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'the face you make after you nut and the goat keeps sucking'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "06179.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when you start second guessing why you started the fight'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "21439.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'remember when illegal aliens just wanted to just go home? now they want free food, healthcare, and housing'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "58176.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'straight pride! becasue the human race will go extinct otherwise'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "60938.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: stop being a little bitch'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "38145.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: half of trump supporters are deplorable! half of your supporters are deportable'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "42315.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i can put up with muslims killing canadians but i absolutely will not tolerate canadians criticizing muslims'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "57203.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'overly attached muslim girlfriend i killed your other 4 wives so you have more time to beat me'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "85439.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'we've been at peace with japan since 1945 time to make peace with islam'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "62158.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: being buried with honor vs disrespect in an unmarked grave'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "15238.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: is it just me or does justin bieber look like a 35 year old lesbian?'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "25318.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'we had a minor gas leak'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "20951.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: hmmm, that new wife smell'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "26894.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'where do suicide bombers go after they die? everywhere'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "24853.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when they asks why you dropped the muslim kid off from school to give the parents back their bomb'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "37641.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i haven't done anything in washington for almost 50 years joe biden in lowa ...june 2019 if you elect me president this time, i'll cure cancer'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "73680.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'if you're proud to be white then this is the radio station for you'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "37829.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'one touch, and i can heal everything don't touch us, we're on disability'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "42380.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: and nothing of value was lost that day'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "31640.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: why doesn't aldi's have their own brand of nuts called aldi's nuts?'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "56290.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'oh look, men'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "24907.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when there is no pinyata at the party but the emo kid just hung himself improvise. adapt. overcome'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "58426.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'my husband does everything i ask but i have to ask'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "38942.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'when you don't need a squad bc you are the squad'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "59041.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'fuck, my mom is gonna kill me fuck, my mom is gonna kill me'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "85369.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'when you found out your wife is cheating on you'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "13067.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'where you can get with that bull shit what is \"fuck outta here correct'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "04783.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'fleshlight'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "68120.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: why isn't my drain working? probably cause the pipes black'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "26947.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'the difference between moderate muslim and radical muslim follow my allah or i kill you! follow my allah or he kill'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "02165.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'life handed me lemons so i fucked them and gave them lemon-aids'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "57043.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: zuckerberg approves'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "92413.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'these people are not human they look like peope walk and talk like people sort of but they are demonic entities you cannot rationalize this evil in human form they are under the spell of evil and have no emotion about rape, murder, torture rape of children or murdering you. your life means nothing to them get it?? nothing'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "64532.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'all these flavors and you choose to be salty'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "16053.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when i grow up i'm going to blow up'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "51680.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'west side east side genocide'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "56489.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: run forrest!!! run!!! :d'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "64839.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'democrats this is what they look like'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "41678.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: mama i just killed a man'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "36187.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'that chicken was so black the police just arrested it'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "43025.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'dat ass ahmarbkrich*d'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "30756.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'rosie o 'donnell had to be removed from her home today to make good on her threat to leave the us if donald trump became president'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "49270.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'that makes me moister than an oyster'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "39576.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: why do muslims were towels on their heads so if they run out of toilet paper they have something to wipe their ass'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "80972.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'damn chewbacca ewoks are our friends'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "82793.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'last year tyrone got a new job, started building his credit, and spending more time with his kids then something amazing started to happen!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "14893.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i'm offended that means i'm right'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "91802.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: talks about good morals day and night gets a boner from looking at a goat's ass'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "49061.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: steak recipe: 1. destroy someone'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "26841.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'if you believe that, i've got a virgin goat to sell you!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "27398.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'you say dirty infidel, i say filthy goyim! you make them become cucks, i'll mow them down with trucks! side by side for white genocide!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "57430.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i've been here once they stole my stuff and claimed god gave it to them'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "83215.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'taxes...i love them you pay.... and the illegals .......for free stay rain tax..gas tax... highest property tax in country it never ends'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "97610.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'i'm deporting all mexicans!!! except the ones in baldwin park you fuckers are crazy!!!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "05261.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'fuck that puto!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "81047.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'removes polish with chemicals nobody bats an eye removes polish with chemicals everyrody loses his shit'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "05984.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when muslim nibbas see a extra ticc goat in the neighborhood'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "87620.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i haven't seen liberals this angry since yesterday'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "43721.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: went gay clubbing with some friends turns out out they were expecting something very different'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "95108.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'morgan freeman morgan not-so-freeman'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "28735.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'slipped and hit the bathtub now everyone is asking if things are okay at home'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "30687.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'trump supporters if they were any more inbred, they'd be sandwiches!'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "42167.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when you're shooting up the school and the autistic kid takes his glock out to join you we weren't expecting special force'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "54789.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i should not be expected to pledge allegiance to any country including america'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "91627.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: im not a gay sjw like other femboys im racist and a gamer, daddy uwu'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "58164.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'ever notice that christians are bad drivers'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "93521.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'all people in this world deserve help'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "09283.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'roses are red, violets are fuck i count to potatoe, then to firetruck'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "81467.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'just trying to do my part'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "17624.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when was the last time you saw so many mentally ill people on the streat'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "76431.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'this is what happens when you actually go fuck yourself'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "92478.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the truth is out! you're the greatest queen of them all!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "28561.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: if your happy and you know it clap your hands.'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "20491.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'new zealand edition call of duty'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "38590.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'friday nights be like'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "48573.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'friendly reminder: a hooker and con man are in the white house fucking things up'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "20485.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when you're the only dog left at the dog shelter and the black family wants to adopt you'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "95278.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'peace is love'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "96152.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'black boyfriend white boyfriend'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "68094.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'goin fishin'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "74913.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'whats the difference between boy scouts and jews? boy scouts come back from camp'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "19543.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'only in america could these people consider themselves the \"master race\"'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "09128.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: me respect women no, i don't believe bush did 9-11 it's just a meme'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "53140.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'running is one of the best ways to stay fit'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "07194.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'mom this popsicle taste like shrimp'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "59380.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when you ask them if they're having a seizure but they just spasm on the ground instead of answering you all right, then. keep your secrets'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "85394.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'we can kill as many as we want and your stupid government keeps bringing us in'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "75291.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'stop racism black children and white children are the same'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "02984.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'thanks to john deere black lives haven't mattered for a long time'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "98016.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'the look you give when you gonna start trouble'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "83510.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'fresh out of fb jail and still not giving a fuck!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "92571.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: from the bottom of my heart i would like to sincerely apologize..... for being white'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "02146.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'what do you call a muscular arab? protein sheikh'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "20684.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when you see muslims at bunnings buying pool chemicals and fertilizer'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "57426.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i think it's funny to haggle over price with hookers when you're just going to kill them anyway'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "10947.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'this is nahir nahir is born in germany nahir is german this is fluffy fluffy is born in horse stable fluffy is a horse'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "63452.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'trump better deal with these muslims before they kill me'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "97230.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'when each letter is a mental disorder'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "26315.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'look! i can nearly fit as many balls in my mouth as your girlfriend!!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "31809.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'ww2 was not a game'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "51972.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'i realized i might have a road rage problem when my son started yelling \"pick a lane asshole\" in the grocery store'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "51369.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'oh how cute.... a guinea pig.'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "27963.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'would you look at that this dryer comes with a free dishwasher'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "true",
+        "image": "67843.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'immigrant problem problem fixed'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "79168.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'i am hungry let's eat a dog'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "62381.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: why is this guy the only one convicted?'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "24319.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'farmersonly.com... where white trash meet other white trash'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "46021.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'section 3: devide and rule ! in religion-based riots, crime will be trust upon hindus only. even though a hindu gets killed at the hands of the minorities, they will not be taken as guilty'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "24835.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'uncle daddy says that i have to wash my pussy cos mummy says my brothers cock tastes different'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "08267.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'it's hard but it's worth it'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "08276.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: jewish men supporting a politician on views that are important to them'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "82765.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'immigrantswave our flag invaders wave their own'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "04912.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: if the words you spoke appeared on your skin.. would you still be beautiful? nigger'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "53740.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i don't understand your specific kind of stupid. but i do admire your total commitment to it'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "36480.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'slice and dice n1gg3r'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "72984.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: girl: how do you eat pussy? me: like a retard tasting ice cream for the first time'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "06759.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the shot you never hear'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "52487.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'wave hello make someone smile'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "08372.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'slaves got whipped back in the day'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "false",
+        "image": "71340.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: when you try to catch a dark type pokemon'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "35620.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'thankfully youtube blocked those videos to show their support for muslim people'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "60758.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'the smile you make democrat privilege: i got away with it when the race card buys your freedom'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "false",
+        "image": "80971.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i'm not a racist my shadow is black'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "01643.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'girls reaction when teacher says \"get out of class\" boys reaction gorilla in a fuckin coupe reaction'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "28974.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: he is proving you don't have to be poor to be trash'\nAvailable options: [true, false]",
+        "text_output": "false",
+        "image": "14259.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'there's a joke in here somewhere? a indian a socialist a smeller a mistress a homosexual and a terrorist lover walk into a bar.'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "27836.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'we live in a society where they lecture us on morals and biology'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "false",
+        "image": "23109.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '*playing an old piano i found* the other jews in the attic:'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "19537.png"
+    },
+    {
+        "text_input": "This meme goes along with the following caption: 'yo dawg, i heard you like memes  so i made a meme mocking memes you so you can can mock me knocking memes while reading mock memes'.\nDoes this meme show any hate speech?\nOptions: [true, false]",
+        "text_output": "false",
+        "image": "38465.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'when you see another black person getting their ass whipped by the cops stop breaking the law'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "38427.png"
+    },
+    {
+        "text_input": "Assess the meme which is captioned with 'this goat is so raw muslims are trying to fuck it!!'.\nDetermine whether the meme displays any form of hatefulness.\nPick from the following: [true, false]",
+        "text_output": "true",
+        "image": "16538.png"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'of course i support \"men's rights\" ...men's rights to shut the fuck up!'.\nDoes this combination exhibits any elements of hate speech?\nChoices: [true, false]",
+        "text_output": "true",
+        "image": "73984.png"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'and i even got a job in congress! these americans are so stupid!!! yep.........and then i beat the usa immigration sytem by marrying my own brother!'.\nJudge whether this image contains any hateful meaning.\nSelect from: [true, false]",
+        "text_output": "true",
+        "image": "27043.png"
+    },
+    {
+        "text_input": "Does this meme convey any idea of hate speech?\nThis is the caption: i'm not transphobic i just think trans people shouldn't exist'\nAvailable options: [true, false]",
+        "text_output": "true",
+        "image": "41537.png"
+    }
+]

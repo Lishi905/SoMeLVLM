@@ -1,0 +1,2502 @@
+[
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Love being a citified redneck #ruizing '",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1061072669557383168.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@carbcrab a grill.. nvm hes retarded '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1053573956450496512.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@joeliusdubois come to Detroit nigga '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105326558938566656.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@WozzieWasEre Is a flaming faggot.  More at 8. '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1058467720008744960.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Tbt. My nigga since day one which is 7th grade '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1108899216456212480.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Like my fucking alphafag ass.   Worship me beta #faggot  #bdsm #findom #pissfaggot #CashFag '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1049753442942631940.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Sold! This vid is on fire! Fuck Your Little Sister's Hairy Cunt '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1024037842870259713.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@shaunking @JuddApatow Another southern idiot. Wasn't he the hillbilly in Deliverence? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1050615572893904897.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Hbd nigga RT @C_da_Esquire: 🐻📷 Blessed to see 3️⃣7️⃣ today!!! 🙏🏾 '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Racist.",
+        "image": "1107717517831753728.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I miss 2012 Twitter. Where everybody was ugly, a bitch, or a faggot. Good times. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1109117890114928642.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Me and my nigga Nip Hussle in the 600 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1116485123426283520.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@hupizzzyy Lmfaooo what nigga? '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1115781264815136768.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Ummmm why swae Lee look like he about to fuck a nigga for some racks and brag to his boyfriend about it😳🧐 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1105820544446984193.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'This is a redneck shark😂 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1035167717974855680.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'The dyke god @trixiemattel has blessed me. I have been chosen. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Homophobe.",
+        "image": "1058843681531166720.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'maybe i am a faggot '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1044652740092334080.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'How did anybody think this imbecile looking man can add any value to anything? Dude looks retarded. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1055830887080845312.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Labour fail! Again!  ...and as for this twat! '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105554762349588485.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Perfectly stuffed. From the \"Impaled cunt\" series at '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1109577818021744642.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '.@realDonaldTrump   This needs to end!  #BuildTheWall #disbandTSA #MAGA '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1108391934710693888.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @RuthRushing20 ANOTHER SHITFACE RETARD! '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1052604604595212288.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: This Nigga is the physical embodiment of cap '",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1106957929645780993.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Lmfaooooo. This nigga so annoying. 😂 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1116522480997421057.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@garyldeaton @FoxNewsInsider @foxandfriends hahaha dream on retard '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1046455001034371072.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'When you live in Belgium but still buy Russian beer like a retard '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1058794229420490757.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@sxane96 I hope you came in the right way too, faggot 😘 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1050842088353554432.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Evan peters saying “wetback” in cult '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1044075220741632001.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@HBCUfessions you know what, i’m turning in my dyke badge. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1060959564810633216.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@practnational my nigga '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Racist.",
+        "image": "1114325525072367616.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: All That Shit U Was Saying Talm Bout You Was Go Abort A Nigga, WHAT ABOUT NOW BITCH! '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1108161969729753089.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'cameron’s reaction when that boy called her a dyke... i felt that '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1063463856780075014.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@RawStory Another crazy CUNT '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1108075726929125377.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@treyysama ... dont test me nigger. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1044636738860318732.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Swear this cunt usually comes every day &amp; wakes me up at 10am to sign for shit. Where is he ?!?! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1055769858170908674.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Doin some diy dyke dad shit on a holiday weekend like dyke dads do '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1061982710716084224.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'when yall taggin her n realize yo nigga lowkey badder den her 🤦🏾‍♂️🔫🕋'.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1116749176497483776.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@RayWoodson925 @hanjoelil @joelpollak You mean this feminazi vag hat wearing dem operative? 🤔 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1042977420637339648.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'If you wanna be my nigga, you gotta not fuck my friends! '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1108070040774078464.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Just nigga with a rocket launcher 🤟🏻 '",
+        "text_output": "It is related to Racist.",
+        "image": "1055285711795113984.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'White Trash Women Webcam Masturbation '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1109363491444535296.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: damn my nigga '",
+        "text_output": "It is related to NotHate.",
+        "image": "1114698854241382400.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'This nigga keeping HER happy with no dick and limited vocabulary. Forget all these needy women. '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1110431903138615296.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Had to rise from the grave but ain’t a nigga out climb me '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1117615525658365952.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Coyell8 We out here nigga you stickin '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1109322975025745920.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @BarrelJohnson The power of christ compelles you faggot '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1053986214938898434.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'This nigga just said he don't like sloppy head '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1108576236383756288.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: yea suck my dick faggot '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062169338533330944.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'lmao son this nigga is going to be bbq chicken twice a year '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1105318789900464128.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Too many LoL streamers giggle in a retarded manner without any apparent reason '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1051396759761678336.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '“Don’t go being a twat now.” '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1062731580442062850.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Ready? Simply Follow &amp; Retweet &amp; you can win a flatulent blart-gargling Charcoal Dyke Emulsion for Dad '",
+        "text_output": "This combination is Sexist.",
+        "image": "1057881765044514816.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@FoxNews @RealDeanCain Rosie The Retard being Rosie The Retard '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1053710010902081539.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@Jake_Barczewski @DMclean154 @StLouisBlues youre literally a fucking queer lmao, sick headband retard '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1114672792572649474.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'that's not how feedback works you dumb fucking cunt jesus christ I hope you kill yourself first '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1059534345453613056.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: This cunt '",
+        "text_output": "This combination is NotHate.",
+        "image": "1109217122755010560.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@SPLITCT Lmao nigga his pride went down the drain nigga bout to be one of them longest yard niggas now 😂😂🤦🏽‍♂️🙅🏽‍♂️ '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1109822214751305729.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'RT if she’s retarded @raegan_lynnette '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1053351996642807809.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Full Gallery: '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1035864660908683266.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: when you linking with a nigga and your friend finally calls you with a fake emergency so you can leave. '",
+        "text_output": "This combination is NotHate.",
+        "image": "1115424900615897088.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'You a faggot? Look what I have for you! ......  See this and more at: '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Homophobe.",
+        "image": "1044335485924134913.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: YG - MY NIGGA REMIX 🔥🔥🔥 '",
+        "text_output": "This combination is NotHate.",
+        "image": "1113507965825368065.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Fuck your asshole stupid faggot with by KateRoss '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1053954569141710848.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'why did you call lee minho a cunt? i didnt.  we have you on tape... lee minho is my friend. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1053839434850852864.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@realDonaldTrump You're retarded '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1034915234778173451.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@RenatoContreraz @theneedledrop fuck off retard '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1037004018453815299.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Told Katie she needs a coat and this was the reply the dirty cunt '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1058771263982895109.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Somebody is showing a nigga some interest and some consistency. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1116703276588830720.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: 7. Wearing a hat; the dyke jumped out. Also 🤠 '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1061779718188322816.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'An absolute twat '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1045970743043870722.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Such a dirty slut  #whore #bitch  #slut #wanker #faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1045086164879900673.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @SaysHummingbird Oh no, but what about the pony club? clueless twat '",
+        "text_output": "This combination is NotHate.",
+        "image": "1054057020679221248.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'By: '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1107364098990325760.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @55true4u Lock her up .#BanIslam '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1049044750953631744.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Me at work listening to all the retarded conversations around me '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1062912088484597762.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@OrwellNGoode SJW cannibalism, now that's entertainment! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1043501570489573376.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@hrenee80 Twat waffle.....lol '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Sexist.",
+        "image": "1042472431145951239.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Vitaperuro @EsotericExposal @AOC No, it’s because she put the retard in libtard. I hate stupid people in general. '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1113214808252456965.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@stephenasmith Stephen you're a fucking god damn retard. Good lord '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1049819469210628096.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Mastermind7864 @poroz They got that huge forehead of hers just right.  \"Trailer Trash\".   The Early Days. Part 1. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1058356268727975938.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Male exhibitionist leather slut exposing his man cunt '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1113154153931575301.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Yo am gonna do that shit nigger '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Racist.",
+        "image": "1053412144283291649.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'nigga slid right by, no hi.. '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Racist.",
+        "image": "1113590590086754305.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I want her to beat me up and call me a dyke '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1044240394639298560.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Make it a #Halloween Leftist #NPC's and #SJW's will remember   #unBEARables '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1057042983030161408.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Retarded '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1046584478003531776.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'By: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1107333169962016769.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Miss Tampa at the White House Trash show last night? '",
+        "text_output": "This combination is NotHate.",
+        "image": "1024669928610254848.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Lol.. Why not..🤷🏻‍♀️🤣🤣 #BuildTheWall #LiberalismIsAMentalDisorder #VoteRedToSaveAmerica #MAGA #KAG '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1056706287843590144.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Full Movie: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1062788791356809216.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@festus66 You can kiss the heart and p...off. Retarded 4th century arseorifice. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1035945569058017280.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Trailer Trash Inbreeders '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1108252095839297536.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'TWAT of the day...    '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1035586041997156352.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'THIS NIGGA JUST- '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1108727438501126144.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@GEORGIEDARBY You after a spunk bucket I wanna feel mine inside your cunt '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Sexist.",
+        "image": "1115249403915378690.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'This scummy bastard needs a fucking slap. Complete and utter cunt. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1108686026426499072.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Menethas This is so colossally retarded, I can't even say anything about it. '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1059502337771913216.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@LibertarianBlue GamerGate replaced the gubment with gay frog reptilians '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1046988691351179264.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Fuck a nigga I can do bad all by myself '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1107831323119497217.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'PLEASE CALL ME A DYKE...:.. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1110293428175147009.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wow.. My nigga Daniel Cesar is going to let me down like that... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1108331927029858304.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Me when Kai calls me a nigger and Jongdae tells me to pick cotton or get whipped '",
+        "text_output": "This combination is Racist.",
+        "image": "1061526001115553793.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Keep NYC White Trash Free! #GetOut @ProudBoysUS '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1057753003531341825.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Wth is Nollywood? @netflix does it mean Nigga Hollywood? I just wanna know '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1054409375002046465.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @sam_aye_ahm @KanuHolly *Stares in nigger* '",
+        "text_output": "This combination is Racist.",
+        "image": "1055960744842403841.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Faggot Brainwashing @Kinkbomb Video!   '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1056372701680431104.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'What a scummy cunt   Ryanair - DOES NOTHING!!!  UK twitter identify HIM!!!   RETWEET THIS! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1054122078687899648.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@sasha4th @ChuckGrassley You are retarded. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1043357135076306944.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: love being able to wear makeup without being called a faggot '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1057761154368503810.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@Thabinho14 @PholoMakhafola A Nigga Can't Enjoy Cheat Day Without Being Tormented 😭😭😭😭 '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1108264384260964357.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '“my grandma just passed away”  thirsty nigga: smh without me? 😘 me: '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1115859362629787649.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@Lrihendry @realDonaldTrump Hey Cunt '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1106567774900547584.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Daniellozbar Por retarded 😂😂😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1062391353651458054.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@mochixx_xx And I’ll dare a nigga to try and correct me '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1061705171837820929.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I'm done faggot! clean my hole '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1105123288932585472.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @ChickenColeman @AintRob The nigger agenda '",
+        "text_output": "It is related to NotHate.",
+        "image": "1046930753781714944.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'get this cunt outta miss killing me's spot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1024966908892913664.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Was more of a “nigga please” 😂 RT @HoHighlights: Look at Kawhi’s smirk when posting up Paul George. 🤣🤣🤣 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1108592972902227968.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Nigga lips taste like weed and minty gum '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1105628831220727808.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '🎧 Hillbilly Bone by @blakeshelton on @PandoraMusic '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1063850304649650176.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@ the person who called me a faggot for pushing past them when they were blocking my way in the hallway: '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1115295559487774720.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Sacbosstre Nigger '",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1054556005021990912.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'A NIGGA NAMED PAUL BETTER THAN D-WADE??????'.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1114389839388999681.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'MY NIGGA BACK IN ACTION👏🏽❤️✨ '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1054067233981427713.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@FORTCITYKING @SeaOfThieves Yes they do need to come to Arkansas! Redneck Pirate HYPE! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1044291930040029185.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Miss my nigga Money feel like yesterday in MIA On dem Jetskis living 😩 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1113437799649353734.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@RiffsAndGiggles @VexingVixxen What exactly is your point here? To prove you're a cunt? Ok, point made. '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1063920396116918272.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Talk to me like I’m stupid and I’ll talk to you like you’re a whole ass retard '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1062000919557038081.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'The unicorn must’ve been retarded '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1024435905153646592.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@GerardButler @LAFD good enough for you. Cunt. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1062033434242138114.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'hey dyke i see you got your dyke outfit on like you always do '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Homophobe.",
+        "image": "1107345118707605504.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'dyke station '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1042955833456427008.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: to all the retarded twitter bitches that relied on pitchfork for information on x😂👎 '",
+        "text_output": "It is related to Sexist.",
+        "image": "1057471377945448449.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '🇺🇸Illegals Storm U.S. Border. 3/14/2019😞  The single Border Patrol Agent is simply overwhelmed. #BuildtheWall '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Racist.",
+        "image": "1107280979448745984.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'My wetback oomfs?! We are still streaming this btw '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1056981932511297538.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'THE WAY I CAME IN THE WAY IS THE WAY I GO OUT BORN IN A PUSSY ILL DIE IN A CUNT '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1061392143070175232.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'doja cat justifying saying faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1035143564538339328.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @PaulSkillington you mardy fucking twat throw your dummy out when you can't get your own way haha haha '",
+        "text_output": "This combination is Sexist.",
+        "image": "1046859577470410757.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I stay strapped like a dyke.💯💯 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1041727627424423939.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @AMike4761 Here's hoping we won't be on this list...#BuildTheWall #DEPORT '",
+        "text_output": "This combination is Racist.",
+        "image": "1061311286087172102.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Faggot '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1042997780858294272.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: The more I watch “Undisputed w/ Skip &amp; Shannon” I’m convinced that Shannon Sharp is mildly retarded. '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1054401027561136128.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Faggot Andrew laying face up and face down #gay #faggot #exposed #exposedfaggot #faggotexposed #uk #married '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1114627644082073603.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: ms uhquaria when she sees a faggot '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1115442692199202816.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@CaptainKdub i’m such a whore cunt bitch slut fuck '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Sexist.",
+        "image": "1056514172098232320.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: When you finally see your chance to half that showboating twat '",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1047180728843350016.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Just support a indie nigga out here tryna be somebody lol '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1107880473378861056.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I better not see no straight man walking around with that Diesel jacket that has “faggot” written over it. '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1042477709035753473.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @puppyizu Nigga what '",
+        "text_output": "This combination is Racist.",
+        "image": "1106565451583311873.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@toohighNESS “And i got her nigga.... grocery bag” '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1109191460388327430.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'My team  my nigga🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1113582320987066369.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'My little nigger '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1056588229577789440.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'I love Anya, I bet her cunt is vice-tight. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1106606390448193538.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'My Nigga Vergil  #dmc5  '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1109738491984908289.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Follow my Krip nigga @Duwap231  💕 '",
+        "text_output": "This combination is Racist.",
+        "image": "1107341034038558720.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'fag coffee. Left for me by Alpha. Best #Alpha ever. #fag #faggot #piss #gaypiss #gaycheaters. #cheatingfag '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1113437135065870336.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@CatherwoodDay What a f****** retard '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1051428575587573760.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Bought this nigga a costume and this how he act. Ungrateful 😂💕 '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1057750584210739200.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@QueenAmazi So it literally makes a nxgga retarded after you break’em off? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1052530501125312512.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'husband  turned #cuckold #sissy  #faggot @iWantClips '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1114658574016438272.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@jncatron Because they are retarded! I don't like those who support those who hate Christians and Muslims! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Religion.",
+        "image": "1057625176429359104.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Full Movie: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1044206863741591562.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: By: '",
+        "text_output": "This combination is Sexist.",
+        "image": "1046781634064912384.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: anyway rt to help a faggot find her mutuals again and ignore to let the wh*te man win '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1057906778598506496.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @1GigiSims Faggot '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062246622481080323.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'SOUND ON GUYS !! 🎙 🎤  RETWEET if you’d drop your MAN SEED in my CUNT 🙏🏻🍆💦 #gaybottom #gayholes #gayass '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1113573378886074368.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@XuandongRen Get the fuck out of our club you fucking liar. What a useless fucking twat you are '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1024585373672984576.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@natasharothwell @realDonaldTrump Learn why the electoral college is there first you retard '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1058951120129683456.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'What’s wrong with your drive for parking you fucking lazy twat '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1061171256324771841.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Nannie Fresh looking like somebody dyke aunty '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1042677505482792960.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: If it don't rhyme with my nigga Mando name, me and Skye don't care 🤷🏾‍♂️ '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1108002619145023488.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Y’all gotta stop talmbout Kodak if u still bump a nigga who do this 😂😂😂 '",
+        "text_output": "This combination is NotHate.",
+        "image": "1115285652504043520.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Bronaku @DepressionPoet1 @marsthaprophet @elonmusk Nigga replying to a tweet 4 months ago '",
+        "text_output": "This combination is Racist.",
+        "image": "1113093298594463744.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: stop tweeting subpar photos of urself cunt '",
+        "text_output": "This combination is Sexist.",
+        "image": "1107076521884348423.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'I Ate Cum From My Young Cunt 2 @xvioletrainx @LethalHardcore '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1062356385655070720.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Take it deep faggot! Serve me like this pathetic piece of shit! DM!! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062040202099806209.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@Jannah1z1 @davyBR_ What a retard ... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1035597515394097152.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'My nigga. You’ve just gotta let it go at this point... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1107112157261500416.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@kateokateokateo &gt;Being this much of a faggot '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1062021234190368768.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @sumseiha @t1ff4knee Say no more nigga '",
+        "text_output": "It is related to NotHate.",
+        "image": "1107758657213743107.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@FortniteGame PLEASE VAULT p90 AND MINIGUN its way to over powerd please the meta is retarded HELP '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1053328355695775744.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Imagine being this retarded '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1061251397411315712.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: just took a shower and some cheeky cunt snuck in a cup of coffee '",
+        "text_output": "This combination is Sexist.",
+        "image": "1108772342874992640.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'In the words of @ChrisDavis330 , welcome to the Dub Club nigga 😂😂😂😂😂 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1116383197242306560.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Come on lesbian redneck momo '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1057489076729888768.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@MikeGotti_ @Kabgraham @Yonk3rzBitch You right.. but KAB!! Unless you go read the chat it’s all smoke nigga '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1113856869544734720.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Proud Faggot '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Homophobe.",
+        "image": "1050157790285717504.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'made dyke eye contact with an older lesbian at starbucks. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1055100181421740033.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@UniteDevil99 @AhmetHakanAksuu @shotongoal247 to ride this nigga’s dick '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1107399872628568067.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Hare quince salsify faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1043287564340420608.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@Alyssa_Milano You’re just an irrelevant cunt who hasn’t been an A Lister for years now. '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1061043056206467072.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Love a long haired Faggot '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1114176593100804096.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Stephan55571068 this huge dick nigga wants u '",
+        "text_output": "It is related to NotHate.",
+        "image": "1105163547657547777.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@danlevene Shut up salty twat 😂😂 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1024885376912183296.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'White Trash Women Webcam Masturbation '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1109363489921998848.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@GigilovesTrump I bare my uncoordinated redneck soul to you &amp; this is how you do me??? LMAO '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1047271626201419776.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I’m a big drake fan but if that nigga ever flex a million dollar fit next to me '",
+        "text_output": "It is related to NotHate.",
+        "image": "1113586223027822592.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Just a cool ass #dyke from the westside '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1053774232038055937.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'A conspiracy theorist becomes a key figure as special counsel Robert Mueller builds his case '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1058429145695350784.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@richkidJk Chill out faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062383212566061056.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'The President of the United States calls his Attorney General \"mentally retarded\". Are we done yet? '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1037096433336442880.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: My straight friend said “Joss I would never insult you. You’re my favourite faggot” I am - '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1046517242056372229.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: “If it was me I’d tell you nigga live your life and grow” '",
+        "text_output": "This combination is NotHate.",
+        "image": "1116394328895758336.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Yea this is the most retarded outfit I've ever seen 😂 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1049929771474284545.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'No specific theme, just a nigger and her two favorite boys 🌸#KPOPBLACKOUT '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1035916612048695297.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Hagrid gets fucked by a retarded ninja '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1056782453480640512.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Quick what is it ?  A Dog peeing on a fence post,  Or Ballerina Cunt for Alpha Cocks. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1114994079455223810.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'This Nigga just called me bae '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1116064178316431361.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: i love my faggot midlander so much '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1058044792519737345.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Now Playing GET BACK WETBACK by THE LONG TALL TEXANS On '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1036207325340753920.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Same ole nigga from the block '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1107760383006261249.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'happy birthday, sister from another cunt 😙 @leighfreescape '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1062680109448974336.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '🌈🌈🌈She's style, she's grace, she'll spit all over your face. She's a DYKE. 🌈🌈🌈 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1063972149742858240.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'lmao nigga penis '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1107765232775192576.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Me when someone calls me by my name vs me when someone yells out “faggot” '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1035709802343587841.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@NBCNews you can't even say her name. the woman? you mean the SJW liar. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1042760398619987968.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'me: finally leaves a fuck nigga alone   my friends: do you miss him?   me: '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1108186126173511682.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Retarded af. 🤦🏾‍♂️😂💀 '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1054594257388859392.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'MY NIGGER 🔥🔥🔥🔥🔥🔥 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1044669732937437184.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Her: If you think we fucking tonight you’re retarded  Me: '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1113884488164093955.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'My little sluts canyon cunt everyone is welcome to piss in it so her slut sister can suck it out '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1054398199161634816.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@Jannah1z1 @davyBR_ What a retard ... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1035597515394097152.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Watching @campbellclaret on #TW what a twat. '",
+        "text_output": "It is related to Sexist.",
+        "image": "1054118045277396992.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Noahtoons Nigga I go almost every night wym '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1115375259677601802.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'R.I.P. Stuart 😭💔💯 you was da homie fr fr even though you spent all my money on heroin 💯😔 fly high Lil nigga '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1110185144172859394.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@Kx_xiii And a faggot don’t forget lmao '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1113883371426451458.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@neeci_oldsoul NIGGA YES '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1107128656713801729.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'You might be a Redneck if '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Racist.",
+        "image": "1064004182280040448.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: 21st March for ‘Badge of the Day’ ... This was the scabby cunt from the Miners Strike of 1984/85. '",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1109425268257636353.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'So like can somebody come get me from Quarters? I will be in the bathroom crying because I can’t beat a 6’2 nigga up '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1108151134823346177.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Greedy Mistress Cunt '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1063039540489797632.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@mattwaldram My apologies to @mattwaldram for looking like a massive twat 19 years ago. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1042195643584790528.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'This nigga been watching my meat at the gym for days today I only wore compression pants then this '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1113512265762914314.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Joking about it only makes me pretend that it doesn’t affect me but have you ever been called a faggot almost daily '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062202003185532928.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@ratpwincess That’s the natural creases in my wrist you goddamn retard. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1035977097720803328.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Darthegreat16 @BanksElesia @cwbarnes Hold on nigga '",
+        "text_output": "It is related to NotHate.",
+        "image": "1106694046423093248.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Eminem: “Tyler create nothing, I can see why you call yourself a faggot bitch”  Oldheads: '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1035451190472048641.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '\"I DIDN'T SAY JEFF SESSIONS WAS RETARDED. I SAID HE WAS RETURDED. BECAUSE HE'S FULL OF SHIT.\" '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1037339838649954304.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Just sold a #clip! Beginner Faggot Test #CoercedBi Get yours on #iWantClips! '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1034875095192297472.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '&gt;mummy tells me to clean my room &gt;call her a nigger '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1114152725116280835.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'That green bag? Nigga. A bitch buss dis bih here open '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105107642257686528.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Click here for more Pictures: '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1044980792038961152.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Dobby is on my trends rn the nigga still asking for coochie? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1053730508532862976.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: More from Dennis Grahl , He likes to jerk of 🍆🔐  #dennisgrahl #faggot #nastypig #rubber #poppers #bitch #cum #expose '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1107994903387222016.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: What if a dyke fw a gay dude... 🤨 🧐 🤔 '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1055266535294595072.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: NIGGA '",
+        "text_output": "This combination is Racist.",
+        "image": "1054329089920765952.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Dumb white trash fag blowing me. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1109264252798423047.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'a real nigga has woken up '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1117010866694701056.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'retarded level 100000 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1063561624177598464.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@AngeleStar11 @LadyLibertyInEx Yep, Race Card! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1061810264071438337.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@greedyforari__ ur a sick cunt that’s what '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1063827461392265216.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@rubin_kd @MSNBC You're a fearmongering retard. That's an okay sign. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1037303911751798792.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @ralphsuckafree @SlRENMINAJJ A Faggot calling another faggot faggot 😆 '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1045856240340004870.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Oh yeah, I forgot to tell you all, I finally beat that flying hornet twat in Axiom Verge :D '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1058112956481896448.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@dublincycling @Niall_Boylan The Niall Boylan Twat Show goes... '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1063460614960492544.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@MrCarlos91 @Astartiel @realDonaldTrump Oh, look. Even England has white trash! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1035613325755908096.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Sold my vid! Fuck Your Ass Faggot '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Sexist.",
+        "image": "1115799783044730880.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Hillbilly Hot Dogs #WolfesinWV '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1035922512272650241.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'The hollow heads retarded little cousin '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1053438695645298688.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@christheshank_ @FatherPrime_3 Nigga... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1106966742851563528.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Beware the drunken twat has spoken... wait for it 😂 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1055832405246992385.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Car Windows 2-0 Silly Twat '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1058454979437101056.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: old fat cunt  '",
+        "text_output": "It is related to Sexist.",
+        "image": "1064066033743470592.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'This bitch nigga says MAYB NEXT TIME IM HIGH ASF '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105361014298599424.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@WhiteHouse @realDonaldTrump This little faggot was scared to get his hair wet '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1062029204265537539.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: This faggot wants to be used '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1050447105247076352.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Darryl631 @SocialistVoice But I am sure you think this twat and IRA killers being friends is ok '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1050025565611278341.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@normalkorean21 Follow back nigger '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1063514168991653893.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@_mxtea I got a doctorate nigger... I mean... '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1035532635815260160.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'wtf did u say cunt '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1063837982837403649.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Get well soon @DannyWelbeck 😔...  P.S- you’re still a cunt for that celebration 😒 '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1060933570510745600.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Put that cunt in the jail😂😂 '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1106870576520577024.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@realDonaldTrump Thank you @realDonaldTrump that gives the US extra funding to #BuildTheWall !!! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1054416994261520384.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Caning of cunt '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1062276472314970112.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@amckie1986 @delpoi Are people really still talking about that pony cunt that got banned '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1056138891311362049.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @SoulDaniel69 @ChrisJo51490685 @dhanimations Hell nah faggot '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1046955410886811649.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Into These Cunts Man. And Leace Ur Mark On Tht Naismith Cunt 💪🏻🍀 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1056533095770480643.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@TOOAJoyce \"Nice tits, retard\" '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1061634558108549120.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @barstoolsports Never go full retard. Everyone knows that '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1057305504974888961.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'doja cat when she tweeted she has said faggot 35,000 times '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1109616210445062144.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'yano really hope piers cuntgan steps on lego the disrespectful twat '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1114864116273954816.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'When a nigga from New York talks '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1113124918420520961.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@SammySo40134869 @IMxAQUA Nigga please '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1105860815419305984.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@beccahinpublic @AlexisCutler2 She got her slutty cunt fucked by two big hot black dicks '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1115347710490624000.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'What are you up to this weekend around #Saratoga? Giant Pumpkinfest? Hillbilly Bash? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1045699709518708741.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'he is faggot '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Homophobe.",
+        "image": "1115652124308922368.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'i've got better cunt to fuck. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Sexist.",
+        "image": "1106736505136005120.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I’ll take yo bitch nigga👹(I’m on the left) '",
+        "text_output": "This combination is NotHate.",
+        "image": "1108904808696762368.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'king: “get this nigga OFF me” '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1055095467577692161.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'My day☝🏼nigga💯 #friendappreciation #day1 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1109044664433147904.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @dvmvrr Same with “faggot” '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1056630191534022656.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'I clearly wanted to ride it last night I need a nigga 😭😭😭 '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1107457734507749377.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@realDonaldTrump Look mr trump thinks everybody wants ivanka in the United nations poor retard he his '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1050748013738713088.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'This nigga gon cuss me out cause I asked how Laura was doing 🤔🤔🤔 talking bout who the fuck is that 😂😂😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1107242606713544704.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'stfu drake i for my for free at a yard sale u dumb cunt '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1053870487229681664.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @rioduhmonster you and that retard can both suck my dick! '",
+        "text_output": "It is related to Sexist.",
+        "image": "1113091996753641472.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Me when my mom tells me to be quiet about talking trash about Trump in front of other white people '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1054477591212707840.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@realDonaldTrump I'm here to read all the crybaby comments from retarded regressive leftists 😂🖕 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1062226225517727744.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: My shirt actually says faggot '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1042662269824327680.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'um hi i'm a faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1061421456528031744.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Too busy saving retarded humans that wouldn't evacuate. RIP innocent hogs '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1043935339885338624.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@kealliono Penn State is in redneck mountain land, but North Broad St. is HOME 🍒🍒🍒🍒 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1062178148719251457.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@_dejhotlife @ItsCocoC Make it and find the fuck out lazy cunt '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1053433675994619906.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@MSNBC Hey MSNBC. Your reporting is for the retarded! '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Racist.",
+        "image": "1113017233591107590.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@Crownme_shug And ashamed . Them ain’t studs them dyke dykes '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1043641858021318657.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'The Full Gallery: '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1114313161023397888.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Any nigga ever: h- Me: '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1106996445469503488.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Full Movie: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1115178317215408128.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@TheyCallMeEvan Miss you too faggot 😔 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Homophobe.",
+        "image": "1042957953333166082.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Verbal Straight Stud Fucking Rough His Faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1036292499621531649.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: ''Heyyyy Sol Campbell.. JUDAS, I wanna knowwwww why you're such a cunt...' '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1062454780591853570.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@RobMcTanned I thought you'd like that, dirty twat.😂😂😂😂😂 '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1035116086193270784.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Then it got “please don’t pull a nigga over” at the bottom.. this deflee a Atlanta nigga 😭 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1105563366469394433.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@DrightSauce Cheap ass Twat!!! 😆😆 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Sexist.",
+        "image": "1049731753710157824.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'What are you up to this weekend around #Saratoga? Giant Pumpkinfest? Hillbilly Bash? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1045699709518708741.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@jesseawayne1 @krassenstein @realDonaldTrump U know what: Hahaha. .  Retarded! ! '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1042564946297536512.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Doctors: \"She's going to be extremely retarded. She'll never be able to walk or talk\"  Serenity: '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1064272328006217729.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@missohkeke_ Strong chin havin ass nigga . '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1105699123225919488.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'My nigga loves my natural hair &amp; he’s the one who pulls it so ima listen to him. 🤣so that’s how ima wear it Lmfaoooo '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1108168498180550656.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '#BirthdaysAreBetterWhen you're such a greedy cunt, you get two of them. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1108450731370168322.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @PyrocynicalTV bully more kids faggot '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1046677733953155078.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '*Everybody staring*  Me: nigga what you lookin at '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105549984794112000.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@ashbuglauren Wow your honor this nigger LYIN’! You know damn well I NEVER have it! Lie again '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1046577094606704640.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@worIdcomplex Faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1115043620262952961.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: lmao son this nigga is going to be bbq chicken twice a year '",
+        "text_output": "It is related to Racist.",
+        "image": "1105318789900464128.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@tderosa65 @realDonaldTrump YOU SOUND LIKE YOU ARE RETARDED? WHAT CRIMES????  We the majority love him! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1061383137819877376.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Fuck u England u little twat! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1060997054472830977.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'to anyone that mains the killer hillbilly on dead by daylight &lt;3 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1105250777734369280.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I walk around like that nigga '",
+        "text_output": "This combination is NotHate.",
+        "image": "1109631419653844992.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Y'ALL BITCHES DONE LET A NIGGA  INVADE THA SOVIET UNION 😲😳🤓 SLIME '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1113509039466516480.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@iminhopeworld \"Wow that was a lie down CUNT\" '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1062303827863461888.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Come on!!! Vote to EVICT the blonde twat ... Lewis G! #BBUK '",
+        "text_output": "This combination is Sexist.",
+        "image": "1045101052087947266.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: please say dyke '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1053673090918572032.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Hanging out with the lil homie. I’m a real nigga. That wasn’t just no Christmas clout. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1115758362623401984.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'me when oomf keeps saying nigga but then I realize they’re half black '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1106796339713753088.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@MBoog_ You dirty ass nigga 🤡😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1053671195155947525.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Imagine having to scrub in with this insufferable faggot. '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1062113597055152129.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A dyke on . . . '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1050485404380598279.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @jocieemathers Wait , Black ppl get treated the way they do because Hispanics say Nigga and think it’s okay ??? '",
+        "text_output": "This combination is Racist.",
+        "image": "1108821505050214400.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'sir do you happen to have a pink kevin doan hoodie for some faggot named aaron '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1054467154555195394.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@Gladvillain ????? No I don't nigga '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1057746575169126404.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Hatched 15 7km eggs so far and the first flipping regional to pop out is this twat! LIVID!! '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1044209476855894017.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'NIGGA MY FAV YOUTUBER LIKED MY COMMENT @berleezy IMLIKEEEEEEE '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Racist.",
+        "image": "1058523634636152832.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Just another reason why the \"believe all women\" narrative is absolutely retarded. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1058396654821355520.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'My nigga please 🤦🏿‍♂️ '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1109151925356896256.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: my lyft driver is a f*g should I say “bye faggot!” as I step out '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1107046882667384836.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: She a real good bitch, she the rich nigga kind... '",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1107159634522066946.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@bluekeyblade I have one that was like ( SHOW ME UR NIGGA DICK ) '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1059531291371204608.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @ChuckCallesto Joe is so right what he called Trump supporters but i call them low life white trash pieces of shit. '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1041685866404564992.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @earthisaglobe You are retarded. Is the fuc king horizon curved you utter bell end '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1037410602359173120.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I was texting a gorl that I like and autocorrect added to my message the word \"faggot\" '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1114367327032827904.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'When the nigga before you in rotation wet lipped the hell out the blunt 😂😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1110411583136677889.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: stop looking at me as a mental retard.., '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1037148875340087296.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @LBC @Jacob_Rees_Mogg @NickFerrariLBC The Twat in the Hat! '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1062135608880041987.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '5 minutes later “ Victoria are you fucking retarded “ LMFAOOO '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1063935802982322176.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'When You Just Can't Help It But Make a Twat Of Yourself '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1058041474556805120.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: \"Sit on it, faggot\" '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1044992619191967744.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Watch it: '",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1037067387789553664.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @7FreshieSmith7 You see this tweet faggot '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1061398279982858245.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@AliasNestor1 @TheRogue_Elf @highaltitudes @AV_SardonicWaif @Muelann @YahooEnt White trash delicacies my friend. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1059527960783392774.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@WhitfordBradley @ida_skibenes @realDonaldTrump As is his hillbilly son. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1106719818684620801.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: When the nigga she curved you for dies in a shootout '",
+        "text_output": "This combination is Racist.",
+        "image": "1113980991100551168.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Be cool Nigger! '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1053964423025569792.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Ctfu RT @Sir_Hurizzel: \"WELL LET ME TELL YOU SOMETHING, NIGGER!!!\" '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1058478516898066439.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @tashinicolexo lmao word ? but my nigga Bill locked up tho '",
+        "text_output": "It is related to NotHate.",
+        "image": "1110313522636996608.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I remember it wasn’t nothing with my baby hair , now it’s almost retarded 😂💖 '",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1046546968569368577.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @FabianEberhard nationalists and #zioNaZi in #ApartheidIsrael, the racist #jewcracy: '",
+        "text_output": "In terms of hate speech, this post belongs to Religion.",
+        "image": "1061993098325250049.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'You must be retarded if u think we fucking '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1051667624336207874.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@ILoveBeinBlack @OhRellee Nigga talking about her breath. Nigga look at your hair 😭 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1108558898359881729.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Anyone want a pit bull? Half retarded. '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1037125201677508608.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@DRUDGE_REPORT then how would he describe someone riding a Vegan Harley is you can't say that or faggot? '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1050681171774820353.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Your wife will be pregnant with a black fuck, you want a faggot? 😍😘😍😘😍😘😍😘 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1105479403331641344.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@deh_Mizzlah  nigga! DO YOU BE RAPPING? '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1114572255177117696.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I FOUND A RETARDED HERACROSS '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1058742062781210624.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Nigga what?? 😭😭😭😭 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1105335646816817152.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @PaperChasinSnow @___Kvng23 @NOLIMIT_EJP Tssss do you see that first picture ? Nigga dripping like a fool 😭 '",
+        "text_output": "This combination is Racist.",
+        "image": "1109155068249604097.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'I sholl don’t need no new friends nigga, Where you been Nigga '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1108816422170435584.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'My nigga Just made my day 😁💯😂😫 @KevinHart4real '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1113616700623196160.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'THATS A STRAIGHT NIGGA '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1055178991995445248.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I can spell cunt in both Welsh and English with 10 pence pieces '",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1055191124116234243.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Waiting on my Nigga To Text After I Threaten To End His Life 😕 '",
+        "text_output": "It is related to NotHate.",
+        "image": "1110258991706329092.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@powerxsurge nigga... '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1115628756763316224.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@Denison2498 “I’m a piece of fucking white trash I say it proudly “ '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1108358743945891842.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'It’s nice for a nigga to help you when you low but other then that I got myself baby😘💯 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1105185044543488001.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@JuiceGawdUpNext Once they get complemented they into this nigga '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1107769261534138368.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Me listening to 90s rap songs call me a faggot and enjoying it '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1061662026538176514.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Cumming like a faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1113415484362362881.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Zombie hillbilly realness 🎃 #halloween #costume #hillbilly '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1057724417722212356.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'What America use to Be....   '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to NotHate.",
+        "image": "1058503963975319552.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'No homo but you ever look in the mirror and wanna spread ur legs to a real nigga '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1113929619160346624.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: The only thing more satisfyin than the word cunt is CUNT PUNT.   1 syllable rage words are utter magic 🤯 '",
+        "text_output": "This combination is Sexist.",
+        "image": "1108984863741218816.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: It’s Rihanna, nigga '",
+        "text_output": "This combination is NotHate.",
+        "image": "1107445822524964865.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Wow we really let Justin get away with KKK jokes and saying one less lonely nigger '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1054484475474784256.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'I’m a faggot with a lot of feelings '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1049867446360911872.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@MercuryX11 Amazing Awesome  Cunt bruh from one to another ✊🏿🎁🍆🍑 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1117641889992384512.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Tucker Carlson when Samantha Bee called Ivanka a cunt. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1105218027551784962.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@WayneDupreeShow THIS is #ilhanomar's vision for #America/#Americans....#wakeupAmerica #bansharia   '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Religion.",
+        "image": "1117145709936095232.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@SjwSpiderman @OtakuGamerSmark I think we know whose under SJW Spideys mask 😂😂😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1054171381859004419.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Ain’t a nigga alive that could take credit from me I was already lit when they found me '",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1105583155086536704.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'See this fat nigga right now?  Wait... '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1114165001143513088.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'numb numb juice to the head,  FUCK UP THE OPPS, NIGGA '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1108095993524965377.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Nordlebash I very rarely use the word cunt , but when he’s on tv I can’t help myself '",
+        "text_output": "It is related to Sexist.",
+        "image": "1064276011636920320.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'LONG LIVE SAD FAT NIGGA - YNNEK '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1107340725346275331.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @Ayooo_ShortyWop 🤔🤔🤔 am I... you... what? Am I retarded? '",
+        "text_output": "It is related to OtherHate.",
+        "image": "1044233617378078721.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Faggot for you. Skype is slavedk19. RT me if you wanna fuck me. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1114926178459164672.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Bob Woodward book: Trump called Sessions ‘mentally retarded’ '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1037087636903608320.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@safesky19 @BreitbartNews Imagine being this much of a drooling retard '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1058538481876697088.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'My son gotta whole ass dyke peeing in the back '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1043375950233100288.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Lol bruh this nigga need sum milk #PS4share  '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1109169862256062466.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@JuzoTrash Only u u cunt '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Sexist.",
+        "image": "1057041671156838400.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Twat. Halloween Edition. '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1056943993987182592.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: The future is this ogre flicking her bean while Mohammed sells her daughter’s cunt to all his friends. '",
+        "text_output": "It is related to Racist.",
+        "image": "1113453993672441858.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: fuckin hell I love being a dyke '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1037468907379060737.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Shiet! Nigga that's me! Lmfao '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1107822809580036096.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@GEORGIEDARBY You after a spunk bucket I wanna feel mine inside your cunt '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1115249403915378690.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'I am stupit faggot for BBC '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1113384838516678657.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Watch it: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Sexist.",
+        "image": "1114303190441373696.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@dom_defina23 @Blokula_23 NIGGA SAID KD '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1054176834856804353.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Video - SJW Culture is RUINING GAMING - '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1036167864657616897.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'WTF BRO, 11 FOR 11 ON THE BILLBOARD NIGGA??????  @6ix9ine '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1056693533900529664.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Aye Billy Ray snapped on this nigga own song and it lowkey slaps lmfao '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1114167731249610753.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@FoxNews Good why disrupt commerce over some dead raghead '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Religion.",
+        "image": "1054300995172220929.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Everytime i see this fat faggot i want to punch his gullet omg who knows this one '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1063462379906719744.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Not the best few day!! What a cunt !! '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1062971799149912064.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@bIewmyhigh @khaxid a nigger pot stew '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1058587887388639233.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Ahhhh that's hot that's hot 😂😂😂😂😂 #LiberalismIsAMentalDisorder #BuildTheWall #MAGA #SocialismKills #endtheleft '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1108069271853326337.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'I can’t stand this nigga lmfaooo '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1115721107074457601.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @hollysula Well that person is clearly a fucking stupid cunt '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1114118320452775940.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Found a free boat just chilling on the east, nigga. I charge for transporting fees. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1105566430756519939.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Step on my neck and call me a faggot '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Homophobe.",
+        "image": "1047207584430739456.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Me riding around with the same nigga that I said I was done with 😩😩😭😭 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1054505026083667968.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Fuck what u saying a nigga busted a tear when baby pulled this one out 😭 '",
+        "text_output": "It is related to Racist.",
+        "image": "1108209118052057089.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@Alyssa_Milano You're full of it, Princess. Quit playing the victim card. Get a job &amp; pay those taxes you owe. '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1053728016365428737.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Angela is trailer trash personified #90DayFiance '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1051653093199437825.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Have you seen this movie. So much SJW shit. I wanted to punch Dustin Hoffman’s character @Sugar_Tits_Bear '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is OtherHate.",
+        "image": "1058685630958301185.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Me waiting for a rich white man to sweep me off of my feet and call me a nigger '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1024747340597358592.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'If you dye your hair weird colors then you’re automatically a faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1061358367124480000.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'When she first started being a dyke then now 😂😂😂😂 '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Homophobe.",
+        "image": "1044370335615913984.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'MATT WHITAKER: WHITE NATIONALIST CONSPIRACY THEORIST! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1061075081164541952.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'IM A GORILLA IN A FUCKIN COUPE FINNA PULL UP TO THE ZOO NIGGA WHO NIGGA WHO THE FUCK IS YOU I DONT KNOW NIGGA '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1055217257972985857.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@SolotheYoloRolo this dude watched tokyo ghoul he’s a retard '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1055786415206920194.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@tayk @nojumper who gave this nigga WiFi '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1107853247425867776.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Redneck niggas when they see an unarmed black man casually walking down the street '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1058186120889069568.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @BDDarryl Nigga, I don’t want to see that shit on my TL 😑 '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1108534022312001536.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Daddy sitting and relaxing today what is little Faggot is coming over to clean my toes make me proud😂😏🐷👣👑 '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Homophobe.",
+        "image": "1050093251980656641.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @leemoran1996 @GarParkes67 @piersmorgan Yup. Totally hillbilly’s here '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1060981221491138560.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Full Video: '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Sexist.",
+        "image": "1116395820696338432.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Kodak black look like a dyke at a swimming party '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1042214560181170177.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'My Nigga @big6ix with a #Different Sound '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1107967966413377536.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Hipsters are trailer trash '",
+        "text_output": "This combination is OtherHate.",
+        "image": "1110396827629768705.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@valaddall_ You’ve ripped yer dress ye fat cunt '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1061755548704653314.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Jay1: FREE MY NIGGA JHUS   Inner Self: '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1114302547404234753.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Getting bred by an Italian stud! #BB #BBBH #Bred #faggot '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1053413140191498240.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @JCervone29 Learn to write English or shut up!! Redneck! '",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1061734316793909249.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@wizardchelly “At what age did you realize that your mother raised a bitch ass nigga?” '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1113597552081952769.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@Thomas1774Paine If you Google \"Stupid Retard\" @RepSwalwell face keeps showing up! Try it! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1064368910588272642.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'By: '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Sexist.",
+        "image": "1107199450756366336.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'I’m on a website....I’ll admit I look a bit of a twat, but all publicity is good publicity 😊 '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1114096570620960769.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@TELLAMANWORLD Nigga.... and i have a Mornin Shift at 7H00 🤧 '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is NotHate.",
+        "image": "1114307199558475779.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: 🔒 locked boy 🔒 Day 10 🔒 horny 🔒 #teamlocked #gaychastity #lockedboy #locked #lockedfag #faggot #fag '",
+        "text_output": "It is related to Sexist.",
+        "image": "1107605956874129408.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@AltRightTruth I don't trust the jews but one would have to be pig-brain retarded to trust you. '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is Religion.",
+        "image": "1034925311559966726.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Is this a retard ? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1047224223360581638.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@ShaykhahL What a compete #twat '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1053644768629215232.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'You fat cunt '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1106575972613140480.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Shawty gon lick on the pipe...I got the strap like a dyke....I got the strap I don’t fight... '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1110369139959521280.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @EricssonSZN “not playing pro clubs f1 is on soon” “you fucking faggot who even watches that” '",
+        "text_output": "It is related to Homophobe.",
+        "image": "1108114358901661697.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'you guys so fucking pretty i feel like a retard '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1046805304543825920.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@AuntiesBlock Dyke!?!? Shiiiiitttttttttttttttttttt lol '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1058074016391618562.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@bopinion Bahahahaaa who wrote this article, the white trash drunky “Doctor” Ford...😆 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1046377424018006016.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Boeh is such a faggot like he really said for clout to Calvin wtf dude lol '",
+        "text_output": "This combination is Homophobe.",
+        "image": "1054371080742338560.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: I am this man fat slave he has fucked me made me fatter and made me suck his cock I was a stupid faggot '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1035562955058962432.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'A nigga dead looked me in my eyes and was like “see what you not about to do is act CRAZY” '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to Racist.",
+        "image": "1056012326497849345.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Anyone heard from this cunt I’m worried about his welfare '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Sexist.",
+        "image": "1115722287569702912.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@LAXTR_ @realDonaldTrump @LindseyGrahamSC If you vote for trump 2020 you are retard who wants the world to end '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1044785732651548672.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @AustralianSana This classic case of playing the victim card omalorde '",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1057397996147494912.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'Nigga said I’m just light skin with pretty eyes and that’s it. LMFAO!!! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1107065930700353536.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: 'jump out a new nigga like im a slave master '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Racist.",
+        "image": "1105539457418063872.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @LouDobbs Remember Kate Steinle #PassKate'sLaw #buildthewall '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1057413332225814529.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'This def some nigger antics but in 2016 I woulda had the whole fit like vintage Henny Don Juan '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is Racist.",
+        "image": "1044346985623539712.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Photo cred = my nigga 💙 '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1105269085628186624.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'IM SO GEEKED THEYRE LOOKING AT HER LIKE \"what the fuck is this retard doing\" HAHAHAHAHAH '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1045915703705042944.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'Know they watching but we never make it clear where a nigga could be located. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1113883575206674432.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@realDonaldTrump You're the worst piece of trash our country has ever been forced to deal with in the white house . '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is NotHate.",
+        "image": "1057676685766787072.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: @pritty_money @EBLExclusiveBa1 Nigga got roasted fr fr '",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1109864499484549120.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'This Nigga Has Really Been Through It. He Has The Saddest Backstory And Deserves Better '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to NotHate.",
+        "image": "1109625631384338433.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with '@realDonaldTrump You don't say retard.. bit you so this '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to OtherHate.",
+        "image": "1037421143467220993.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@obeisancee retard '.\nDoes this post show any type of hate speech?",
+        "text_output": "This combination is OtherHate.",
+        "image": "1051377319133073408.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'I could never let a nigga/ bitch make me swear '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "This combination is NotHate.",
+        "image": "1116502124987203584.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: '@dally1000 Oh no, it's retarded. '.\nDoes this post show any type of hate speech?",
+        "text_output": "It is related to OtherHate.",
+        "image": "1053565634695573505.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'I be worried bout a check ✅💸 fuck a bitch or a nigga 🤷🏾‍♀️😂😋💯. '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1113103781070286848.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@IvankaTrump The white trash really love Daddy. '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "This combination is Racist.",
+        "image": "1054183183607103489.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@LoopstarSmiley @MajorNine @MeekMill Bitch ass nigga... AIN'T NOBODY ASK FOR YOUR VALIDATION. Clown!! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to NotHate.",
+        "image": "1114601116757577728.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@YvngScoobi @Charnelle_OL You calling her a dyke is disrespectful ¿ '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1053906786342694912.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@catturd2 Looks 👀 like O’Rourke is a SJW dork! He’s a wordier, flapper version of Obamanation👎🏻.....it’s a No! '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1114644621223710720.jpg"
+    },
+    {
+        "text_input": "Given the image and its caption, does this post convey any idea of hate speech? If so, which kind of hate speech does it belong to?\nThis is the caption: Lef  Police secrets str8 men on free. Lol play like a faggot than b '",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1057915185116012545.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'Young nigga i just wanna law low n chill.😌💰 '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to NotHate.",
+        "image": "1117224246323949568.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@BernieSanders \"Comprehensive immigration reform\" = #Amnesty  #BuildTheWall  #DeportThemAll '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to OtherHate.",
+        "image": "1114532811342352384.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'johnny &amp; keepin up his dyke agenda '.\nDoes this combination exhibit any elements of hate speech? If so, which hate speech type does it belong to?",
+        "text_output": "In terms of hate speech, this post belongs to Homophobe.",
+        "image": "1113115934024220672.jpg"
+    },
+    {
+        "text_input": "This image goes along with the following caption: 'R.I.P my nigga Sean he ways a good kid 😭😭 '.\nDoes this post show any type of hate speech?",
+        "text_output": "In terms of hate speech, this post belongs to Racist.",
+        "image": "1061527291535286274.jpg"
+    },
+    {
+        "text_input": "This is an image associated with the following caption: '@Ionesomeloves woooow so u didn’t think to invite me into this gc? no dyke/bpd solidarity???? '.\nJudge whether this combination contains any hateful meaning. If so, which hate speech type does it belong to?",
+        "text_output": "It is related to Homophobe.",
+        "image": "1056295531146866690.jpg"
+    },
+    {
+        "text_input": "Assess the image which is captioned with 'I ain't nothing like you fuckin' rap NIGGAS, hussle man a shooter that's a fact, NIGGA '.\nIdentify whether this combination displays any form of hatefulness.",
+        "text_output": "It is related to Racist.",
+        "image": "1113858886187061251.jpg"
+    }
+]

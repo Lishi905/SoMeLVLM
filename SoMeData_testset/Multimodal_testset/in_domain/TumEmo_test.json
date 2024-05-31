@@ -1,0 +1,2497 @@
+[
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'By : @USER - and-nature - Johanna Therese'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_54772.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Starting my morning in Hôi An with @USER Traditional Drink . So pure . So delicious . Cheers ! :cyclone: :cyclone: :cyclone: ( at Hội An )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_127632.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Blue sky therapy . No copay . . . HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_92302.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Wow love these winter acrylic nails'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_145968.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'The only way to get here from anywhere else . A little over 100 years ago Einstein turned the way we understand the universe upside down . the speed of light , not time , not matter , is the only absolute . Everything else is relative to it . HTTPURL ( at Railay Beach - Thailand ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_147668.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':hourglass_done: ➜ Cecomix Extreme 4081 650W Compact Juicer l Prix = ? 5,56 ? ? + Livraison Rapide ? HTTPURL If you are looking for the best appliances for your home , do n't miss out on the Cecomix Extreme 4081 650W Compact Juicer ! Perfect for extracting juice from fruits and vegetables ! BPA free XXL 65 mm feeding tube for whole fruits and vegetables 2 adjustable speeds Speed : 19.000 rpm Disc with titanium coating Integrated pulp container Includes 500 ml juice jug . Security system Non-drip system Easy to clean Non-electric parts suitable for dishwashers Non-slip base Recessed cable Power : 650 W Voltage : 230 V Frequency : 50 Hz Measurements : 20 x 24 x 31 cm | | | |'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_158422.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Checking the clock at work . Slow day is slow .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_21540.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Thank for bringing you into a world where can be expressed through music . Surprise her with tickets to the “ The Soul Mothers Day Project ? SoulNightEvents.com HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_138131.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged scream , cartoon hangover , fear , screaming , yelling , yell , bravest warriors , terrified via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_78841.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '• C A L M A ? :leaf_fluttering_in_wind: ? . . . . . . . . . . :smiling_face_with_heart-eyes: :smiling_face_with_smiling_eyes: ? ( en Miguel Colorado Campeche , turismo y aventura )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_63955.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'puzzled by finishing book about calm but also ( v místě Nová Cvernovka ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_63525.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'These have been popping up around the Twin Cities .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_22651.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'My 13 - year-old daughter is having surgery tomorrow . She 's scared . I 'm scared . In fact , I woke up in the wee hours of the morning imagining all the things that could go wrong . But deep down inside I know worry serves no purpose here . So - taking slow , deep breaths - I 'm turning this over to God . God gave her father and me this child to love and teach and help her grow into a beautiful woman who makes a meaningful impact on this world . That 's a big job , but I know He never expected us to do it alone . He has been there every step of the way . He will be there tomorrow at the hospital , guiding the skilled hands of the doctors . He will be present in the kindness and attentiveness of the nurses . When anxiety and fear take hold , we will turn to Him for strength and comfort . Times like these are when we need to let our faith be bigger than our fears . Let go and let God .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_79882.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'TO MY FAVORITE MOVIE DIRECTOR AND MY FAVORITE COMPOSER ! ! ! SO HAPPY ! ! !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_130805.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'On the road again ! Goodbye Georgia !'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_107622.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '“ He who lives in harmony with himself lives in harmony with the universe . ? - Marcus Aurelius Designed by HTTPURL . Feel free to share with credit :)'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_126206.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A little colorful for and for today 's post . Found this on the tree in the front yard . Shot using an 10x macro lens on an .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_49004.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '“ Change your thoughts and you change your world . ? - Norman Vincent Peale Designed by HTTPURL . Feel free to share with credit :)'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_116637.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Día Del Amor & Amistad ! ! !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_145198.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '0026 by andrejosselin'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_143166.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Traveling'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_105350.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'It 's nice spending a couple of days away from the city . ( at St . Catharines )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_58128.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Welcome to Positive Vibes Quotes , Created to help people see things positively . :milky_way: Positive vibes only :milky_way: Download and read :closed_book: popular Self-Help ebook :check_mark: :backhand_index_pointing_right: HTTPURL .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_55963.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Face Your Fear'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_72547.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ''\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_129008.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'We are big fans of seeking expressions showing moving moments . In both images here , Alice is happy ! In one with a smile , in the other with a tear :face_blowing_a_kiss: . Our knees and backs hurt more now , the day after a wedding , but all of it is so incredibly worth it ! Every weekend we 're surrounded by HAPPY ! :heart_suit: . @USER @USER @USER @USER @USER • • ? ( at Portland , Oregon )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_104826.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Suddenly :cloud_with_lightning: HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_56380.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I hope this makes u laugh and helps put a smile on your face ? . . . . . . . ( at Trinidad and Tobago ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_115544.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'I 've gained weight but I 've also gained more room for tattoos'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_90371.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I never will'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_170162.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'A proud moment for Tiara girl Shivangi Sharma @USER from @USER . sharma 08 - I had a great time judging “ youthopia ? at DIT university dehradun :smiling_face_with_smiling_eyes: ? :smiling_face_with_smiling_eyes: :crown: - ( at Dehra Dun , India ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_169030.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'friends who together :two_hearts: ?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_50669.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged sad , reactions , upset , depressed , parker jackson , frown , gloomy , shapies , glum , dark cloud via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_194349.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Available in various colours , Click the image to view more details enter BAKED 10 at checkout for welcome discount'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_122272.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'A Barragem Engenheiro Armando Ribeiro Gonçalves é o maior reservatório de água do Rio Grande do Norte , com capacidade de 2,4 bilhões de metros cúbicos . Está localizada no Rio Piranhas-Assu , entre os municípios de Assu , Itajá e São Rafael . Capacidade total ( m³ ): 2,4 bilhões Inauguração : 1983 Abastecimento e irrigação : 1983 Municípios : Assu , Itajá e São Rafael Estado : Rio Grande do Norte Bacia hidrográfica : Piranhas-Assu Cota de coroamento : 2 540 m Quase seca a 11,74 % de sua capacidade e entrou no chamado volume morto ? nome que se dá à reserva de água mais profunda das represas , que fica abaixo dos canos de captação que normalmente são usados para retirar água . Segundo o Instituto de Gestão das Águas do Estado ( Igarn ) , estava sendo liberada uma vazão de 5 metros cúbicos por segundo . Hoje , a barragem só consegue liberar 4,36 metros cúbicos . Se assim continuar , a previsão é que só haverá abastecimento pelos próximos 30 ou 45 dias . Quarenta municípios dependem dire...'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_86415.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'New trending GIFepisode 7 , abc , bored , the bachelor , bachelor , season 21 , over it , boring , corinne via Giphy HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_40856.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Media luna completa ^ _ ^ ( en Balneário Camboriú ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_156688.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Like , Share & Comment :fire: :fire: :fire: I request you as a friend , atleast make ‘ A Child ? Creating a Small happiness can make a Big Difference HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_104111.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'The most important thing in communication is hearing what is n't said .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_162274.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Paisaje , Going nowhere by TrevorCotton - Link : HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_64178.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Gullfoss Iceland by urs-schmidli'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_47057.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Happy Monday ! ! ! This is great for me . I get stressed and anxious so easily . Especially when my dad is home . It 's sad and annoying that as soon as I can sense his presence my insides started hurting and feel like they 're going to explode and I get a headache and sometimes black out . I find it quite strange . Generally speaking , I have been doing quite well recently . I want to keep going . This week I am determined to continue dealing with anxiety and stress and continue getting stronger . I will stay strong ! ! ! I pray you all have a blessed , relaxing , and grateful week and day ! ! ! :) :smiling_face_with_smiling_eyes: :grinning_face_with_smiling_eyes: :folded_hands: :light_skin_tone: :smiling_face_with_heart-eyes: :sparkling_heart:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_47132.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'There 's a reason she 's never first'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_172714.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Chissà perché gli arcobaleni mettono il buon umore'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_112319.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'IT OK NOT TO BE OK ! ( på / i Dubai , United Arab Emirates )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_13708.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I been working so hard I forgot to give Thanks to the 20 K Spirits :folded_hands: :medium_skin_tone: ? @USER ( at Room 808 Master Tracks Recording Studio ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_162927.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Hot Roller R8 V10 + @USER . cash 86 Follow us :backhand_index_pointing_right: @USER @USER @USER — — — ? # :backhand_index_pointing_down: Check our Partners : :smiling_face_with_sunglasses: @USER — — — ? ? :camera: @USER via @USER'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_98612.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Can you find my nose ? The of my ~ American Tulip Tree ~ Liriodendron tulipifera ~ Tulipier de Virginie ~ Arbre aux Lis ~ My Yard in ~ HTTPURL ( at Sparta , New Jersey )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_9942.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '@USER my lunch : lmaoo'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_43058.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_151596.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'The team got a chance to drop off a care package to @USER from @USER & @USER ? we continue to spread love through fine cuisine ? . . . . . ( at Portland , Oregon ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_163450.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Lmao fuck'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_20086.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: ':smiling_face_with_heart-eyes:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_28880.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Snowy night out with family'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_46142.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Hamster in a hoodie via HTTPURL putyouinabettermood.com'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_124697.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged puppy , bored , nowness , yawn , yawning , dog show , sue the night via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_23362.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '( presso Trieste , Italy ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_166192.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '?'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_74400.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '( at Quezon City , Philippines ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_130289.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER - seventeen'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_47358.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'The 1975 .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_174485.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Astral Seer HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_83866.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '- Do n't bother me ! ! ! - Google Map : HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_12432.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I hate how happy you are without me .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_123776.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Quando si dice un bel regalo :sunflower:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_100304.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'A couple snarly wolfies , ouywooo'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_12376.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'New trending GIF tagged nicksplat , angry , catdog ( November 3 , 2017 at 08:45 AM ) via Giphy HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_7393.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'So I 'm sitting on the floor of my living room bored home alone ( home alone and bored ) and I decided to do a panoramic of the room . Lol . The cat walked through while I was doing it and ? It looks like a hole in the fabric of reality .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_41650.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'I'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_143864.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I miss the students . Do you think they miss me ? posted on Instagram - HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_46549.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'New trending GIF via Giphy HTTPURL . More pics and videos to share in Whatsapp in HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_12422.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Mi parte favorita , la portada ! ! ! :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_134402.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '( at Lagos , Nigeria ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_68871.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Trop content d'avoir rencontré Gilles Lartigot . Premier producteur de Dagoba et ami du groupe depuis un moment . Merci encore pour tout tes cadeaux :folded_hands: et hate de dévorer “ Eat 2 ? :open_book: :OK_hand: lartigot #écrivain'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_90162.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 's a d'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_192633.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'yellow :glowing_star:'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_34915.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'No olvides seguirme @USER ? ? ? ? ? ? ? ? ñana ( en Dubai , United Arab Emirates ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_161112.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Do n't blame me . This is automated . November 21 , 2016 at 05:45 AM'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_16942.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'i dont post much of my art here , so heres a weird doodle of my Sona Oreo'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_11606.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'New trending GIF tagged happy , fun , smile , kids , weekend , happiness , clothes , petit bateau , petitbateau , lauging ( July 2 , 2016 at 12:10 AM ) via Giphy HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_122639.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Okay ? can I seriously move to Austria ? ?'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_102054.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'reaction , reactions , bored , emotion , popcorn , emotions , sarah michelle gellar , classic reaction , eating popcorn , riveted'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_39507.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Sorria Sorria , embora seu coração esteja doendo Sorria , mesmo que ele esteja partido Quando há nuvens no céu , Você conseguirá ? Se você sorrir Com seu medo e tristeza Sorria e talvez amanhã Você verá o sol brilhando , para você Ilumine seu rosto com alegria Esconda qualquer traço de tristeza Embora uma lágrima possa estar tão próxima Esse é o tempo que você tem que continuar tentando Sorria , o que adianta chorar ? Você descobrirá que a vida ainda continua Se você apenas sorrir Este é o momento que você tem que continuar tentando Sorria , de que adianta chorar ? Você descobrirá que a vida ainda continua Se você apenas sorrir Charles Chaplin Mr.PinGO Instagram : @USER :folded_hands: :medium-dark_skin_tone: :red_heart: :grinning_face: ão'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_90634.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Last na ‘ to :loudly_crying_face: Will be missing this bunch soon . Happiness is believing & walking in faith , not by sight . Last night was memorable . I wished the night wo n't end . ( at Municipality of Dalaguete ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_161023.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':deer: :deer: :deer: :Santa_Claus: :medium_skin_tone: Model :camera_with_flash: : @USER :red_heart: :red_heart: :red_heart: :red_heart: :red_heart: :red_heart: :red_heart: :red_heart: HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_159046.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'can I go home yet ? @USER'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_31505.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Lil Wendy : lets buy some ! ? ☆ o ? ? Wendy : no ... that 'll taste bad T_T Lil wendy : pretty please ( > ^ ω ^ Wendy : fine ? T-T'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_15048.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Mystical chameleon'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_27361.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '“ Our deepest fear is not that we are inadequate . Our deepest fear is that we are powerful beyond measure . It is our light , not our darkness that most frightens us . We ask ourselves , Who am I to be brilliant , gorgeous , talented , fabulous ? Actually , who are you not to be ? You are a child of God . Your playing small does not serve the world . There is nothing enlightened about shrinking so that other people wo n't feel insecure around you . We are all meant to shine , as children do . We were born to make manifest the glory of God that is within us . It 's not just in some of us ; it 's for everyone . And as we let our own light shine , we unconsciously give other people permission to do the same . As we are liberated from our own fear , our presence automatically liberates others . ? Our Deepest Fear by Marianne Williamson HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_68115.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Instagram : kenziemawhinney'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_122752.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'via Giphy'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_140915.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'We must keep Carl alive ! by KillBuzzCkPunch Follow the Mustard Gang !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_21916.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'so true'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_38297.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Are you ready ? Let 's flying and enjoy the atmosphere together ? ! !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_104411.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '“ You 're like a drug I 'm having withdrawls from . I can't stop thinking about you , how I wo n't have another hit . I crave you . ? – m . f .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_173971.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Get more Good Vibes here Tumblr | Instagram : @USER @USER & @USER | Google + | Pinterest Add us on Snapchat : wizdomly'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155554.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ':Christmas_tree: Wo n't You Stay With Me ? ‘ Cause You 're All I Need ? :Christmas_tree: ( at Piedras Negras , Mexico )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_61710.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Angry Snake'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_11244.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Kuvshinov-Ilya'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_191383.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'LET YOUR LOVE SHINE . 24x24x1 . 5 . Mixed Media on canvas . :registered: ? ( at Inspire , the joy practice ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_140650.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Happy Saturday ! ? The fear of man bringeth a snare : but whoso putteth his trust in the Lord shall be safe . Proverbs 29:25 KJV :open_book: ( at Kosciusko , Mississippi )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_77793.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_187227.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Who said unicorns :unicorn: were not real :person_shrugging: :medium-dark_skin_tone: ‍ :female_sign: :winking_face: ? HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_167512.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Daddy issues'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_171594.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '“ Que la marea te traiga una y mil veces ? :cloud_with_rain: :umbrella_with_rain_drops: :rainbow: ércoles @USER :thought_balloon: de @USER ( en Es Boldado Cala D'hort )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_121518.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'StUpID'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_174876.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Vote Mario for President :megaphone: — — — ? Horrible edit de la noche ? No iba a subirlo , pero necesitaba subirlo ahre rjsjhdakdh — — — ?'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_39917.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '? :butterfly: 281 ( at Kaimuki , Hawaii ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_52572.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '? Eternity Ring Evergreen ? VISIT MY BIO LINK For More Surprises :backhand_index_pointing_up: :backhand_index_pointing_up: :backhand_index_pointing_up: HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_154297.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'HTTPURL ( at I Dive Cyprus ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_56472.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Si finges una sonrisa , todo estará bien .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_127116.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'How To Get That Healthy . Glowing . Skin ! Skin is our largest organ , and yet it is one that so many people forget to deal with and we should . We douse it with fragrances , lotions , and other beauty products that have an amazing quantity of chemicals , many of which were demonstrated to cause cancer ( like parabans for example ) . Find out more here HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_108957.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'LYCOPERSICON ESCULENTUM TOMATO . Yes , I started to grow my little green space and I 'm really proud of it ! . . . . . . . . ( at London , United Kingdom )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_122872.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Livin ? two lives like my name Danny Phantom'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_161554.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'My boii tom the cat . I need more friend .. lol'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_21678.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Cryptid # 3'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_117629.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '?'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_177571.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'With every post , a smile , ت'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_102770.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'La rappresentazione del tramonto , ossia quella specie di miracolosa irrealtà che il morire del giorno sa creare , e che , se il tempo non muta , si ripeterà il mattino seguente con il sorgere del sole . ( Walter Bonatti ) ( presso Casina Vanvitelliana Bacoli Na ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_165821.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '?'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_194929.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Fear in the darkness - my inspiration was the comic Ava 's Demon . I love this so much , story and graphics are brilliant :angry_face_with_horns: :person_bowing: :fire:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_80396.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'This year I just want my family happy , my health imporved , my mind right , my finances flowing and no drama .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_129358.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Christian youtuber - HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_69744.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: ''.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_105447.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Fear is not real .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_74222.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Another proyect I happily did'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_186054.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Break free ! ! If it does n't scare you at least a bit , what are you doing with those slighty dodgy ideas that probably also contain your personal magic ? . . :camera: @USER :person_cartwheeling: ‍ :female_sign: ? @USER :raising_hands: @USER . . ( at Bakerloo line )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_83395.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Trying to finish uni work but all I want is a nap :zzz:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_15682.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':growing_heart: :heart_with_ribbon: Rest in Peace Riley :heart_with_ribbon: :growing_heart: You 're the best dog i could have asked for . And ill never forget you and your love .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_114972.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '14.26 . 04 pm | Evening Matter - for Her You - m i S S oliviapalermo'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_140952.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'My neighbor wins Halloween'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_17556.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'New trending GIF via Giphy HTTPURL . More pics and videos to share in Whatsapp in HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_113723.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '?'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_190448.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Meu primeiro ói lendário'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_65257.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'summer cool indie landscape goth fashion follow for follow prettysunglasses girl f4f rosy happy quality grunge pastel'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_88994.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'That 's So Fetch | via Facebook on We Heart It HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_1656.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '?'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_177349.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'This shadow copy 's me Alot .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_35406.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'If u cut your hair by yourself and do n't take a pic , did u really ! ?'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_29523.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Mr Awesome ! ! by SteveGuessoum'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_120702.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'A group of Cotton Harlequin Beetles .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_34698.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Alright , stop . Refrigerate and listen .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_29056.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'The biggest obstacles to our progress exist within our own lives in the form of cowardice and the tendency to give up . Breaking through these barriers will unleash a surging wave of change . Fear does not exist .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_84144.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Fear of Darkness HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_65630.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Le migliori gif da GIPHY !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_525.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_135041.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'W I L D G I R L H O O D ? H I P B A T H T H E R A P Y Be a mama , have a daughter'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_156985.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Le migliori gif da GIPHY !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_21302.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Hace tiempo que no lloro pero agote mis sonrisas'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_191022.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'My lovelies ! ( at Moscow , Russia ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_117954.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Te deje aquí con todos mis recuerdos de ti . Te deje aquí y te guarde en mi corazón para jamás olvidarte . Te deje aquí para poder ser feliz de nuevo .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_127561.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'May your day be full of blessings and adventure . Fear not because the lord is with you . Amen ( at Airboat In Everglades INC ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_75348.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'follow me for a followback'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_194496.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Get more Good Vibes here Tumblr | Instagram : @USER @USER & @USER | Google + | Pinterest Add us on Snapchat : wizdomly'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_148834.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: ''.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_8355.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'we 're all imperfect in a perfect way ___ Credits : Quote : @USER “ Dreaming With Your Eyes Open ? Model : @USER ___ ( at Bayern , Germany )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_15180.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':smiling_face_with_heart-eyes: Favourite photo I 've taken of him ( at Golden Bay ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_157273.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'fall foliage beachwood lake reflections ( by dfbphotos )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_55568.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '- paris'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_100862.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':purple_heart: All You need is :purple_heart: Happy ' s Day ! for , o for , for Everyone ! Click to Shop :right_arrow: HTTPURL HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_142524.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Anger management : How to deal with Dealing with anger can be a serious issue for some people . Controlling our anger is so important because we might end up doing or saying something we regret , or it might just stop us from being able to do what we need to do at the time .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_58920.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Follow Purple Buddha Project Instagram for more motivational quotes'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_95441.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Here is some crap drawing I made recently'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_60801.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged love , happy , cute , friends , birthday , rainbow , kawaii , surprise , mood , thank you , thanks , friendship , feliz , opening , present , gracias , cuteness , cumple , molang , unboxing , merci , piu piu , cadeau , piupiu , cumpleanos , compleanos via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_141396.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Time to get on this essay : 3 new candle , and the views not too bad . Determination !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_51034.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'pictures at the park'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_29378.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'After 20 minutes these two seem terribly in their state of co-existence .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_54040.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'via HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_66942.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':hourglass_done: ➜ Pink Super Wings Beach Towel l Prix = ? , 04 ? ? + Livraison Rapide ? HTTPURL Have a look at the Pink Super Wings beach towel , very fashionable for the summer ! 100 % cotton Approx . dimensions : 70 x 140 cm | | | |'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_163428.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'With every post , a smile , ت'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_96944.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_148227.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: ''.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_17828.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ', dance , love , music , happy , cute , art , dancing , meme , sexy , christmas , fashion , girl , music video , hot , sad , yes , instagram , cool , heart , fire , beauty , life , goal , gay , black , new , hair , money , man , model , rap , fitness , dj , queen , day , family , couple , mood , memes , beautiful , photography , makeup , like , amazing , wave , style , awesome , best , cheers , joy , twerk , mv , babe , lgbt , sky , home , chocolate , lights , drugs , shoes , fortnite , future , 420 , great , bad , hiphop , aesthetic , trap , lit , dope , pride , men , valentine , dancer , bw , nike , young , lesbian , motivation , feelings , female , rapper , f , boo , relationship , follow , popular , quotes , gorgeous , twerking , culture , valentines day , success , adidas , hurt , fresh , goals , broken , bag , designer , proud , american , single , luxury , valentines , trending , youth , couples , doll , musicvideo , barbie , lover , viral , gang , freestyle , coco , supreme , p...'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_151084.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Took a trip to Straddie today :beach_with_umbrella: feeling very thankful to live in such a blessed country 🇦 🇺 with so many awesome beaches :water_wave: ( at Straddie Is . )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_90192.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Do n't blame me . This is automated . December 18 , 2018 at 04:37 PM Owner of this account : pepes-fantasies.tumblr.com'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_130201.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Lil ? Snowball via HTTPURL putyouinabettermood.com'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_108560.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Hmu up later for pics HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_46760.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'fam ? 021118'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_131673.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A town in Lithuania has this ghost statue climbing out of the water , onto the docks'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_29678.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '“ EU PRECISO DE ALGUÉM ? SEMPRE SONHEI ENCONTRAR O AMOR PERFEITO / SÓ QUE EU SEI QUE ISSO DE AMOR PERFEITO NÃO EXISTE / É SÓ COISA DE CONTO DE FADAS E TAL / MAS EU NEM LIGO PRA ISSO NÃO / EU SONHO ENCONTRAR ALGUÉM QUE POSSA FAZER FELIZ O MEU CORAÇÃO / QUE JÁ ESTÁ DE SACO CHEIO DE CHORAR E DE SOFRER POR DESILUSÃO / EU QUERO ENCONTRAR ALGUÉM QUE PREENCHA ESSE VAZIO QUE EU SINTO AQUI DENTRO DO MEU PEITO / E QUE TENHAMOS MUITO AMOR E RESPEITO UM PELO OUTRO / REFRÃO / EU PRECISO DE ALGUÉM QUE GOSTE DE MIM TAMBÉM / ALGUÉM QUE ME FAÇA CONHECER O PARAÍSO / QUE NÃO ME FAÇA PERDER O JUÍZO / ALGUÉM QUE ME AME E QUE POSSA SER TUDO O QUE EU PRECISO / FIM DO REFRÃO / NÃO ENTENDO O MOTIVO DAS PESSOAS TEREM SE ESQUECIDO DO AMOR / MUITOS NÃO ESTÃO NEM AÍ PRA ELE / SE PERDERAM NUM CAMINHO ONDE NÃO HÁ FLOR , SÓ HÁ ESPINHO / E EU , APESAR DE NÃO CONHECER ESSE SENTIMENTO , ACREDITO NELE APESAR DE TUDO / SEMPRE FUI UM LOUCO SONHADOR / E NÃO DESISTIREI TÃO FÁCIL DE ENCONTRAR MEU VERDADEIRO AMOR / AQUELE AMOR...'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_147304.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Scotland ( bij Scotland )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_92296.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Day 1803'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_12544.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Ice and Fire .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_21602.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'We are the Guardians of the Tree of Life . We have been given the blessing and honour to protect it and to help others to taste its fruits with love and compassion . The Tree of Life teaches us to carry and share “ Love ? and only “ Love ? And so , the light of Love should shine through our eyes . Arrogance , Pride , Anger , Hatred , Criticism , Lust , Envy and Jealousy is a heavy burden to carry on our shoulder . They are the enemies of truth and are the most dangerous inner diseases of the heart . Sometimes among us , we may encounter many challenging disagreements and difficulties . And to overcome those problems or to bring any change for good , we have to use our greatest weapon of “ Love ? because only Love can conquer the enemy of truth . Love is the only force of change and transformation . Love can penetrates the driest heart releasing river of compassion and forgiveness . Let love and only love be the instrument of change . Ricky Saikia HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_141443.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Fear . Children Nightare and Cross'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_69171.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I 'm gonna marry that girl some day'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_88143.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'NOT a morning person !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_2594.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'They grow up so fast'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_171951.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I just got the book , and loved every page . I love S . E Hintons books , they 're amazing ! !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_180127.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':cherry_blossom: :cherry_blossom: :cherry_blossom: We are left to pick up the pieces and mend our broken hearts ? In the end we realise that it is really just Me Myself and I ? But we are Strong , Indepent women who dust ourselves off and rise above ? The flower that blooms in adversity is the most rare and beautiful of all :cherry_blossom: :cherry_blossom: :cherry_blossom: ( at London , United Kingdom ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155428.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I wasted all my talent on a picture of a dandelion'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_29449.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'It do be like that'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_91988.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I 'm done ? @USER @USER . x . o @USER HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_159840.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_163566.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Seu iPhone está quebrado ou é muito antigo ? Então venha na TudoiPhone e atualize de aparelho ! Nós compramos e trocamos iPhone usados de nossos clientes , retornando em dinheiro ou créditos na loja , tudo para que ele possa aproveitar o melhor da experiência Apple sem gastar muito . Estamos comprando ou trocando modelos a partir do 5S . Entre em contato conosco ou visite nossa loja e faça a sua troca hoje mesmo . Fone - 3804-6909 WhatsApp - ( 47 ) 9935-4908 ( em TudoiPhone - Compre Venda Troque ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_151404.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Follow HTTPURL ? For more chocolate porn , recipes , promotions & coupons .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_160976.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'without HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_161286.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Make sure you have the right ingredients . MaplesCreativeCounseling.com HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_166745.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Let 's ? ? ? ? ? ( at LA Fitness - LANGHAM CREEK )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_91753.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Life is not about getting what you want , but about appreciating what you have , and patiently waiting to be approached :OK_hand:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_89865.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Good Morning World :red_heart: :globe_showing_Europe-Africa: HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_166530.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'the key was thrown away , along with the brave souls of yesterday'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_67544.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Idk why I 'm always so tired ... :face_with_rolling_eyes: :skull:'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_39573.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged angry , mad , shit , frustrated , better call saul , frustration , kill me , actions , kill me now , just kill me , exasperation , wits end via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_11601.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '‘ Doc Hammer Explains Why We Ca n't Have Nice Things ? I wish I had an internet nemesis to present this image to . Seems like such a waste of 5 minutes of my life now ? = = = Please visit and share HTTPURL and help save a furry little life .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_3591.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Bo Burnham'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_82296.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'do you ever fear mugs + stickers : HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_70215.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ''.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_77637.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Do n't miss the show tonight it 's finna be lit . @USER . ent and @USER :fire: :fire: @USER ( at Universal Bar & Grill )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_125178.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '- Never is enough with you :folded_hands: :medium_skin_tone: :sparkling_heart: :leaf_fluttering_in_wind: - ( en Suances , Cantabria , Spain )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_130000.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ''\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_66808.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'If you wanna keep me from dying of boredom then message me jokes or something .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_24423.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'A addition to my | @USER . erin | some | I 'm a little behind on the book tho :face_with_tears_of_joy: ___ ( at North Druid Hills , Georgia ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_161376.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'sad.elfo.png |'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_186802.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'OHHHHHHHHH DAANG THAT'S THE STUFF'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_194281.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':tongue: :eye:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_20716.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Danielle and I hosted our first thanksgiving this year at our apartment . We had all of the Walden family together for the first time in a long while . I would say that this is a major success , and we easily started a family tradition .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_92026.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Nunca superaré la muerte de Chris TnT'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_191901.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'No . I do not .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_12375.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':hourglass_done: ➜ Water Dinosaur Egg l Prix = ? , 18 ? ? + Livraison Rapide ? HTTPURL You 've been trying to find an amazing product for so long and now you do n't have to look any further : the water dinosaur egg . This dinosaur egg of approx . 11.5 x 8 x 8 cm is a very fun toy . Your kids will love to breed this little monster . It 's so easy ! Leave it to soak and in a couple of days you 'll have a nice little dinosaur which will break the shell . 4 randomly assorted designs . Free point-of-sale display with the purchase of 6 units . Recommended age : 3 + years . | | | |'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_161170.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: ':person_in_lotus_position: ‍ :male_sign: ? samskara @USER @USER . greece @USER :heart_with_ribbon: :unicorn: :heart_with_ribbon: ( at ARTPLAY )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_123109.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Final Year Project System , Thesis , and Presentation finally over ~'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_126511.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'DEPRESSED , ANGRY , TIRED , DONE !'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_1240.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '@USER with @USER ・ ・ ? Death Prom King , inspired by Stephen Kings “ Carrie ?'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_119994.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Here I 'm trying'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_34689.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Saudaramu mengetahui segalanya tentangmu . Saudaramu tahu saat kamu sedang sedih atau senang . ( at Tuban , Bali , Indonesia )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_91740.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '@USER ( at Richmond , Virginia ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_151820.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'New trending GIF tagged spongebob squarepants , happy , surprise , spongebob , squarepants via Giphy HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_88662.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New trending GIF tagged game , reaction , angry , reactions , mrw , mad , twitch , magic , rpg , upset , nerd , geek , dnd , bored , annoyed , hyper rpg , nerds , d & d , nerdy , geeky , geeks , rage , hyperrpg , frustrated , hyper , roleplaying , hyper_rpg , role playing , cards , pissed , over it , frustration , fury , ceo , furious , zac , overlord , bitter , offended , flustered , lim , zac eubank , eubank , outraged , enraged , heated , bothered , zaceubank , irritable , fluster , card game , ceo overlord , ceooverlord , oversnort , magic the gathering , agitated , bore , peeved , miffed , irked , the gathering , peeve , cardgame , trading cards , win condition , wizards of the west coast , mtgwc , wincondition via Giphy HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_3936.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_139778.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Yes ! I just woke up it was a very long sleep .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_123933.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'So , Wolfeboro , we hear the word about town is that people are really with the quality of we 're providing at . How do we know ? Simple , they 're telling the people at the US Postal Service , and they are passing on all the comments to us every day we ship more packages out to our customers all over the US ! So , it would seem word is traveling fast now that we 're open and serving . Speaking of words , how about ? Gingerbread ? as a word ? ! Gingerbread will be newly added to our menu starting Wednesday morning , and we think you should join us for from 7-9 AM for $ 1 ! ( at Lucas Roasting Company )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_89842.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'see that mark on my arm ? that 's a fucking new burn ( finally treated it ) from a machine at work ! ! ! not only did I burn myself but there was a customer there and seen it all happen ? . they witnessed me burn myself and then start to put it under pouring water ? were they compassionate ? ? ? NO , they did n't give a fuck and they cleared their throat trying to get my attention to serve them ? while I was in pain and putting it under cool water , AFTER THEY WITNESSED ME BURN MY ARM ? THEY SEEN IT AND STILL DEMANDED TO BE SERVED WITHIN A MINUTE ? how busy of a life could you possibly have that you can't wait an extra couple of minutes so I could fix up my injury ? ? ? IS YOUR COLD MEAT REALLY THAT FUCKING IMPORTANT , YOU FUCK ! !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_2531.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I 'm way too obsessed with this filter :face_with_tears_of_joy:'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_43301.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Losing my grip on the point of things , everyone says you gotta work , you gotta make money in this world to get by . And honestly this thought process disgusts me it 's not what we were meant for , we have such greater purpose !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_13134.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Breathe in acceptance and love , exhale illusion and judgement :folded_hands: feel it !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_111645.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'F e e l . . . . . .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_134944.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '“ We fear a kind of destruction , so we avoid conflict . And yet we need destruction to grow spiritually : the destruction of our mistaken identity . ? ~ By Catherine Ghosh / AB'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_75375.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Hold me please .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_146866.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'New trending GIF tagged angry , earth , frustration , earth day , josh freydkis , globey , pound head against the wall ( August 11 , 2016 at 09:05 AM ) via Giphy HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_5192.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Collections will change on March 1st ! Get these collections at a deeper discount until Feb 28th . HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_131855.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Sometimes I want to just fade away and leave everything behind .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_76524.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Fear & Jealousy'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_72820.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Le migliori gif da GIPHY !'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_106516.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Blue Moon Enamel Pin HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_190705.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Have a selfie :camera:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_40866.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Had nothing better to do and created these .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_22382.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'happy , cute , flirting , flirt , the oc , cravetv , swoon , summer roberts , happy gif , orange county , swooning , seth and summer , batting eyes HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_107931.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'You make me happy .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_154591.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Toad the Wet Sprocket - Fear ( August 27 , 1991 )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_75603.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Emilia Clarke Without Makeup'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_33593.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Happiness is here - Congratulate to all Yogis and Yoginis . We wish all the best for your future endeavors .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_96840.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '‘ The Open Door ? Photo by : @USER Edit by : @USER Cosplay by : @USER'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_83050.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Well there ya go'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_16056.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Flash back Friday to the @USER HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_145722.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I always about what others think of me . What should I do ? Sarah asks , Mishu answers . Dear Sarah : Maybe you 're hanging out with the wrong people ? Love , Mishu'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_78280.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Chinese Food and Black Panther , means I 'm having a fantastic evening . :face_savoring_food: :grinning_face_with_big_eyes:'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_123324.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Transitioning into the New Year is just that . A transition . Forgive yourself for the old you carry into the new . Transitions take time . Everything is unfolding just as it needs to . Life is n't black and white . Enjoy the array of colors in between and be grateful for everything . ( at Val-des-Monts , Quebec ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_157872.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Now that 's unselfish ! !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_119743.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Are you afraid of the dark ? Are you afraid of the monsters of the dark ?'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_69624.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Do n't dwell on sadness . Joy will take you where you want to go . ? Bryant McGill'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_177529.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'This painting hangs in the Blu Moon Hotel in South Beach ? no explanation needed . @USER @USER @USER @USER @USER ( at South Beach , Miami ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_53872.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '19/25 : :crying_face: :performing_arts: Hoje a saudade conversou comigo . Veio falar de vocês . ? Cia Os Indigentes ê ça ço ê'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_108800.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'New trending GIF via Giphy HTTPURL . More pics and videos to share in Whatsapp in HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_178355.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Beautiful shadows'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_35236.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'songs for being sad'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_186099.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'This is me'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_102404.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Hola'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_193775.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Y el 6 de Enero de 2008 nacio ese niño , ese enano llamado Sebastian Biel ! ! A pesar de que no le gusta hacer tareas ni nada parecido y solo quiere andar metido en los videos juegos a pesar de todo eso es un buen niño y nadaa le toco ser mi hijo o me toco ser su padre , hoy ese Biel esta llegando a 10 años , una decada de full jodedera , risas , llanto y tantas cosas para ti Feliz Cumpleaños hijo hermoso y jodele la vida a tu mama en la playa mañana xD xD xD ! ! Te amo bebe ! ! Voy por ti ? ños'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_86611.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'idk'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_39151.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'AMY POEHLER FOREVER'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_36716.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Impromptu beaver tail treat from mom . ( at Springer Market Square ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_148819.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Beach :water_wave: Hair Do n't Care is available'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_107742.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '“ Love , exciting and new Come aboard , were expecting you Love ? life 's sweetest reward . Let it flow ? it floats back to you Love Boat soon will be making another run . The Love Boat promises something for everyone . Set a course for adventure ? Your mind on a new romance ! ? . . ( at San Diego , California ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_148954.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'of the Philippines as seen from above aboard a plane enroute to the Best Island in the World according to :desert_island: We already visited in Palawan , so this time we are exploring its capital city . :smiling_face_with_sunglasses: :OK_hand: :face_blowing_a_kiss:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_86082.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'If you need someone to talk to , just message me or send an ask :-)'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_180211.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Someone pretended to be Tom Cruise in a small chicken shop in North Eastern Thailand and is remembered there forever'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_31929.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'New trending GIF tagged netflix , no , sad , episode 5 , nope , smh , sigh , disappointed , on my block , cesar , dissapointed , episode 105 , cesardissapointed ( May 17 , 2018 at 07:17 AM ) via Giphy HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_176272.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ''\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_101277.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Angry floof'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_14252.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'xoxopinkparadise | via Tumblr on We Heart It - HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_54545.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Sooooo bored !'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_14822.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':fallen_leaf: :maple_leaf: — ? #кот #инстаграмнедели #инстатаг #котейка #мило #вселюбяткотиков ( at Чертаново Северное )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_98331.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'My wife had so much fun white water rafting this weekend !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_25744.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'tired , bored , sleeping , zzz , andrewandpete , andrew and pete , andrew and pete sleep HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_16768.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'President Eyring said , “ In a season of increasing tumult in the world , those increases in testimony have driven out doubt and fear and have brought us feelings of peace . Heeding President Monson 's counsel has had two other wonderful effects on me : First , the Spirit he promised has produced a sense of optimism about what lies ahead , even as the commotion in the world seems to increase . And , second , the Lord has given me — and you — an even greater feeling of His love for those in distress . We have felt an increase in the desire to go to the rescue of others . That desire has been at the heart of President Monson 's ministry and teaching . ? Read the full talk here .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_81632.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Requested by Anonymous'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_75124.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Me .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_22826.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Sourcing for the perfect items can really be so much fun and inspirational . Highlights of Day 3 @USER ( at Maison & Objet ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_152570.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'some days are so bright and happy , and fuck it is worth the struggle'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_91205.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'The best is yet to come :smiling_face: New Video . Link in Bio . :broccoli: :kiwi_fruit: :cherries: ( at Hawaiian Islands ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_152375.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Work in progress about my :herb: This mask is a complete surprise and I am very to on it . ( at Mexico City , Mexico ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_114724.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '( at Allston – Brighton )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_102139.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'A moment with CoachD 🇺 🇸 You deserve the best . So remember , :victory_hand: :sparkling_heart: and ? :grinning_face: 🇱 🇷 support our troops with Coach David Lubin With another for your ! is my reason for I @USER can help you through the of . l These post inspire please consider a gift : Use : dlubin7@yahoo.com Thank you & May God Bless You , In ! :folded_hands: :victory_hand: ? and :sparkling_heart: I Love the Lord Jesus Christ ! HTTPURL HTTPURL HTTPURL Peace :victory_hand: Love :sparkling_heart: and Coffee ? HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_169619.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Feeling your touch HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_148396.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'People asking you for autographs when you 're eating ribs ? Well let me tell you how it 's really like ? it 's fanFUCKINGtastic ! - Barbra Streisand about fame . - - - - - - - - - - - ? ?'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_183566.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'this was a old pic i had sitting on my pc as i was learning to photo shop felt odd that i havent posted in a couple days'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_31638.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '„ Telephone wires above are sizzling like a snare . ? - Lana Del Rey - Summertime Sadness'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_193327.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'The bedroom set looks amazing in my granddaughters apartment ! I can't wait till her friend brings the mattress she gave her over ! HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_152947.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '( at Saudi Arabia ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155518.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'In a lull in April by carmenvcastellano'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_62750.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Never will a regret be greater than the regret of Never Trying ⠀ ⠀ HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_164400.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Преобразования'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_179596.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'New GIPHY !'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_152600.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Buenos dias'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_44884.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Nothing more to say . ? ? ? ( hier : Hamburg , Germany ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_72304.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'New trending GIF via Giphy HTTPURL . More pics and videos to share in Whatsapp in HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_32003.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Keep Calm And Focus On Analysts Magnet'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_53235.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'This is something I wish more people understood . Just because you fall out of touch does n't necessarily mean feelings are n't still there . @USER ? ? ? Tag a friend who is this for you :backhand_index_pointing_down: :yellow_heart: it 's hard to make switches from seeing friends almost every day whether that was in school or work , to seeing them every couple of weeks or months . Friendships will have ebbs and flows . There will be years that you talk to each other every day . And there will be years you can't talk except for once a month or every other month . It has nothing to do with the love and support not being there . Just because someone is n't able to tell you every day how much they love you , it does n't mean it 's not there . HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_168830.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'I finally understand the hate .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_33230.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Candytown Part 2 - this month 's free story - is now available on STRANGITIES.COM !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_65169.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I wish I was on holiday again'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_103170.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '( at Hayward , California ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_157829.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'New trending GIF tagged happy , yes , wwe , wrestling , win , joy , daniel bryan , happy gif , yes yes yes , yes gif via Giphy HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_87581.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':eyes: . . . . . ( at Louisiana ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_153232.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Lmao I took some pics of my ugly ass crying awhile back lol'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_175409.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Wish I was pretty .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_194697.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Found myself again , where we began and where I 've let you go :black_heart:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_58841.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ''\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_84266.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Calm before the storm , two Spinosaurs chillin .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_61371.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'If You Love Cats - Click Here For 1000 ' s More - HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_1526.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Relax'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_35927.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'With this guy this morning ? :) Very proud to understand this morning that he overcomes the world 's demands ( especially mine ) with sheer will power . He is already a better man than I am HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_167263.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '‏ أن ? الذي لم تحب ّ ني حب ً ا كامل ً ا .. لم تغب ْ غياب ً ا كامل ً ا أيض ً ا .. ما زال قلبي مكان ٌ لتجرحه من جديد .. تخي ّ ل .. أنا الذي أستوعبت كل ّ دروس الحياة .. لم أستوعب أي ّ درس معك .. أي ّ خيبة .. في كل مر ّ ة أجدني على استعداد لخيبة ٍ جديدة .. الخيبات التي تقاس بحجم الآمال .. هي الأعظم'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_174622.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New Post has been published on HTTPURL Innocent Slumber After spending the weekend with my son , I decided to raid the collection of photos that I took of him as a newborn / infant . One thing that I am constantly reminded of is that all life is precious and it 's in the raising of our children that the next generation succeeds .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_125356.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'quotes birthday -'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_128737.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Wow , Kylen ... wow ! :winking_face_with_tongue: :winking_face_with_tongue: :winking_face_with_tongue:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_24076.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'In honor of ‘ The Hunger Games ? release .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_74865.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Happy 4th of July Everyone 🇺 🇸 Be like hapa Caila Quinn good vibes exude positive and beauty all around :yellow_heart:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_119411.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'This angry quote is from “ How ? - a short poem about releasing anger . It is possible to listen to it now ! For details , click the link > HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_9693.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Fear ( 1996 )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_66124.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'The bakod looks nice so I just have this urge to stand there and take a photo . Lol ! :face_with_tears_of_joy: . . . . . :round_pushpin: Jiufen Old Street ( at Jiufen , Taipei , Taiwan ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_157980.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'me , being an unaware furry lesbian comic artist at thirteen : big mood i 'm going through my files and organizing stuff . which of course reminded me of this . young me did not have the words for it , but whitney and amelia were 100 % my type . insofar as sapient anthropormorphic animals go .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_126529.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I Refuse To Hate'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_26051.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Nice mobw.org/??free download love wallpaper for mobile mobile wallpaper 4kmobw.org/?- free download love wallpaper for mobile Source by juliamarshall 36'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_144604.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Happy New Year HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_158214.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'I just really hope that she does n't get hurt .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_40779.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Mexican food is so full of color , life , and music . It seems like a piñata exploding in your mouth ? ? Kate McLennan - What better way to describe this ? . . . . . . ( at Kampung Jimba )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_93014.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I fear that I may not like the 3rd season as much as I liked the first one . 2012-10- 27'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_74387.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'spent the morning making tea ~'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_51562.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'I 'm bored and feel like I have no friendsssss'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_18174.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'if you look closely , you can see the life being sucked out of my eyes .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_18994.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'I would chose you every time'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_170294.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: ''.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_132013.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Beautiful interior of Lyabi House hotel , located in the old town Samarkand . . ( at Samarkand ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_166223.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_156654.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'My art is often depressing but not with this one . This a new style of art I tried inspired by my best friend and my favorite anime . Repost if you like please . You can also share ur thoughts my messaging me .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_70217.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Rescuing one cat wo n't change the world ? but it will change the world for one cat . via HTTPURL putyouinabettermood.com'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_91799.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '“ Siempre hay un nuevo día para reinventarse ? :backhand_index_pointing_right: :medium-light_skin_tone: There 's always a new day to reinvent you :victory_hand: ? :grinning_face_with_big_eyes: no cuesta dinero :winking_face: :backhand_index_pointing_right: :medium-light_skin_tone: does n't coast money :dizzy: :folded_hands: :medium-light_skin_tone:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_91297.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Massage hand job happy ending HTTPURL Even if you do n't speak Mandarin , Chinese will still notice when you come home with a prostitute and they will talk about it . An American woman who had lived in Beijing for twenty years with her husband , one day found out that he had five girlfriends spread across Czech Slovakian , dating database , ending , hand , happy , massage'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_123231.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Valentinstag :two_hearts: :sparkling_heart: :two_hearts: HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_135581.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I 'm not extremely proud of this'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_194919.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'SOLD There you have it .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_14265.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'For me , life gets better every day :OK_hand: :light_skin_tone: :camera_with_flash: @USER . . . . ( en Container City )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_121252.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'No happy endings :wilted_flower: .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_25243.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '. . . ( at New York , New York ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155842.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '( man look at this low quality screenshot ) I just wanted to say something about Season 1 , Episode 13 . ( since I can't sleep ) I 'm currently watching through Magical Doremi , which is the 4kids dub , so this might not be as accurate , but I just want to talk about this one scene here and what it kinda means for me . This ep seems to be mostly about the fear of failure , at least in the first half since that 's what 's stressing Doremi / Dorie out . She 's mostly worried about failing the next witch test , and after seeing that she failed a math test , she does n't take it well and has to be dragged to the nurses office to rest . After she wakes up is when the nurse talks to her about her fear of failure and explains that she was once the same way . When she figured out that her fear of failure was holding her back from achieving things , basically causing most of her failures , she did n't let the fear get in her way anymore , and eventually things got better for her . That 's proba...'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_78461.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'As I live and breath ? ? ?'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_129473.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Sometimes you know when something is just right , you can feel the vibe and the energy move in the right direction and connections are made . Today was one of those days where the Anyone rules really come into play . . DO WHAT YOU LOVE . WORK WITH GREAT PEOPLE . FOLLOW THE CREATIVE . @USER @USER ( at Downtown Los Angeles ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_167739.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Just have been feeling cute lately and no one is here to love and appreciate ittttt :disappointed_face:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_40736.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Blame'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_193762.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Can you tell I was the first one ready'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_40791.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Sad teens With Happy faces :) : @USER'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_173038.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Cold waters II by leonid_litvac'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_47378.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Our dearest Luna , Adan and Alion :red_heart: ( à Paris , France )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_118584.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Starlight .. star bright .. im still up tonight .. @USER'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_40417.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'codeine crazy'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_175571.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Dolo but I still thug it out .. IG @USER'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_45086.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Process pictures of my new painting ( lineart ) from'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_50101.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Let me see what this California roll hitting fo ! ( at P . F . Chang 's )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_132488.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'A good choice every time ?'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_111596.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Average awkward teen Bill .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_170962.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Unhappy day :neutral_face:'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_32668.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Keep calm , and WHAT ? yeah drink vodka !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_55702.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '7/24 / 03 It 's been a week since I 've spend anytime with my friends . Everyone is all over the place and I 'm bored . Like really bored . When will one of my friends visit . I 'm actually counting the days until my brother comes back from acting camp . Maybe I should have gone with him and maybe I would n't be stuck at home with a broken leg . Maybe . Having a room to myself was awesome but it got boring fast ! ! ! There is not much to do when you are alone . When will Nick come back from visiting his grandma and why is Charlie so busy getting ready for a baby thats not even hers . Like I do n't get what is so exciting about a baby all they do is cry and poop . Lo keeps complaining that his sister wo n't stop crying I bet Charlie will do the same thing once the baby is here .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_39699.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: '4 days later and still heartbroken from the loss of my beautiful sister Mary passing away unexpectedly . No words really . We now are trying to spend time remembering her , looking through photo albums , hugging each other and trying our best to smile and love . Remember love heals and can truly help , so ? love more , hug more , say I love you more . Will always love you sis , wether you are here or in the next place , i 'll be here loving you . Know you are loved and Rest In Peace my sweet sister . :crying_face: :disappointed_face: :red_heart: ( at Glendora , California ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_154698.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Do not be afraid . He is with us . . . good morning easter monday ! :smiling_face_with_smiling_eyes: back to work ! :unamused_face: :grinning_face_with_smiling_eyes: . .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_65822.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I hate pink but love this ! Simple filtering was all it needed :OK_hand: Feed your fears with strength !'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_67869.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'we should ? .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_3145.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Good Morning & Happy ? Never let decide your ? Yepp that 's me'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_79171.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '?'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_173771.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Guidance HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_53916.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'You mus n't be afraid to dream a little bigger darling .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_73458.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'W Korea March 2019 , Editorial “ Couture Fairy Tale ? All Artisanal by Look 4 from Spring 2019 collection , Photographer Hyungsik Kim , styled by Lee Ye Jin . HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_150355.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'New GIPHY !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_113949.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'yeeeee . @USER . global @USER'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_93786.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'St . Patrick 's Eve !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_30518.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Fourway'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_148345.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Ugly knifemaker ( me ) and some knives :)'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_32117.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'My mom quilted a portrait of my dog . Dog for reference .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_18663.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Despite being a Florida girl in 3 degree weather , this place is gorgeous y'all ! This resort is perfect for adrenaline junkies and people who want to relax . There 's literally activities for everyone ! - @USER :black_heart: ? ? ? ? ( at The Blue Mountains , Ontario ) HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_152402.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Agreed .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_18081.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ''.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_95832.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Three different emoticons hand drawn on fingers by mheim 301165'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_51814.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'New trending GIF tagged angry , upset , boo , half baked , boo this man via Giphy HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_14038.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'If you want , we can be runaways . Running from any sight of love :musical_notes:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_21148.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'This great quote is from “ Faith and Insanity ? - an introspective poem in regards to the difficulties of pursuing your dreams . Hear this poem now ! For details , click here > HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_80466.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '# #'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_87362.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Untitled on We Heart It . HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_54151.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Enter in these dreams Call it reality'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155190.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '@USER ( at Scottsdale , Arizona )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_15196.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Storms are Forgotten in the Calm - Work the Angle Matt Andres Facebook | Instagram | Twitter'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_53204.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'More doodles . This time it 's my favorite comic redhead and her furry friend . It 's very clear I do n't want to be in this class anymore .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_30088.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Me dejas ver porno . ? . . . .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_93290.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Le migliori gif da GIPHY !'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_107510.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'I love girls and cold weather .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_32064.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Looks like my dolls fell , but I like it , it looks like Fear fainted and Sadness is comforting him . Fear : I do n't like the dark I need a night light AH what was that ? ? Sadness : aww , your anxiety makes me want to cry Joy : yay a hug party !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_65154.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'You never realise how boring your life is until someone asks what you do for fun'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_15620.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Imagine all the people , living life in peace . ( presso Statue Of Liberty , Liberty Island , New York City )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_190927.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '( 1 ) sorrow | Tumblr on We Heart It . HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_72602.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'New nail colour from ORLY New collection BREATHABLE TREATMENT + COLOR & healthy ( at Setia City Mall )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_112156.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Creativity is what makes me alive . ‘ adele ? artwork available Follow link in bio for more info { HTTPURL } . . . . . .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_63698.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'It 's just ? I could n't stop .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_184555.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Le migliori gif da GIPHY !'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_5076.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Great afternoon catching up with uni mates ! :nerd_face: :grinning_face_with_big_eyes: :victory_hand: ? l ( at Prae Wood Arms )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_112092.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Getting married on Monday :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes: :smiling_face_with_heart-eyes:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_120965.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '( via GIPHY )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_9967.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ':hourglass_done: ➜ Puzzle The Paw Patrol 9474 ( 26 pcs ) l Prix = ? 9,82 ? ? + Livraison Rapide ? HTTPURL Children deserve the best , that 's why we present to you Puzzle The Paw Patrol 9474 ( 26 pcs ) , ideal for those who seek quality products for their little ones ! Get The Paw Patrol and other brands and licences at the best prices ! Approx . dimensions : 33 x 60,9 cmMaterial : FoamPuzzle : 26 pcs | | | |'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_150475.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Big cats will be cats , no matter the size via HTTPURL putyouinabettermood.com'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_99497.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Singing with Cleverbot'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_104253.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ''\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_51391.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'More bomber jackets will be at the pop up on Saturday feb 10 at come join us there !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_133535.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'quotes birthday -'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_89315.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Soulmate anyone ?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_165167.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Dog skull study Stylograph on Paper ? Estilógrafo sobre papel ( en Carupa S . A . )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_66082.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Join me in Hell'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_84512.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Bienvenido Agosto :blue_heart: empiezo ese nuevo mes llena de energía positiva y emoción por las cosas que están por venir ! Les agradezco muchísimo por acompañarme en ese gran sueño :folded_hands: :light_skin_tone: :blue_heart:'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_105206.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'same'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_74117.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'I 'll have 6 soups please'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_187646.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Sandra Jonas Bacchi . Fear [: : SemAp FB | | SemAp :: ]'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_68345.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Fear'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_81210.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':smiling_face_with_heart-eyes: 🇳 🇬 :smiling_face_with_heart-eyes: We are Humbly inviting you to The Grand Finale of @USER . :fire: Our Professional Editorial Model Stephanie :heart_suit: :high-heeled_shoe: @USER Has Made it to top Finalists - Come and support her massive on the 16th Of December , 2016 , We are most grateful for your Support . 🇳 🇬 :shopping_bags: - - - :camera: - :heart_suit: :heart_suit: :heart_suit: :heart_suit: @USER @USER . management @USER . school @USER . academy - ( at 5STAR Advertising Agency ) HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_163701.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'OMG it 's New Year 's Eve :party_popper: :fireworks: :bottle_with_popping_cork: :clinking_glasses: @USER :sparkling_heart: ? HTTPURL ? ? ? ✮ ✮ ✮ ( på / i The Steam Hotel )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_87483.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'New pics from 08-15- 2017 . Kaley leaving her yoga class'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_103329.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Abandoned in Norway'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_24436.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '6'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_98408.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'New trending GIF tagged angry , mad , walk , foo fighters , pissed , dave grohl , road rage , roadrage via Giphy HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_9339.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Find you a good friend'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_134067.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Ever ranted for 26 hours because people made fun of something you liked'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_9553.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Little Sis @USER :deciduous_tree: :sun: :red_heart: ão ( em Guarapary , Espirito Santo , Brazil ) HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_153628.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Yeah @USER everyone in my life .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_175660.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Like or reblog if you use'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_183076.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: '. . . . . HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_169225.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'That 's me'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_82580.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'The Simpsons cuddle'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_126899.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ':jack-o-lantern: :crystal_ball: :crescent_moon: :crystal_ball: :jack-o-lantern:'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_18002.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'facebook.com/danismanhocam şilçam üneytarkın ümtazener ürsu'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_126619.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '“ A night of terror . ? An illustration from Echoes from the Rocky Mountains by John Clampitt ( 1889 ) . The imagery that Tumblr bizarrely deemed insensitive to community standards : Weblog ? Books ? Videos ? Music ? Etsy'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_67512.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'This great quote is from “ Faith and Insanity ? - an introspective poem about the difficulties of pursuing your dreams . You can hear this poem now ! For details , go here > HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_83372.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'When someone tells me Pokemon is for kids'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_13730.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'I really do ..'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_2705.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Non dobbiamo mai pensare che non esista abbastanza tempo per noi . ? A vedere il mare portaci chi ti sa capire senza parlare ? [ Sempre e per sempre dalla stessa parte mi troverai ]'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_95073.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Affordable Wedding Dresses : HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_155804.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'HTTPURL facebook.com/danismanhocam şilçam ıkakan ır'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_117904.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '@USER ... listen , review and Download this new reggae song titled “ The New Black ? by yours truly ... simply google “ The New Black by King Zeerowbadman Or ? CLICK HERE HTTPURL King 🆉 🅴 🅴 🆁 :O_button_(blood_type): 🆆 :B_button_(blood_type): :A_button_(blood_type): 🅳 🅼 :A_button_(blood_type): 🅽 . Call : + 2340818702 1616 Calabar Nigeria HTTPURL'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_143511.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Enamorada de nuestro bañador Cielo :revolving_hearts: :revolving_hearts: :revolving_hearts: Para cualquier consulta no dudéis en escribirme por aquí o a hello@laragazzapois.com Mil gracias a todas las que estáis confiando en @USER :smiling_face_with_smiling_eyes:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_119462.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Hi ! This is my story and If you could donate that would be absolutely amazing . If you can't please share this and spread the word ! HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_116930.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: ':sleepy_face:'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_41754.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Untitled on We Heart It .'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_1812.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'E eis que chega ao fim a calma do fim de semana . Prontos para mais uma semana daquelas ? ( em Delta Q - Avenida da Liberdade ) HTTPURL'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_52983.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Shit if this aint me'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Sad",
+        "image": "baiduyun_171877.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'otp happy design grunge menswear boho rosy hipsterf 4f girl fashion summer lol sunglasses diy landscape'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_169005.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: ''.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Bored",
+        "image": "baiduyun_41075.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Tbt !'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_58060.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Captain 's Log | December 13 , 2018 at 02:44 PM | Why am I a Weimaraner'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_163510.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Surf Girl'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_142393.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Me during finals week'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_4341.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'the Mist by * Pushok - 12 Really old work , but I still love it .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_74602.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'New GIPHY !'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_87672.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'god damnit , we can do this . listen / / download a continuation of a playlist that was put together when I needed it . these songs are important and healing and always help me , I hope they help you too .'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_52685.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Nothing can bring a real sense of security into the home except true love . AGREE ? ( at John Lewis Oxford Street )'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_130446.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'People can not think clearly when they are afraid . As numerous studies have shown , fear is the enemy of reason . It distorts emotions and perceptions , and often leads to poor decisions . ~ ( at Iheart Media Norfolk )'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_78650.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Ben fake değilim :unamused_face: :unamused_face: :unamused_face: ! — — — ? ! ( Arnavutköy Burger king )'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_106762.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'The crazy bugs I find , in this amazing world we share . Sorry this guy is a little out of focus he did n't want too many pictures this morning . Shot using an 10x macro lens on an .'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_50241.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: ':hundred_points: Philip ~ Making a wrong decision is understandable . Refusing to search continually for learning is not . . HuGe Deal 60 % OFF HTTPURL . owl tattoo | owl tattoo men | owls | owl drawing | owl pumpkin carving ideas | Owl Art | The Owl Teacher | barn owl primitives | Owl Cakes | Owls | Owl Theme Baby Shower HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_136387.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Howdy'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_43161.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'happy , viceland , yay , most expensivest , old people , woo hoo , olds'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_116174.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '1990/10 / 19'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_20362.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Merry Nollaig Shona Dhuit ! Feliz Natal / Boas Festas ! Feliz Navidad ! Joyeux Noël ! Zalig Kerstfeest ! Frohliche Weihnachten .'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_88714.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_172426.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_171387.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'Quand , à l'époque où t'étais célibataire endurci , tu crachais sur les gens en couple qui se prenaient la tête pour rien et qu'aujourd'hui tu fais parti de ces gens là'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Angry",
+        "image": "baiduyun_11245.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: '7181004'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_144156.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: '?'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Sad",
+        "image": "baiduyun_171233.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Seebensee ( hier : Seebensee )'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Calm",
+        "image": "baiduyun_63464.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Love :red_heart: Yourself'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_107339.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Day 10 Tarot and Fear Challenge What am i afraid I 'm missing ? Losing commitment and my motivation to achieve what i want . Losing all that I 've gained , earned and / or collected . Afraid of not having the success i desire and not knowing where i am with my future'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_69715.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'All the autumn colours :maple_leaf:'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_97530.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Alright Rodney ... I know you 're getting frustrated but I really need to read this ( at Southern Illinois University Edwardsville ) HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_31271.jpg"
+    },
+    {
+        "text_input": "A user post this image along with the caption: 'type of :red_heart: HTTPURL'\nWhat fine-grained emotion does the user want to convey?\nSelect from the following: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Love",
+        "image": "baiduyun_136297.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Best Shot of Kingfisher Diving'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Bored",
+        "image": "baiduyun_32238.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Calm your senses . :pig_face:'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Calm",
+        "image": "baiduyun_51246.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Keep Smiling :) )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_110587.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'Angry , son goku , dragon ball super , blue power @USER ( HTTPURL ) : HTTPURL'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Angry",
+        "image": "baiduyun_8056.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: '听说爱文身的女孩都不怕冷 ！ 少女银月深秋时节一条热裤足够了 ！ Tatoo Teen Girl Yin Yue Feel Hot ? girls HTTPURL'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Love",
+        "image": "baiduyun_141220.jpg"
+    },
+    {
+        "text_input": "What fine-grained emotion dose the following combination convey?\nThis image is associated with the following caption: 'Lucy & Happy by Sourbunny'.\nChoices: [Happy, Love, Sad, Fear, Angry, Calm, Bored]\nAnswer:",
+        "text_output": "Happy",
+        "image": "baiduyun_100578.jpg"
+    },
+    {
+        "text_input": "You are an emotion analyzer. Try to identify the fine-grained emotion that best fits the image and caption: 'The artiste'\nPossible answers: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Happy",
+        "image": "baiduyun_85515.jpg"
+    },
+    {
+        "text_input": "This image is associated with the following caption: 'Many of you people let destroy you . Many of you claim you are n't fearful . But , why do you need an AR - 15 to goto CVS ? Real Brave , Bro . Lmfao ( at CVS )'.\nWhat emotion dose this combination convey?\nOptions are: [Happy, Love, Sad, Fear, Angry, Calm, Bored]",
+        "text_output": "Fear",
+        "image": "baiduyun_77861.jpg"
+    },
+    {
+        "text_input": "Assess the fine-grained emotion of this post with the following caption: 'Just be yourself , without fear . Sólo se tu mismo , sin miedo .'.\nPick your answer from [Happy, Love, Sad, Fear, Angry, Calm, Bored].\nAnswer:",
+        "text_output": "Fear",
+        "image": "baiduyun_68279.jpg"
+    }
+]
