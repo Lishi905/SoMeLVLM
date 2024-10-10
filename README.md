@@ -855,11 +855,28 @@ The data used in this paper are from real users in diverse social media platform
 If you find our SoMeLVLM or datasets useful, we will greatly appreciate it if you could consider citing our paper:
 
 ```
-@article{zhang2024somelvlm,
-	author = {Xinnong Zhang and Haoyu Kuang and Xinyi Mou and Hanjia Lyu and Kun Wu and Siming Chen and Jiebo Luo and Xuanjing Huang and Zhongyu Wei},
-	title = {SoMeLVLM: A Large Vision Language Model for Social Media Processing},
-	year = {2024},
-	journal = {arXiv preprint arXiv: 2402.13022}
+@inproceedings{zhang-etal-2024-somelvlm,
+    title = "{S}o{M}e{LVLM}: A Large Vision Language Model for Social Media Processing",
+    author = "Zhang, Xinnong  and
+      Kuang, Haoyu  and
+      Mou, Xinyi  and
+      Lyu, Hanjia  and
+      Wu, Kun  and
+      Chen, Siming  and
+      Luo, Jiebo  and
+      Huang, Xuanjing  and
+      Wei, Zhongyu",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.140",
+    doi = "10.18653/v1/2024.findings-acl.140",
+    pages = "2366--2389",
 }
 ```
 
